@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T22:31:31.783826+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2025-12-15T23:31:17.277645+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时03分 ~ 22时31分]"
+          "appearance_count": 20,
+          "time_info": "[10时03分 ~ 23时31分]"
         },
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -47,6 +47,17 @@
           "time_info": "[12时06分 ~ 15时29分]"
         },
         {
+          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时31分]"
+        },
+        {
           "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
           "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
           "source": "凤凰网",
@@ -66,19 +77,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时41分 ~ 22时31分]"
+          "appearance_count": 16,
+          "time_info": "[14时41分 ~ 23时31分]"
         },
         {
-          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
+          "title": "日媒爆特朗普警告高市早苗别添乱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时31分]"
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -177,6 +188,20 @@
           "time_info": "[00时29分 ~ 05时22分]"
         },
         {
+          "title": "曝特朗普曾警告高市早苗别来添乱",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时31分]"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -188,19 +213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时23分]"
-        },
-        {
-          "title": "曝特朗普曾警告高市早苗别来添乱",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时31分]"
         },
         {
           "title": "特朗普指着台下女子说你好像伊万卡",
@@ -251,7 +263,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -309,13 +321,27 @@
           "time_info": "[10时03分 ~ 15时29分]"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时31分]"
+        },
+        {
           "title": "英伟达发布Nemotron 3开源模型系列。 英伟达美股盘前涨1.7%。",
           "url": "https://wallstreetcn.com/livenews/3021038",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -326,22 +352,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
-        },
-        {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时31分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -349,11 +362,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时45分 ~ 23时31分]"
+        },
+        {
+          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
+          "url": "https://www.cls.cn/detail/2229723",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时31分]"
+          "time_info": "[22时31分 ~ 23时31分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -374,7 +399,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -396,20 +421,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
         {
-          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
-          "url": "https://www.cls.cn/detail/2229723",
-          "source": "财联社热门",
+          "title": "行业ETF美股盘初普遍走高，半导体ETF涨1.41%，银行业ETF涨1.11%，可选消费ETF涨1.05%，科技行业ETF涨0.64%，能源业ETF跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3021053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时31分"
+        },
+        {
+          "title": "英伟达发布Nemotron 3开源模型系列，股价美股盘前涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3021038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
