@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:31:29.201606+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-12-21T17:25:00.561921+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -32,17 +32,6 @@
           "time_info": "[00时29分 ~ 10时02分]"
         },
         {
-          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
-          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 15时23分]"
-        },
-        {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
@@ -52,8 +41,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 17时25分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 15时23分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -73,11 +73,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 17时25分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -138,11 +139,12 @@
           "ranks": [
             10,
             12,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 17时25分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -196,8 +198,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 16时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 17时25分]"
         },
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -219,8 +221,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时25分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -230,11 +232,12 @@
             4,
             9,
             11,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 17时25分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -329,8 +332,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 17时25分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
