@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:51:27.229481+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-12-22T21:37:48.659867+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -70,6 +70,28 @@
           "time_info": "[00时28分 ~ 18时28分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时33分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -83,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时28分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[13时28分 ~ 21时37分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -100,17 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时06分 ~ 16时36分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 20时51分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -140,17 +151,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[02时33分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 20时51分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -282,6 +282,30 @@
           "time_info": "[00时29分 ~ 04时26分]"
         },
         {
+          "title": "据华盛顿邮报：特朗普召回驻外使馆及代表团的48名美国大使。",
+          "url": "https://flash.jin10.com/detail/20251222211021305800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时37分]"
+        },
+        {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
           "url": "https://wallstreetcn.com/livenews/3024905",
           "source": "华尔街见闻-快讯",
@@ -292,18 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时51分]"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时51分]"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -353,7 +365,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -385,6 +397,21 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时28分 ~ 21时37分]"
+        },
+        {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -397,18 +424,15 @@
           "time_info": "[16时35分 ~ 20时51分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
-            5,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时28分 ~ 20时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -426,11 +450,12 @@
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时37分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -449,11 +474,12 @@
           "url": "https://wallstreetcn.com/livenews/3024941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时37分]"
         },
         {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
@@ -462,7 +488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
