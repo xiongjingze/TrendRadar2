@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T13:28:46.289061+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-12-23T14:40:07.882018+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -30,6 +30,41 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -43,49 +78,16 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
-        },
-        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 14时40分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -94,11 +96,12 @@
           "ranks": [
             2,
             17,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时40分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -106,11 +109,26 @@
           "source": "今日头条",
           "ranks": [
             8,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 14时40分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -236,17 +254,17 @@
           "time_info": "07时23分"
         },
         {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
           "source": "百度热搜",
           "ranks": [
-            10,
-            14,
-            15
+            27,
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 14时40分]"
         },
         {
           "title": "美国总统特朗普：我们还将增加航空母舰。",
@@ -474,8 +492,8 @@
           "time_info": "[02时36分 ~ 03时21分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             27,
@@ -483,7 +501,18 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时40分 ~ 13时28分]"
+          "time_info": "[13时28分 ~ 14时40分]"
+        },
+        {
+          "title": "“特朗普级”战列舰性能如何",
+          "url": "https://www.toutiao.com/trending/7586915482419072538/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "特朗普宣布：建造特朗普级战列舰",
@@ -750,17 +779,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "美国总统特朗普：已就委内瑞拉问题与“大型”石油公司进行过对话。",
           "url": "https://flash.jin10.com/detail/20251223064255386800",
           "source": "金十数据",
@@ -820,8 +838,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时40分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -986,7 +1004,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -999,8 +1017,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时22分 ~ 13时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时22分 ~ 14时40分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -1013,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时25分]"
+        },
+        {
+          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
