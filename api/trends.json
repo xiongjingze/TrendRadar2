@@ -1,29 +1,30 @@
 {
-  "generated_at": "2025-12-23T16:35:33.582503+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-12-23T17:31:00.747833+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 17时31分]"
+        },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
           "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
           "source": "凤凰网",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 17时31分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -50,8 +51,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -65,18 +77,6 @@
           "time_info": "[09时57分 ~ 16时35分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 16时35分]"
-        },
-        {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
@@ -88,8 +88,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 17时31分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -131,6 +131,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时41分 ~ 15时28分]"
+        },
+        {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 17时31分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -269,19 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普：我们还将增加航空母舰。",
@@ -521,6 +533,18 @@
           "time_info": "[14时39分 ~ 15时28分]"
         },
         {
+          "title": "特朗普为何要造战列舰",
+          "url": "https://www.toutiao.com/trending/7586940405795524115/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普宣布：建造特朗普级战列舰",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%BB%BA%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0",
           "source": "百度热搜",
@@ -530,6 +554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普：我们还将与其他保险公司、汽车保险公司和房屋保险公司会面。",
@@ -719,17 +754,6 @@
           "time_info": "11时41分"
         },
         {
-          "title": "特朗普为何要造战列舰",
-          "url": "https://www.toutiao.com/trending/7586940405795524115/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20251223065414373800",
           "source": "金十数据",
@@ -832,7 +856,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -879,6 +903,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)美股盘前涨超7%，FDA批准诺和诺德减肥药Wegovy口服片，将于明年1月上市。",
+          "url": "https://flash.jin10.com/detail/20251223170301806800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
@@ -1042,11 +1088,12 @@
           "url": "https://wallstreetcn.com/livenews/3025481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "美元指数22日下跌",
@@ -1077,7 +1124,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -1099,8 +1146,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时22分 ~ 16时35分]"
+          "appearance_count": 20,
+          "time_info": "[01时22分 ~ 17时31分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
