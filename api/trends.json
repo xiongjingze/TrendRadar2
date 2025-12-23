@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:29:07.129201+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2025-12-23T19:23:12.985354+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时57分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 19时23分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 19时23分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -94,6 +94,17 @@
           "time_info": "[09时57分 ~ 18时29分]"
         },
         {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "如何看特朗普级战列舰计划",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时29分]"
         },
         {
           "title": "特朗普：美国“必须得到格陵兰岛”",
@@ -131,6 +131,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时28分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -161,6 +174,17 @@
           "time_info": "[11时41分 ~ 15时28分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普提出中美G2概念 日本不安",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
           "source": "百度热搜",
@@ -185,18 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -278,17 +290,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
           "url": "https://flash.jin10.com/detail/20251223061538967800",
           "source": "金十数据",
@@ -309,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223184540612800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
@@ -402,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20251223184036942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "Dominion Energy：对于美国“国家安全”而言，需要开发弗吉尼亚（周边海域）的风电项目。 当地风电项目有助于满足能源（电力）需求。 （特朗普政府）阻挠CVOW项目将对电网稳定性构成威胁。",
@@ -1162,8 +1185,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时22分 ~ 18时29分]"
+          "appearance_count": 24,
+          "time_info": "[01时22分 ~ 19时23分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
