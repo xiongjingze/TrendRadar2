@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:28:16.385201+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-12-24T16:35:51.183534+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时33分 ~ 12时39分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -44,6 +56,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时55分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 16时35分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -63,18 +88,6 @@
           "time_info": "[01时24分 ~ 09时55分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 15时28分]"
-        },
-        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -90,8 +103,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 16时35分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -103,11 +116,12 @@
             18,
             19,
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 15时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 16时35分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -121,18 +135,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时28分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
