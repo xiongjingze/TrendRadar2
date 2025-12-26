@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:27:12.261886+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2025-12-26T19:22:48.378045+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 19时22分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时22分]"
         },
         {
           "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
@@ -138,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -295,7 +295,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
