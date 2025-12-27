@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T17:25:16.107263+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-12-27T18:25:06.757870+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -51,11 +51,36 @@
             6,
             7,
             13,
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时25分]"
+        },
+        {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时25分]"
+          "time_info": "[15时22分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -86,41 +111,18 @@
           "time_info": "[01时22分 ~ 07时24分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 17时25分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时25分]"
-        },
-        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
           "ranks": [
             28,
             20,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 18时25分]"
         },
         {
           "title": "特朗普：美国目前没有承认索马里兰的计划",
@@ -137,6 +139,17 @@
           "time_info": "[14时37分 ~ 17时25分]"
         },
         {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
           "url": "https://flash.jin10.com/detail/20251227122711483800",
           "source": "金十数据",
@@ -151,6 +164,20 @@
           "time_info": "[13时26分 ~ 16时32分]"
         },
         {
+          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
+          "url": "https://flash.jin10.com/detail/20251227143953526800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
           "url": "https://flash.jin10.com/detail/20251227085451542800",
           "source": "金十数据",
@@ -160,19 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
-          "url": "https://flash.jin10.com/detail/20251227143953526800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -295,8 +309,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时54分 ~ 17时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时54分 ~ 18时25分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -307,8 +321,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时54分 ~ 17时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时54分 ~ 18时25分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -317,11 +331,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时54分 ~ 17时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时54分 ~ 18时25分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -335,8 +350,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 18时25分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
