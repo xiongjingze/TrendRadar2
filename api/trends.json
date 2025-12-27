@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:34:07.519294+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-12-28T03:19:27.352238+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时19分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -58,11 +58,12 @@
           "ranks": [
             17,
             28,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时19分]"
         },
         {
           "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
@@ -100,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时19分]"
         }
       ]
     }
