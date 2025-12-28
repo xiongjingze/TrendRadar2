@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T10:08:46.367173+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-12-28T12:10:46.831844+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -88,33 +88,36 @@
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时10分]"
         },
         {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
           "url": "https://flash.jin10.com/detail/20251228090052065800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时10分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 12时10分]"
         },
         {
           "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
@@ -128,13 +131,24 @@
           "time_info": "[02时33分 ~ 02时34分]"
         },
         {
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "特朗普这一年改变了什么",
           "url": "https://www.toutiao.com/trending/7588683907566931498/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
