@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:53:59.976372+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-12-29T21:41:14.467942+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时12分 ~ 17时35分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时41分 ~ 21时41分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -190,18 +202,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 20时53分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -930,6 +930,17 @@
           "time_info": "[00时31分 ~ 05时22分]"
         },
         {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时41分]"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20251229070023196800",
           "source": "金十数据",
@@ -939,17 +950,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -987,11 +987,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1000,9 +1001,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时41分]"
         }
       ]
     },
