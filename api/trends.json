@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T03:20:27.817899+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2025-12-30T04:29:17.512685+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -15,8 +15,44 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
+          "url": "https://flash.jin10.com/detail/20251230025252224800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普和内塔尼亚胡进入海湖庄园，开始双边会谈。",
+          "url": "https://flash.jin10.com/detail/20251230024419766800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
+          "url": "https://flash.jin10.com/detail/20251230024226042800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -24,132 +60,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
-          "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
-          "url": "https://flash.jin10.com/detail/20251230025252224800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普和内塔尼亚胡进入海湖庄园，开始双边会谈。",
-          "url": "https://flash.jin10.com/detail/20251230024419766800",
+          "title": "特朗普谈乌克兰试图袭击普京官邸：对此非常愤怒",
+          "url": "https://flash.jin10.com/detail/20251230032746103800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时29分"
         },
         {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
-          "url": "https://flash.jin10.com/detail/20251230024226042800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：我对从普京处获悉的消息感到非常愤怒。但乌克兰方面的袭击事件可能并未发生。",
-          "url": "https://flash.jin10.com/detail/20251230024141692800",
+          "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
+          "url": "https://flash.jin10.com/detail/20251230030508660800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时29分"
         },
         {
-          "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
-          "url": "https://wallstreetcn.com/livenews/3028306",
+          "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
+          "url": "https://wallstreetcn.com/livenews/3028316",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
-          "url": "https://flash.jin10.com/detail/20251230024049423800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：近期与委内瑞拉总统马杜罗对话，但没什么效果。",
-          "url": "https://wallstreetcn.com/livenews/3028305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：但和委内瑞拉总统马杜罗的交谈没什么结果。",
-          "url": "https://flash.jin10.com/detail/20251230023829953800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：很快将启动加沙地带（战后）重建。",
-          "url": "https://wallstreetcn.com/livenews/3028304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：我认为不赦免内塔尼亚胡是一件非常困难的事情。",
-          "url": "https://flash.jin10.com/detail/20251230023804750800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普：伊朗可能“重新集结”，必要时将出手",
-          "url": "https://wallstreetcn.com/livenews/3028303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时29分"
         },
         {
           "title": "俄总统助理：特朗普称普京官邸遭袭将影响美方与泽连斯基共事方式",
@@ -158,11 +107,35 @@
           "ranks": [
             1,
             14,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 04时29分]"
+        },
+        {
+          "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
+          "url": "https://flash.jin10.com/detail/20251230030257604800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗继续发展导弹，我将支持以色列攻击伊朗；如果伊朗拥有核武器，我们将立即发动攻击。",
@@ -170,22 +143,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美国总统特朗普：我最近和委内瑞拉总统马杜罗进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20251230023754680800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：如果他们存在，我们就必须击倒他们。伊朗应该达成协议，但有时情况并非如此。",
@@ -193,11 +156,38 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：我听说伊朗正试图重建军事力量。",
+          "url": "https://flash.jin10.com/detail/20251230023159473800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯必须解除武装。",
+          "url": "https://wallstreetcn.com/livenews/3028299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "特朗普政府将围绕美国农村的医疗保健问题宣布州政府拨款方案。",
@@ -237,39 +227,17 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "美国总统特朗普：我听说伊朗正试图重建军事力量。",
-          "url": "https://flash.jin10.com/detail/20251230023159473800",
+          "title": "美国总统特朗普：我们将与以色列总理内塔尼亚胡讨论土耳其问题。",
+          "url": "https://flash.jin10.com/detail/20251230023051799800",
           "source": "金十数据",
           "ranks": [
-            3,
-            15
+            7,
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美国总统特朗普：哈马斯必须解除武装。",
-          "url": "https://wallstreetcn.com/livenews/3028299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
-          "url": "https://flash.jin10.com/detail/20251230023701512800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京告诉特朗普，俄罗斯有意继续与美国合作以实现和平，但俄罗斯的立场将会有所调整。",
@@ -282,6 +250,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "美国总统特朗普：我不清楚俄罗斯方面关于乌克兰试图袭击普京住所的声明。与普京的会谈很愉快。我们只有极少数棘手的问题。",
+          "url": "https://flash.jin10.com/detail/20251230023041025800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普确认美军在委内瑞拉行动中打击一座大型设施。",
+          "url": "https://flash.jin10.com/detail/20251230022945165800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "俄总统助理：特朗普对乌无人机袭击普京官邸“震惊和愤怒”",
@@ -309,6 +303,18 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "美国总统特朗普：我对从普京处获悉的消息感到非常愤怒。但乌克兰方面的袭击事件可能并未发生。",
+          "url": "https://flash.jin10.com/detail/20251230024141692800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
           "title": "白宫发言人Leavitt：美国总统特朗普与俄罗斯总统普京关于乌克兰问题的通话“气氛是积极的”。",
           "url": "https://wallstreetcn.com/livenews/3028254",
           "source": "华尔街见闻-快讯",
@@ -319,6 +325,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
+        },
+        {
+          "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
+          "url": "https://wallstreetcn.com/livenews/3028306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：但哈马斯必须先解除武装。",
+          "url": "https://flash.jin10.com/detail/20251230022839740800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普及其关键顾问向俄罗斯总统普京详细通报了与乌克兰的谈判情况。",
@@ -333,15 +364,28 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
+          "url": "https://flash.jin10.com/detail/20251230024049423800",
+          "source": "金十数据",
           "ranks": [
-            17
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：近期与委内瑞拉总统马杜罗对话，但没什么效果。",
+          "url": "https://wallstreetcn.com/livenews/3028305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：当俄罗斯总统普京向美国总统特朗普提及针对俄罗斯总统府的无人机袭击时，特朗普感到震惊。",
@@ -356,16 +400,28 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "美国总统特朗普：我们将与以色列总理内塔尼亚胡讨论土耳其问题。",
-          "url": "https://flash.jin10.com/detail/20251230023051799800",
+          "title": "美国总统特朗普：但和委内瑞拉总统马杜罗的交谈没什么结果。",
+          "url": "https://flash.jin10.com/detail/20251230023829953800",
           "source": "金十数据",
           "ranks": [
             7,
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：很快将启动加沙地带（战后）重建。",
+          "url": "https://wallstreetcn.com/livenews/3028304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告诉美国总统特朗普，乌克兰对俄罗斯总统府发动了无人机袭击。",
@@ -380,40 +436,52 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "美国总统特朗普：我不清楚俄罗斯方面关于乌克兰试图袭击普京住所的声明。与普京的会谈很愉快。我们只有极少数棘手的问题。",
-          "url": "https://flash.jin10.com/detail/20251230023041025800",
+          "title": "美国总统特朗普：我认为不赦免内塔尼亚胡是一件非常困难的事情。",
+          "url": "https://flash.jin10.com/detail/20251230023804750800",
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
-          "title": "美国总统特朗普确认美军在委内瑞拉行动中打击一座大型设施。",
-          "url": "https://flash.jin10.com/detail/20251230022945165800",
+          "title": "特朗普：伊朗可能“重新集结”，必要时将出手",
+          "url": "https://wallstreetcn.com/livenews/3028303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：我最近和委内瑞拉总统马杜罗进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20251230023754680800",
           "source": "金十数据",
           "ranks": [
             9,
-            21
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
-          "title": "美国总统特朗普：但哈马斯必须先解除武装。",
-          "url": "https://flash.jin10.com/detail/20251230022839740800",
+          "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
+          "url": "https://flash.jin10.com/detail/20251230023701512800",
           "source": "金十数据",
           "ranks": [
             10,
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普：希望尽快进入加沙计划的第二阶段。",
@@ -421,11 +489,49 @@
           "source": "金十数据",
           "ranks": [
             11,
-            23
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "俄总统助理：特朗普建议乌方不要试图争取喘息之机",
+          "url": "https://wallstreetcn.com/livenews/3028285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：加沙的重建即将开始。",
+          "url": "https://flash.jin10.com/detail/20251230023558517800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
+          "url": "https://flash.jin10.com/detail/20251230023402802800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时29分]"
         },
         {
           "title": "特朗普政府将宣布面向农村卫生事业的州级拨款。",
@@ -446,18 +552,6 @@
           "ranks": [
             13,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "俄总统助理：特朗普建议乌方不要试图争取喘息之机",
-          "url": "https://wallstreetcn.com/livenews/3028285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -488,26 +582,15 @@
           "time_info": "[01时23分 ~ 02时36分]"
         },
         {
-          "title": "美国总统特朗普：加沙的重建即将开始。",
-          "url": "https://flash.jin10.com/detail/20251230023558517800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
-          "url": "https://flash.jin10.com/detail/20251230023402802800",
-          "source": "金十数据",
+          "title": "特朗普会晤内塔尼亚胡，就伊朗核问题再次发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3028315",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时29分"
         },
         {
           "title": "特朗普称美军在委内瑞拉行动中摧毁一大型设施",
@@ -589,8 +672,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -601,8 +684,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股盘中）",
@@ -641,8 +724,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -652,8 +735,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（12月29日）纽约尾盘，ICE美元指数涨0.01%，报98.028点，日内交投区间为97.915-98.177点，整体出现三波V形反转和随之而来的冲高回落。 彭博美元指数涨0.02%，报1201.15点，日内交投区间为1199.80-1202.54点。",
+          "url": "https://wallstreetcn.com/livenews/3028317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     }
