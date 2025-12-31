@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:35:42.700797+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-31T17:29:53.268814+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,22 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            10,
+            5,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
           "url": "https://wallstreetcn.com/articles/3762272",
           "source": "华尔街见闻",
@@ -52,21 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 05时24分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            10,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 15时27分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -305,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 16时35分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 17时29分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
