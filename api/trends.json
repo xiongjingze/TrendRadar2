@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:51:47.912407+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2025-12-31T21:35:47.842501+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -89,8 +89,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时35分]"
         },
         {
           "title": "特朗普为何称不担心解放军绕台军演",
@@ -328,8 +328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 20时51分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 21时35分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -579,7 +579,7 @@
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Qwen-Image-2512开源发布",
@@ -604,6 +604,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 02时37分]"
+        },
+        {
+          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
+          "url": "https://wallstreetcn.com/articles/3762335",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
