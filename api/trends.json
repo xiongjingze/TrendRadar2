@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:29:10.551308+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-01-02T05:23:43.226965+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时29分]"
-        },
-        {
-          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
-          "url": "https://flash.jin10.com/detail/20260102011611465800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -42,30 +28,47 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时23分]"
+        },
+        {
+          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260102011611465800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            9,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时23分]"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
           "url": "https://flash.jin10.com/detail/20260102032453188800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
         },
         {
           "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
           "url": "https://flash.jin10.com/detail/20260102030004557800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -107,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -120,8 +123,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -134,8 +137,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     },
@@ -154,8 +157,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -199,8 +202,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时23分]"
         }
       ]
     }
