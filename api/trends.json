@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T13:30:35.008097+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-01-02T14:39:42.661472+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "特朗普承认手上瘀伤是服用药物造成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -139,22 +150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 13时30分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 13时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -166,8 +163,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 13时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 14时39分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9,
+            13,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -190,11 +202,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 14时39分]"
         }
       ]
     },
@@ -261,8 +274,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 13时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
