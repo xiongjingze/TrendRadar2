@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:45:18.088479+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-01-02T13:30:35.008097+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -139,8 +139,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时30分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -153,8 +153,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时30分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 13时30分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -172,27 +185,16 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时45分]"
-        },
-        {
           "title": "UP主解读DeepSeek梁文锋新论文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时30分]"
         }
       ]
     },
@@ -259,8 +261,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时30分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -279,11 +281,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时30分]"
         }
       ]
     }
