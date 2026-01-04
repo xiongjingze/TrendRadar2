@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:20:57.736240+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-01-04T20:49:34.084067+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 172,
+      "match_count": 173,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 20时49分]"
         },
         {
           "title": "特朗普：美国将接管委内瑞拉事务",
@@ -78,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 20时49分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -113,6 +113,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 10时10分]"
+        },
+        {
+          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
+          "url": "https://wallstreetcn.com/articles/3762495",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 20时49分]"
         },
         {
           "title": "美官员称特朗普下令对委内瑞拉境内目标实施打击",
@@ -190,17 +203,18 @@
           "time_info": "[00时29分 ~ 13时29分]"
         },
         {
-          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
-          "url": "https://wallstreetcn.com/articles/3762495",
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            3
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 20时49分]"
         },
         {
           "title": "特朗普称美国将“管理”委内瑞拉",
@@ -247,19 +261,6 @@
           "time_info": "[10时09分 ~ 19时20分]"
         },
         {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时37分 ~ 19时20分]"
-        },
-        {
           "title": "特朗普召开新闻发布会",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%AC%E5%BC%80%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -274,8 +275,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时49分]"
         },
         {
           "title": "特朗普发布马杜罗在美舰照片",
@@ -288,11 +289,12 @@
             11,
             21,
             22,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[02时34分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[02时34分 ~ 20时49分]"
         },
         {
           "title": "特朗普公布马杜罗被抓捕后画面",
@@ -347,8 +349,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时49分]"
         },
         {
           "title": "特朗普",
@@ -409,8 +411,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时49分]"
         },
         {
           "title": "特朗普：美将管理委直至安全过渡",
@@ -524,8 +526,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 19时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 20时49分]"
         },
         {
           "title": "特朗普发布马杜罗在美舰照片",
@@ -863,17 +865,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
-          "url": "https://flash.jin10.com/detail/20260104184157171800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "特朗普：如有需要美国已准备好发动第二次袭击",
           "url": "https://flash.jin10.com/detail/20260104004630848800",
           "source": "金十数据",
@@ -931,6 +922,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时49分]"
         },
         {
           "title": "特朗普下令打击委内瑞拉境内目标",
@@ -1121,6 +1125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时49分]"
         },
         {
           "title": "特朗普称美国大型石油公司将前往委内瑞拉",
@@ -1314,18 +1330,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时20分]"
         },
         {
           "title": "活捉马杜罗 特朗普玩火",
@@ -1891,6 +1895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "特朗普：美国将“接管”委内瑞拉和石油，何时还给委内瑞拉人由美国决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32309419",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "特朗普将深度参与委内瑞拉总统人选",
