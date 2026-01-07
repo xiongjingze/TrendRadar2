@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T07:25:44.326489+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-01-07T09:59:34.087938+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时59分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -74,6 +74,29 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
+          "url": "https://news.ifeng.com/c/8piFwnPic7a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
           "url": "https://wallstreetcn.com/livenews/3031862",
           "source": "华尔街见闻-快讯",
@@ -96,6 +119,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
@@ -144,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         },
         {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
@@ -276,6 +321,17 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
+          "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
+          "url": "https://www.cls.cn/detail/2249781",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "特朗普：医疗保险费太贵了。",
           "url": "https://flash.jin10.com/detail/20260107001105236800",
           "source": "金十数据",
@@ -285,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普称委将向美移交3至5千万桶石油",
+          "url": "https://www.toutiao.com/trending/7591944349484089350/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：希望最高法院（围绕关税官司）做出对国家有利的决定。",
@@ -408,6 +475,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "布油期货开盘跌1%至每桶60.09美元，此前特朗普表示委内瑞拉将把受制裁的石油交给美国。",
+          "url": "https://wallstreetcn.com/livenews/3032000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "美国总统特朗普重申对国防承包商的批评。",
           "url": "https://flash.jin10.com/detail/20260107000144682800",
           "source": "金十数据",
@@ -428,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普考虑动用美军获取格陵兰岛",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%83%E8%99%91%E5%8A%A8%E7%94%A8%E7%BE%8E%E5%86%9B%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普称将与石油公司和保险公司举行会谈",
@@ -524,7 +613,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -557,7 +646,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -565,8 +654,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时59分]"
+        },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
@@ -577,18 +679,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 06时26分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
         },
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -604,26 +694,38 @@
           "time_info": "[00时35分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 09时59分]"
+        },
+        {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时59分"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
