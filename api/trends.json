@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T03:24:23.261728+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-01-08T04:31:18.415097+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -25,22 +25,12 @@
           "ranks": [
             7,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时24分]"
-        },
-        {
-          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
-          "url": "https://flash.jin10.com/detail/20260108031010315800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -50,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -61,19 +51,52 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
-          "title": "特朗普质疑北约在美国需要时会否给予支持",
-          "url": "https://wallstreetcn.com/livenews/3032651",
+          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3032666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普向国防承包商回购股票的做法发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3032663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260108032933903800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "预测市场认为：特朗普今年拿下格陵兰的胜算不高",
@@ -110,6 +133,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
+          "url": "https://flash.jin10.com/detail/20260108032629292800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
           "url": "https://wallstreetcn.com/livenews/3032614",
           "source": "华尔街见闻-快讯",
@@ -119,6 +153,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260108031010315800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时31分]"
         },
         {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
@@ -133,16 +179,41 @@
           "time_info": "[01时31分 ~ 02时39分]"
         },
         {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://wallstreetcn.com/livenews/3032651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时31分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            20
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
+          "url": "https://flash.jin10.com/detail/20260108024142434800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时24分]"
+          "time_info": "[03时24分 ~ 04时31分]"
         },
         {
           "title": "特朗普推动禁止机构投资者购房",
@@ -168,6 +239,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
+          "url": "https://flash.jin10.com/detail/20260108031728568800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
           "url": "https://flash.jin10.com/detail/20260108015016701800",
           "source": "金十数据",
@@ -177,17 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
-          "url": "https://flash.jin10.com/detail/20260108024142434800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         },
         {
           "title": "特朗普：我将呼吁美国国会将其编入法典。",
@@ -229,7 +300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -266,22 +337,24 @@
           "url": "https://wallstreetcn.com/livenews/3032657",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时31分]"
         },
         {
           "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
           "url": "https://flash.jin10.com/detail/20260108030510490800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时31分]"
         }
       ]
     },
@@ -310,6 +383,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
