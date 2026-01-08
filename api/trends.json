@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T12:43:41.176771+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-01-08T13:29:45.956245+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -39,11 +39,12 @@
           "ranks": [
             16,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 13时29分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -65,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时29分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -74,11 +75,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时29分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -103,16 +118,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
           "ranks": [
-            10,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "time_info": "[12时43分 ~ 13时29分]"
         },
         {
           "title": "据美国财经媒体Semafor：美国财长贝森特、美国商务部长卢特尼克、美国能源部长赖特将与美国总统特朗普一同出席达沃斯世界经济论坛。",
@@ -143,7 +157,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -181,6 +195,30 @@
           "time_info": "10时00分"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
           "url": "https://wallstreetcn.com/livenews/3032837",
           "source": "华尔街见闻-快讯",
@@ -203,15 +241,16 @@
           "time_info": "10时00分"
         },
         {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
           "ranks": [
-            8
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
@@ -412,18 +451,6 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时43分]"
-        },
-        {
           "title": "美国交通部：特朗普政府扣留了加州政府1.6亿美元资金，原因是该州未能撤销超过17,000张由外国人持有的商业驾照。",
           "url": "https://flash.jin10.com/detail/20260108060318362800",
           "source": "金十数据",
@@ -470,18 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时43分]"
         },
         {
           "title": "美国白宫：美国总统特朗普签署总统备忘录，指示美国退出66个不再符合美国利益的国际组织。",
@@ -618,7 +633,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -847,8 +862,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时29分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -858,8 +873,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 13时29分]"
         },
         {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
