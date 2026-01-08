@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:25:20.480268+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-01-08T20:55:28.490546+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 20时55分]"
         },
         {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
@@ -79,11 +79,12 @@
             13,
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 20时55分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -128,6 +129,18 @@
           "time_info": "[00时36分 ~ 07时25分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时55分]"
+        },
+        {
           "title": "特朗普退出联合国机构一览表",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
           "source": "bilibili 热搜",
@@ -151,17 +164,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时46分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -285,6 +287,17 @@
           "time_info": "10时00分"
         },
         {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
           "url": "https://flash.jin10.com/detail/20260108032933903800",
           "source": "金十数据",
@@ -398,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普宣布扩军计划 重燃全球军工行情",
+          "url": "https://flash.jin10.com/detail/20260108203127157800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -934,7 +958,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1008,8 +1032,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 20时55分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1175,7 +1199,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
