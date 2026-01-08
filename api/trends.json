@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-08T17:33:16.676462+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-01-08T18:29:56.783101+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时46分 ~ 18时29分]"
+        },
         {
           "title": "特朗普的下一步，难了",
           "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 11时46分]"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时46分 ~ 17时33分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时46分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[11时46分 ~ 18时29分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -59,6 +59,18 @@
           "time_info": "[00时36分 ~ 07时25分]"
         },
         {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
           "source": "澎湃新闻",
@@ -70,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 18时29分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -86,18 +98,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时36分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 17时33分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -153,6 +153,17 @@
           "time_info": "[11时46分 ~ 16时36分]"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时29分]"
+        },
+        {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
           "url": "https://wallstreetcn.com/livenews/3032696",
           "source": "华尔街见闻-快讯",
@@ -173,17 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "据美国财经媒体Semafor：美国财长贝森特、美国商务部长卢特尼克、美国能源部长赖特将与美国总统特朗普一同出席达沃斯世界经济论坛。",
@@ -305,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "特朗普称美将持续多年管理委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3033213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -827,6 +838,28 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普关税政策引发避险潮 外资2025年扫货日股规模创12年新高",
+          "url": "https://flash.jin10.com/detail/20260108175028140800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "特朗普称2027年军费预算1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B02027%E5%B9%B4%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%971.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
           "url": "https://flash.jin10.com/detail/20260108053149928800",
           "source": "金十数据",
@@ -904,6 +937,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108174643235800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "外媒：特朗普正固化美国全球流氓形象",
           "url": "https://www.toutiao.com/trending/7591748193269137471/",
           "source": "今日头条",
@@ -951,8 +995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1008,7 +1052,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1124,11 +1168,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 18时29分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
