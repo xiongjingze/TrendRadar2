@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T06:24:33.511824+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-01-12T07:24:10.500571+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -27,20 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -51,8 +39,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 07时24分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -69,18 +81,6 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
-        },
-        {
           "title": "全美抗议 特朗普“后院”失火",
           "url": "https://www.toutiao.com/trending/7594088610216361990/",
           "source": "今日头条",
@@ -88,32 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 06时24分]"
-        },
-        {
-          "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
-          "url": "https://flash.jin10.com/detail/20260112043545440800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
-          "url": "https://flash.jin10.com/detail/20260112042340511800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 07时24分]"
         },
         {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
@@ -142,6 +118,46 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
+          "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
+          "url": "https://flash.jin10.com/detail/20260112043545440800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "美媒：特朗普将于周二讨论针对伊朗的潜在措施",
+          "url": "https://flash.jin10.com/detail/20260112042340511800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3034760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时24分]"
+        },
+        {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
           "url": "https://wallstreetcn.com/livenews/3034734",
           "source": "华尔街见闻-快讯",
@@ -152,19 +168,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3034760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -205,11 +208,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
         }
       ]
     },
@@ -248,6 +252,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260112070303731800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -259,26 +292,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
+          "title": "微软(MSFT.O)：Microsoft Foundry中的Claude增强了面向医疗健康和生命科学客户的能力。",
+          "url": "https://flash.jin10.com/detail/20260112062355901800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            3
+            10
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     }
