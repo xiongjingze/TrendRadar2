@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:45:21.712659+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2026-01-13T22:31:38.354269+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时57分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时57分 ~ 22时31分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -107,8 +107,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时57分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时57分 ~ 22时31分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -136,6 +136,18 @@
           "time_info": "[11时43分 ~ 16时37分]"
         },
         {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 22时31分]"
+        },
+        {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
           "url": "https://wallstreetcn.com/articles/3763119",
           "source": "华尔街见闻",
@@ -146,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时57分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时57分 ~ 22时31分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -162,18 +174,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时32分 ~ 13时31分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 21时45分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -225,8 +225,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时31分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -339,7 +339,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -876,7 +876,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -890,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "丹麦首相：（谈特朗普对格陵兰岛的兴趣）有大量证据表明，最艰难的部分还在后面。",
+          "url": "https://flash.jin10.com/detail/20260113220415069800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
@@ -1071,8 +1082,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时57分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时57分 ~ 22时31分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1085,8 +1096,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时57分 ~ 21时45分]"
+          "appearance_count": 19,
+          "time_info": "[09时57分 ~ 22时31分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1113,6 +1124,18 @@
           "time_info": "[09时57分 ~ 14时41分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时31分]"
+        },
+        {
           "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -1133,17 +1156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "苹果接入Gemini模型想做啥",
@@ -1288,7 +1300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1353,17 +1365,6 @@
           "time_info": "[17时32分 ~ 19时25分]"
         },
         {
-          "title": "美国CPI数据公布后，美股股指期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3036204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "美股集体低开 中概股逆势走强",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
           "source": "百度热搜",
@@ -1410,6 +1411,18 @@
           "time_info": "[05时26分 ~ 06时23分]"
         },
         {
+          "title": "美国CPI数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3036204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时31分]"
+        },
+        {
           "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
           "url": "https://wallstreetcn.com/livenews/3035592",
           "source": "华尔街见闻-快讯",
@@ -1444,6 +1457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时33分 ~ 18时30分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3036218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
@@ -1568,8 +1592,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时37分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[16时37分 ~ 22时31分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -1633,7 +1657,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
