@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T07:23:52.940084+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-01-14T10:04:45.109703+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时04分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -72,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
@@ -579,6 +590,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
           "url": "https://flash.jin10.com/detail/20260114015201758800",
           "source": "金十数据",
@@ -662,7 +684,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -810,6 +832,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "据AXIOS网站：特朗普称他知道可能对伊朗采取的应对措施，但他强调尚未做出决定。他说他需要今天晚些时候了解伊朗局势和死亡人数的准确情况。",
+          "url": "https://flash.jin10.com/detail/20260114090134298800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -838,7 +871,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -967,7 +1000,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -982,6 +1015,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 06时27分]"
+        },
+        {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 10时04分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1015,17 +1071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
@@ -1122,8 +1167,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时04分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1207,8 +1252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 10时04分]"
         }
       ]
     },
