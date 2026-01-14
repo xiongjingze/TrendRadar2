@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:36:54.375638+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-14T17:34:34.144053+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -66,6 +66,18 @@
           "time_info": "[00时37分 ~ 05时26分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时04分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时36分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -103,6 +104,32 @@
           "time_info": "[10时04分 ~ 15时31分]"
         },
         {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 17时34分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
@@ -114,17 +141,15 @@
           "time_info": "07时23分"
         },
         {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
+          "title": "英国央行委员泰勒：特朗普关税促使出口国寻找替代市场 英国通胀得以缓解",
+          "url": "https://flash.jin10.com/detail/20260114171639019800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            13,
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -147,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
@@ -687,6 +701,18 @@
           "time_info": "[14时40分 ~ 15时31分]"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
           "url": "https://flash.jin10.com/detail/20260114034153120800",
           "source": "金十数据",
@@ -819,6 +845,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "美国特使威特科夫和特朗普女婿或在不久后前往莫斯科与普京会面",
+          "url": "https://flash.jin10.com/detail/20260114164958044800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
           "url": "https://wallstreetcn.com/livenews/3036306",
           "source": "华尔街见闻-快讯",
@@ -918,6 +955,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国众议院议长约翰逊：特朗普无需在爱泼斯坦案调查中作证。",
           "url": "https://flash.jin10.com/detail/20260113234352865800",
           "source": "金十数据",
@@ -1012,7 +1060,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -1127,17 +1175,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1152,7 +1189,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1176,8 +1213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时04分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 17时34分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1226,6 +1263,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "携程(TCOM.O)美股盘前下跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260114170230347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国总统特朗普赞赏美股的表现。",
           "url": "https://wallstreetcn.com/livenews/3036366",
           "source": "华尔街见闻-快讯",
@@ -1260,6 +1308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时23分]"
+        },
+        {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -1351,6 +1410,18 @@
           "time_info": "[02时36分 ~ 06时27分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时34分]"
+        },
+        {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
           "url": "https://www.cls.cn/detail/2256720",
           "source": "财联社热门",
@@ -1371,17 +1442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         }
       ]
     },
@@ -1451,7 +1511,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
