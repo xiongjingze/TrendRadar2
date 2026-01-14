@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:31:26.400272+08:00",
-  "total_titles_processed": 2088,
+  "generated_at": "2026-01-14T23:31:40.887866+08:00",
+  "total_titles_processed": 2191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 115,
+      "match_count": 122,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 23时31分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -42,19 +55,6 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时31分]"
-        },
-        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时11分 ~ 21时43分]"
+          "appearance_count": 12,
+          "time_info": "[12时11分 ~ 23时31分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -99,11 +99,12 @@
             18,
             16,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时31分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -168,6 +169,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "美国最高法院未就特朗普关税的合法性作出裁决",
+          "url": "https://flash.jin10.com/detail/20260114232658833800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
           "url": "https://flash.jin10.com/detail/20260114201722365800",
           "source": "金十数据",
@@ -207,7 +219,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -380,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "美最高法院未就特朗普政府关税合法性作出裁决",
+          "url": "https://wallstreetcn.com/livenews/3037174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
@@ -807,6 +830,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "美最高法院未就特朗普政府关税合法性作出裁决",
+          "url": "https://flash.jin10.com/detail/20260114231759371800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国总统特朗普上周在一场活动上称美国的检察官软弱。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3036391",
           "source": "华尔街见闻-快讯",
@@ -873,6 +907,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3037168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
           "url": "https://flash.jin10.com/detail/20260114063417981800",
           "source": "金十数据",
@@ -893,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "特朗普当场被激怒，白宫称抗议者是“歇斯底里的疯子”，福特将其停职",
+          "url": "https://wallstreetcn.com/livenews/3037167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
@@ -972,6 +1028,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "美国最高法院未就特朗普关税的合法性作出裁决。",
+          "url": "https://flash.jin10.com/detail/20260114231225342800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普将率“最大美国代表团”出席达沃斯论坛",
           "url": "https://wallstreetcn.com/livenews/3036705",
           "source": "华尔街见闻-快讯",
@@ -981,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普当场被激怒，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3037163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
@@ -1327,7 +1405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1337,8 +1415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时04分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 23时31分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1399,6 +1477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "伊朗局势担忧加剧，美股指期货跌幅扩大，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1471,6 +1560,17 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -1510,7 +1610,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1653,7 +1753,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1709,8 +1809,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时31分]"
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时31分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
