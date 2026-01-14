@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:31:37.931716+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-01-14T19:25:56.322967+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 104,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -74,8 +74,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 19时25分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时25分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -102,18 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时04分 ~ 15时31分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -521,6 +521,19 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时25分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗最好老实点。",
           "url": "https://flash.jin10.com/detail/20260114055446897800",
           "source": "金十数据",
@@ -593,17 +606,17 @@
           "time_info": "[04时31分 ~ 05时26分]"
         },
         {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            26,
-            27
+            19,
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时31分]"
+          "time_info": "[17时34分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
@@ -700,18 +713,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "特朗普演讲时突然模仿拜登",
@@ -1166,6 +1167,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "刘和平：特朗普抛弃“台独”是算计",
+          "url": "https://www.toutiao.com/trending/7595056380969812031/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -1194,6 +1206,17 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 19时25分]"
+        },
+        {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -1206,17 +1229,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 06时27分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 18时31分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1419,11 +1431,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时25分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
