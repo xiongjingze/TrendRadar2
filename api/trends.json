@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:40:18.689390+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-01-15T15:29:49.199481+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,31 @@
           "time_info": "[00时36分 ~ 09时59分]"
         },
         {
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 15时29分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普特使秘密见了伊朗末代王储",
           "url": "https://news.ifeng.com/c/8puGHxn1NbX",
           "source": "凤凰网",
@@ -32,31 +57,6 @@
           "time_info": "[00时36分 ~ 04时27分]"
         },
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 14时40分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 14时40分]"
-        },
-        {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
           "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
           "source": "凤凰网",
@@ -64,8 +64,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 15时29分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 15时29分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -77,19 +91,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时27分 ~ 07时22分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 14时40分]"
         },
         {
           "title": "委内瑞拉代总统和特朗普通话",
@@ -871,8 +872,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 15时29分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -928,7 +929,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1102,11 +1103,12 @@
             13,
             12,
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 15时29分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
