@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T01:36:52.503708+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-01-16T02:42:51.351875+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
+          "url": "https://wallstreetcn.com/livenews/3038164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "特朗普直播打瞌睡被小女孩发现",
@@ -53,6 +75,17 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://wallstreetcn.com/livenews/3038163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
           "url": "https://flash.jin10.com/detail/20260116002613616800",
           "source": "金十数据",
@@ -64,15 +97,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
+          "url": "https://wallstreetcn.com/livenews/3038162",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -207,7 +240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
@@ -223,13 +256,24 @@
           "time_info": "00时40分"
         },
         {
+          "title": "房贷利率跌至三年新低 特朗普2000亿购债计划初见成效",
+          "url": "https://flash.jin10.com/detail/20260116010632374800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
           "url": "https://flash.jin10.com/detail/20260116002858964800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         }
@@ -237,18 +281,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -261,6 +306,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时36分]"
+        },
+        {
+          "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
+          "url": "https://flash.jin10.com/detail/20260116013602991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "OpenAI：公司已参与脑机接口（BCI）初创公司Merge Labs的种子轮融资。",
+          "url": "https://flash.jin10.com/detail/20260116013554892800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "OpenAI 布局美国供应链 全线扩张软硬件版图",
@@ -277,7 +344,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -288,8 +355,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -299,8 +366,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260116013113671800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260116013016089800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -324,11 +413,12 @@
           "url": "https://flash.jin10.com/detail/20260116010451484800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时42分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -336,11 +426,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         }
       ]
     },
@@ -353,11 +444,12 @@
           "url": "https://www.zhihu.com/question/1995072623625855863",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时42分]"
         }
       ]
     },
@@ -370,11 +462,12 @@
           "url": "https://wallstreetcn.com/livenews/3038139",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时42分]"
         }
       ]
     }
