@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:24:58.668164+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-01-15T20:54:40.507895+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 20时54分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -73,6 +73,18 @@
           "time_info": "[09时59分 ~ 15时29分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普特使秘密见了伊朗末代王储",
           "url": "https://news.ifeng.com/c/8puGHxn1NbX",
           "source": "凤凰网",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时24分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -114,8 +114,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时54分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时54分]"
         },
         {
           "title": "委内瑞拉代总统和特朗普通话",
@@ -140,18 +152,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时36分 ~ 17时33分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -296,7 +296,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -931,7 +931,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -941,8 +941,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 20时54分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1034,7 +1034,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1121,6 +1121,28 @@
           "time_info": "17时33分"
         },
         {
+          "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3037995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "高盛：第四季度净营收134.5亿美元，同比下降3%。 第四季度投资银行业务营收25.8亿美元，同比+25%。 第四季度每股收益14.01美元。 第四季度FICC业务销售和交易营收 31.1亿美元，市场预估29.5亿美元。 第四季度股票销售和交易业务营收43.1亿美元，市场预估36.5亿美元。 高盛美股盘前涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013113108800",
           "source": "金十数据",
@@ -1138,7 +1160,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1246,8 +1268,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时48分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 20时54分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -1286,6 +1308,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时22分]"
+        },
+        {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1312,25 +1364,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时22分]"
         }
       ]
     },
