@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:27:02.276695+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-17T12:36:20.380279+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 12时36分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 12时36分]"
         },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -76,11 +76,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 11时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 12时36分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -93,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 12时36分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -112,11 +113,12 @@
           "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 12时36分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -124,11 +126,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 12时36分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -136,11 +139,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 12时36分]"
         },
         {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
@@ -148,11 +152,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 11时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 12时36分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -412,6 +417,32 @@
           "time_info": "[02时39分 ~ 04时27分]"
         },
         {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时36分]"
+        },
+        {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时36分]"
+        },
+        {
           "title": "美国总统特朗普在致埃及总统塞西的信中表示，美国已准备好重启在埃及与埃塞俄比亚之间的调解工作，以期“一劳永逸”地解决尼罗河水分配问题。",
           "url": "https://flash.jin10.com/detail/20260117042328558800",
           "source": "金十数据",
@@ -495,18 +526,6 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时27分]"
-        },
-        {
           "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
           "url": "https://wallstreetcn.com/livenews/3039027",
           "source": "华尔街见闻-快讯",
@@ -529,18 +548,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时28分]"
-        },
-        {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时27分]"
         },
         {
           "title": "美国总统特朗普：信中已有美联储主席人选。",
@@ -749,11 +756,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 11时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 12时36分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -873,11 +881,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时36分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1044,11 +1053,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时36分]"
         }
       ]
     }
