@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-19T07:24:30.765170+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-01-19T10:07:03.344075+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
-        },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
           "url": "https://news.ifeng.com/c/8q1PDnUocDO",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -47,22 +48,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -74,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -183,6 +186,17 @@
           "time_info": "[00时30分 ~ 05时22分]"
         },
         {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
           "url": "https://wallstreetcn.com/livenews/3039284",
           "source": "华尔街见闻-快讯",
@@ -222,6 +236,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 05时22分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -286,6 +311,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 05时22分]"
+        },
+        {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
@@ -436,7 +472,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -446,8 +482,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -460,6 +496,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 03时20分]"
+        },
+        {
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
@@ -476,8 +523,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时07分]"
         }
       ]
     },
@@ -497,6 +544,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 05时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     }
