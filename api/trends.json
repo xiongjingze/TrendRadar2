@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T21:54:07.500611+08:00",
-  "total_titles_processed": 1865,
+  "generated_at": "2026-01-20T22:36:56.949638+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 21时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时08分 ~ 22时36分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -96,6 +96,18 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 22时36分]"
+        },
+        {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
           "url": "https://news.ifeng.com/c/8q3qn0KjEks",
           "source": "凤凰网",
@@ -120,18 +132,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时25分 ~ 15时32分]"
-        },
-        {
-          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
-          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 21时54分]"
         },
         {
           "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
@@ -160,6 +160,21 @@
           "time_info": "[10时01分 ~ 16时38分]"
         },
         {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时36分]"
+        },
+        {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
           "url": "https://news.ifeng.com/c/8q3GKEPO18N",
           "source": "凤凰网",
@@ -169,6 +184,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时38分 ~ 07时26分]"
+        },
+        {
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时36分]"
         },
         {
           "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
@@ -185,31 +214,30 @@
           "time_info": "[16时38分 ~ 21时54分]"
         },
         {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
+          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
+          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6,
-            4,
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时54分]"
+          "time_info": "[18时34分 ~ 22时36分]"
         },
         {
-          "title": "“特朗普计划4月访华”，中方回应",
-          "url": "https://www.cls.cn/detail/2263523",
-          "source": "财联社热门",
+          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
+          "url": "https://www.zhihu.com/question/1996539214104322510",
+          "source": "知乎",
           "ranks": [
+            18,
+            15,
             9,
-            6,
-            5
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时36分]"
         },
         {
           "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
@@ -222,31 +250,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时33分 ~ 17时37分]"
-        },
-        {
-          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
-          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 21时54分]"
-        },
-        {
-          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
-          "url": "https://www.zhihu.com/question/1996539214104322510",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时54分]"
         },
         {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
@@ -396,7 +399,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -407,18 +410,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
-          "url": "https://wallstreetcn.com/livenews/3040510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -456,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普有关格陵兰岛的关税威胁是合理运用关税。",
+          "url": "https://flash.jin10.com/detail/20260120223039850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国总统特朗普：北约20年来一直在就俄罗斯威胁向丹麦发出警告。",
@@ -604,7 +607,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -645,6 +648,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时29分]"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
+          "url": "https://wallstreetcn.com/livenews/3040510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时36分]"
+        },
+        {
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时36分]"
         },
         {
           "title": "特朗普威胁对法国葡萄酒征200%关税",
@@ -730,18 +757,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时23分]"
-        },
-        {
-          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 21时54分]"
         },
         {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
@@ -854,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "英国财政大臣里夫斯：我们绝对希望在格陵兰岛问题上与美国总统特朗普缓和局势。",
+          "url": "https://flash.jin10.com/detail/20260120222800077800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。 我们将在达沃斯讨论格陵兰岛问题。 在达沃斯我们安排了很多次会议。 不认为欧盟会在格陵兰岛问题上过度抵制。 不关心诺贝尔和平奖。我关心的是拯救生命。 已经邀请普京加入和平理事会。 达沃斯之行会非常有趣。 20年来北约一直在警告丹麦来自俄罗斯的威胁。",
@@ -986,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国财长贝森特：鼓励欧洲人对格陵兰岛持开放态度。 重申勿对美国就格陵兰岛的举措采取报复行动。 多亏了特朗普，北约联盟才如此安全稳固。 很难将市场反应与日本内部正在发生的情况分离开来。 我已经和日本财务大臣谈过了。 可以肯定的是，日本会发表一些言论以“稳定市场情绪”。 通过金融稳定监督委员会，银行监管机构进行了大量的放松管制措施。",
+          "url": "https://wallstreetcn.com/livenews/3040511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美媒：特朗普拒绝表明他是否会动用武力来夺取格陵兰岛",
@@ -1212,7 +1249,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -1224,8 +1261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时25分 ~ 21时54分]"
+          "appearance_count": 19,
+          "time_info": "[07时25分 ~ 22时36分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -1239,6 +1276,19 @@
           "time_info": "[00时36分 ~ 05时25分]"
         },
         {
+          "title": "美股纳指期货跌2%，Applovin盘前大跌10%，日债引领全球国债抛售潮，黄金站上4700、白银95美元！",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时36分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1250,27 +1300,16 @@
           "time_info": "[06时26分 ~ 06时27分]"
         },
         {
-          "title": "美股纳指期货跌2%，Applovin盘前大跌10%，日债引领全球国债抛售潮，黄金站上4700、白银95美元！",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 21时54分]"
-        },
-        {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2264127",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 22时36分]"
         },
         {
           "title": "Applovin美股盘前跌超10%，现报511.53美元。Capitalwatch指控APPLovin“广告即洗钱”，协助“东南亚杀猪盘” 。",
@@ -1282,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "美股三大指数大幅低开",
+          "url": "https://flash.jin10.com/detail/20260120223022654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "欧美股市跌幅扩大，纳斯达克100指数期货跌2%，德国DAX指数跌超1%",
@@ -1312,17 +1362,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3040513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "美元指数DXY一度下跌0.6%至98.46的低点，势创12月10日以来的最大单日跌幅。",
           "url": "https://flash.jin10.com/detail/20260120171113235800",
           "source": "金十数据",
@@ -1332,6 +1371,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
+        },
+        {
+          "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3040513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时36分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -1397,8 +1448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 21时54分]"
+          "appearance_count": 8,
+          "time_info": "[17时37分 ~ 22时36分]"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
