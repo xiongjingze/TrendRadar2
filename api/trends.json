@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T20:56:38.330811+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2026-01-23T21:47:35.399528+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 119,
+      "match_count": 121,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -169,6 +169,18 @@
           "time_info": "[00时40分 ~ 14时41分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 21时47分]"
+        },
+        {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
           "url": "https://news.ifeng.com/c/8q96HMKxd1u",
           "source": "凤凰网",
@@ -225,16 +237,31 @@
           "time_info": "[00时40分 ~ 07时27分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            1
+            19,
+            15,
+            14,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时47分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时35分 ~ 20时56分]"
+          "time_info": "[18时31分 ~ 21时47分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -252,6 +279,17 @@
           "time_info": "[00时40分 ~ 07时27分]"
         },
         {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时47分]"
+        },
+        {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
           "source": "澎湃新闻",
@@ -265,27 +303,16 @@
           "time_info": "[02时39分 ~ 07时27分]"
         },
         {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
           "ranks": [
-            7,
+            6,
             2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
-        },
-        {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
+          "time_info": "[19时25分 ~ 21时47分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -298,20 +325,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时36分 ~ 18时31分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -327,15 +340,28 @@
         },
         {
           "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            2
+            16,
+            9,
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时47分]"
+        },
+        {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时47分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -431,17 +457,6 @@
           "time_info": "[02时39分 ~ 04时34分]"
         },
         {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普讨论了用于防空的额外导弹、PAC-3和反导系统，并希望取得积极成果。",
           "url": "https://flash.jin10.com/detail/20260123162234105800",
           "source": "金十数据",
@@ -451,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
+          "url": "https://flash.jin10.com/detail/20260123211920762800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
@@ -508,19 +534,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 06时29分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
         },
         {
           "title": "特朗普态度为何突然转变",
@@ -692,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "据Politico：美国陆军部长Dan Driscoll已抵达阿联酋，与美国中东问题特使威特科夫以及特朗普的女婿贾里德·库什纳会合。",
+          "url": "https://flash.jin10.com/detail/20260123210516908800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "特朗普：启程返回华盛顿 达沃斯之行非常精彩",
@@ -1477,6 +1501,18 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时47分]"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后跌超4%。",
           "url": "https://flash.jin10.com/detail/20260123050245110800",
           "source": "金十数据",
@@ -1533,17 +1569,6 @@
           "time_info": "[19时26分 ~ 20时56分]"
         },
         {
-          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260123024054852800",
           "source": "金十数据",
@@ -1585,7 +1610,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1596,7 +1621,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1651,7 +1676,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1724,11 +1749,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 21时47分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -1938,8 +1964,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时47分]"
         }
       ]
     }
