@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:39:42.863340+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-01-26T18:33:06.918054+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 18时33分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -54,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 17时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 18时33分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -82,19 +95,6 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 17时39分]"
-        },
-        {
           "title": "特朗普施压后，英国突然叫停",
           "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
           "source": "凤凰网",
@@ -117,6 +117,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时32分 ~ 18时33分]"
         },
         {
           "title": "美国财长贝森特：特朗普很看重北约。",
@@ -156,6 +168,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时11分 ~ 13时36分]"
+        },
+        {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时33分]"
         },
         {
           "title": "特朗普治下的石油套利：外资贸易行接管委内瑞拉出口 利润空间惊人",
@@ -198,29 +221,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 17时39分]"
-        },
-        {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五分拨款草案的立法程序。",
@@ -389,7 +389,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -401,6 +401,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 14时43分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时33分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -428,17 +439,6 @@
           "time_info": "[16时38分 ~ 16时39分]"
         },
         {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -456,31 +456,88 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时33分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时33分]"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
+          "url": "https://flash.jin10.com/detail/20260126180007441800",
+          "source": "金十数据",
+          "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "18时33分"
+        },
+        {
+          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
+          "url": "https://flash.jin10.com/detail/20260126175458514800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
+          "url": "https://flash.jin10.com/detail/20260126175411590800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },
