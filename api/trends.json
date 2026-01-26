@@ -1,49 +1,12 @@
 {
-  "generated_at": "2026-01-26T23:34:38.960499+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2026-01-27T00:39:56.782052+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
-          "url": "https://wallstreetcn.com/articles/3764090",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时11分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 20时57分]"
-        },
-        {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时19分]"
-        },
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
           "url": "https://news.ifeng.com/c/8qEKozGmbDH",
@@ -52,340 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时39分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 19时25分]"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时11分]"
-        },
-        {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普施压后，英国突然叫停",
-          "url": "https://news.ifeng.com/c/8qBdM8lHY0b",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时32分 ~ 19时25分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普重视北约。 特朗普高度专注于打造最强大的北约。",
-          "url": "https://wallstreetcn.com/livenews/3043399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普很看重北约。",
-          "url": "https://flash.jin10.com/detail/20260125225503860800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://www.cls.cn/detail/2268653",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时57分 ~ 23时34分]"
-        },
-        {
-          "title": "一天过去，特朗普从愤怒变成“非常难过”",
-          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时36分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时57分 ~ 23时34分]"
-        },
-        {
-          "title": "特朗普治下的石油套利：外资贸易行接管委内瑞拉出口 利润空间惊人",
-          "url": "https://flash.jin10.com/detail/20260125224413717800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
-          "url": "https://flash.jin10.com/detail/20260125223326726800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
-          "url": "https://flash.jin10.com/detail/20260125220223986800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五分拨款草案的立法程序。",
-          "url": "https://wallstreetcn.com/livenews/3043405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "00时39分"
         },
         {
-          "title": "特朗普称现在阻止白宫宴会厅建设“为时已晚”",
-          "url": "https://flash.jin10.com/detail/20260126050304284800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时25分]"
-        },
-        {
-          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3043386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时23分]"
-        },
-        {
-          "title": "美国明尼苏达州多位CEO呼吁缓解特朗普移民局与抗议者之间的紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3043410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲有何深意",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
-          "url": "https://flash.jin10.com/detail/20260126064839967800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普的唐罗主义是什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%94%90%E7%BD%97%E4%B8%BB%E4%B9%89%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "特朗普政府被爆考虑全面封锁古巴石油进口，克宫回应：令人担忧",
-          "url": "https://wallstreetcn.com/livenews/3043955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时57分]"
-        },
-        {
-          "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五份拨款草案的立法程序。",
-          "url": "https://wallstreetcn.com/livenews/3043405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
-          "url": "https://flash.jin10.com/detail/20260126042756695800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时25分]"
-        },
-        {
-          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
-          "url": "https://flash.jin10.com/detail/20260125194457069800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "大众CEO：若特朗普不削减关税，奥迪美国工厂计划可能搁置",
-          "url": "https://wallstreetcn.com/livenews/3043413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时25分]"
+          "time_info": "00时39分"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -394,475 +47,65 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "美国稀土(USAR.O)：美国政府的资金将从今年开始，分阶段拨付，直至2029年特朗普卸任前结束。",
-          "url": "https://flash.jin10.com/detail/20260126215948779800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
-        },
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "俄外交部证实俄方曾向特朗普发出访俄邀请，但之后没有取得任何实质性进展",
-          "url": "https://wallstreetcn.com/livenews/3043426",
+          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
+          "url": "https://wallstreetcn.com/livenews/3044110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "00时39分"
         },
         {
-          "title": "特朗普：司法部和国会正在调查奥马尔众议员。 特朗普称今晚派白宫边境事务负责人Tom Homan去明尼苏达州。 Homan将从明尼苏达州直接向我汇报工作.",
-          "url": "https://wallstreetcn.com/livenews/3044039",
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "稀土概念股USAR涨25.88%——此前一度涨29%创10月13日以来最大盘中涨幅，UUUU涨4.35%，ETF XME涨1.58%，MP材料跌0.09%，NB跌19.5%。 美国总统特朗普的商务部向USA Rare Earth提供13亿美元贷款和2.77亿美元联邦拨款，该公司将对美国商务部发行1610万股普通股和1760万认股权证。",
-          "url": "https://wallstreetcn.com/livenews/3044070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "俄专家称特朗普炫新型武器“纯属政治表态”",
-          "url": "https://wallstreetcn.com/livenews/3044069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "柬埔寨首相 ：柬埔寨将加入美国总统特朗普的和平委员会。",
-          "url": "https://flash.jin10.com/detail/20260126185401881800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "特朗普就移民执法人员枪杀美公民发声",
-          "url": "https://www.toutiao.com/trending/7599204696355504171/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "前白宫新闻秘书喊话特朗普",
-          "url": "https://www.toutiao.com/trending/7599500906279288851/",
-          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "特朗普与奥巴马克林顿呛声",
-          "url": "https://www.toutiao.com/trending/7598711075387195443/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "德防长：建议特朗普道歉但不抱希望",
-          "url": "https://www.toutiao.com/trending/7599628634244694058/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "00时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时39分 ~ 23时34分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 14时43分]"
-        },
-        {
-          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
-          "url": "https://flash.jin10.com/detail/20260125221344220800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-26）",
-          "url": "https://flash.jin10.com/detail/20260126221652476800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
-          "url": "https://flash.jin10.com/detail/20260126172109775800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
-          "url": "https://flash.jin10.com/detail/20260126181759623800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
-          "url": "https://flash.jin10.com/detail/20260126181712395800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国稀土(USAR.O)美股盘前涨幅收窄，现涨12.6%。",
-          "url": "https://flash.jin10.com/detail/20260126204312954800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时50分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3044049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "00时39分"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
           "url": "https://www.cls.cn/detail/2270324",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时33分 ~ 23时34分]"
-        },
-        {
-          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
-          "url": "https://wallstreetcn.com/livenews/3043857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时33分]"
-        },
-        {
-          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3043852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时33分]"
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘前短线拉升，一度涨超11%。",
-          "url": "https://flash.jin10.com/detail/20260126210223888800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "CoreWeave美股盘前涨超10%，报道称英伟达向CoreWeave A类普通股投资20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3044022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "Allied Gold美股盘前一度涨近9%，紫金黄金国际拟以280亿元收购其100%股权",
-          "url": "https://wallstreetcn.com/livenews/3043979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
-          "url": "https://flash.jin10.com/detail/20260126180007441800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美国稀土(USAR.O)美股盘前短线走低，现涨幅收窄至21%。",
-          "url": "https://flash.jin10.com/detail/20260126201420424800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
-          "url": "https://flash.jin10.com/detail/20260126175458514800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
-          "url": "https://flash.jin10.com/detail/20260126175411590800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "IONQ美股盘前涨超3%，该公司将以每股35美元的价格收购Skywater Technology。",
-          "url": "https://wallstreetcn.com/livenews/3044013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "IONQ美股盘前涨2.7%；该公司将以每股35美元的价格收购Skywater Technology。",
-          "url": "https://flash.jin10.com/detail/20260126205303894800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "英特尔(INTC.O)延续上周五的跌势，美股盘初跌3.6%。",
-          "url": "https://flash.jin10.com/detail/20260126224209981800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数短线波动不大，现报97.27。",
-          "url": "https://wallstreetcn.com/livenews/3044038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "美元指数走弱，日元、欧元周一走强",
-          "url": "https://wallstreetcn.com/livenews/3043439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "美元指数短线波动不大，现报97.27。现货黄金5分钟内下跌13.28美元/盎司，报5060.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3044038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 17时39分]"
-        },
-        {
-          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
-          "url": "https://www.zhihu.com/question/1993355026530317494",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
+          "time_info": "00时39分"
         }
       ]
     },
@@ -875,28 +118,11 @@
           "url": "https://wallstreetcn.com/livenews/3044092",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
-          "url": "https://wallstreetcn.com/livenews/3044091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "00时39分"
         }
       ]
     },
@@ -905,15 +131,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
-          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
+          "url": "https://flash.jin10.com/detail/20260127000150023800",
           "source": "金十数据",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
+          "url": "https://flash.jin10.com/detail/20260126235706137800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
