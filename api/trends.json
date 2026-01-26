@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T07:25:15.357108+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-01-26T10:11:35.602581+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时11分]"
         },
         {
           "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
@@ -32,40 +44,6 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
           "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
           "source": "澎湃新闻",
@@ -74,6 +52,30 @@
             4,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 10时11分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -221,13 +223,24 @@
           "time_info": "[05时23分 ~ 07时25分]"
         },
         {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
           "url": "https://flash.jin10.com/detail/20260126064839967800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -323,7 +336,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
