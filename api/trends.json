@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:33:21.339742+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-28T14:42:51.641067+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -26,20 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 13时33分]"
-        },
-        {
-          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
-          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 14时42分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -49,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 14时42分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -59,7 +47,20 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 14时42分]"
+        },
+        {
+          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
+          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -100,6 +101,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "“美元微笑理论”提出者称特朗普言论或意味着美元新一轮跌势的开始",
+          "url": "https://wallstreetcn.com/livenews/3045330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
           "url": "https://wallstreetcn.com/livenews/3045037",
           "source": "华尔街见闻-快讯",
@@ -111,6 +123,18 @@
           "time_info": "07时27分"
         },
         {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时42分]"
+        },
+        {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
           "url": "https://flash.jin10.com/detail/20260128035859142800",
           "source": "金十数据",
@@ -120,6 +144,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
@@ -144,16 +180,15 @@
           "time_info": "07时27分"
         },
         {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
+          "title": "特朗普回应美公民被ICE枪杀",
+          "url": "https://www.douyin.com/hot/2381946",
+          "source": "抖音",
           "ranks": [
-            9,
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -229,17 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -540,7 +564,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -573,7 +597,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -691,7 +715,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -710,11 +734,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 13时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时42分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -772,6 +797,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美股期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.47%，道指期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3044985",
           "source": "华尔街见闻-快讯",
@@ -817,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -869,6 +916,19 @@
           "time_info": "[00时36分 ~ 05时23分]"
         },
         {
+          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
+          "url": "https://www.cls.cn/detail/2271889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时42分]"
+        },
+        {
           "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
           "url": "https://flash.jin10.com/detail/20260128093741134800",
           "source": "金十数据",
@@ -878,18 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
-          "url": "https://www.cls.cn/detail/2271889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时33分]"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -990,11 +1038,12 @@
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 14时42分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -1065,11 +1114,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时42分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -1154,11 +1204,12 @@
           "ranks": [
             4,
             7,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 12时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 14时42分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
