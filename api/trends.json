@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:34:29.227892+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2026-01-28T19:27:30.851517+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时03分 ~ 19时27分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时33分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时33分 ~ 19时27分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -112,9 +112,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -569,9 +569,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128183238468800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
@@ -797,7 +808,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -888,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "康宁(GLW.N)美股盘前涨5.3%，即将公布业绩；摩根大通此前上调该公司的目标价。",
@@ -1017,8 +1039,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时03分 ~ 19时27分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -1039,7 +1061,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1061,7 +1083,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1083,7 +1105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1094,7 +1116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1140,7 +1162,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -1289,11 +1311,12 @@
             3,
             2,
             1,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 19时27分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
