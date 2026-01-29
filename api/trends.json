@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:35:41.765909+08:00",
-  "total_titles_processed": 1833,
+  "generated_at": "2026-01-29T21:06:40.761378+08:00",
+  "total_titles_processed": 1952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -150,19 +150,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时42分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 21时06分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 21时06分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -175,6 +176,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 12时42分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时50分 ~ 21时06分]"
+        },
+        {
+          "title": "特朗普呼吁降息",
+          "url": "https://wallstreetcn.com/livenews/3046487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
@@ -219,19 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时50分 ~ 19时35分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普的美联储主席人选可能会在一周左右浮出水面。（雅虎财经）",
@@ -625,7 +638,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -726,7 +739,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -742,6 +755,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "阿里巴巴美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3046478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
           "url": "https://flash.jin10.com/detail/20260129051658551800",
           "source": "金十数据",
@@ -752,6 +776,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时32分]"
+        },
+        {
+          "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3046473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "IBM(IBM.N)美股盘前涨7.9%，四季度业绩超出预期。",
@@ -807,6 +842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -910,6 +956,68 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "金十整理：云增速放缓、被指患上“OpenAI依赖症”， 微软遭投行集体“砍价”",
+          "url": "https://flash.jin10.com/detail/20260129202302435800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时06分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -937,8 +1045,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时50分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时50分 ~ 21时06分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1009,46 +1117,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
-          "url": "https://flash.jin10.com/detail/20260129071859575800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
-          "url": "https://flash.jin10.com/detail/20260129071311535800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
