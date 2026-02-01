@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T22:32:03.878760+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-02-01T23:31:44.201311+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时34分 ~ 19时26分]"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时35分 ~ 23时31分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -59,20 +73,6 @@
           "time_info": "[00时34分 ~ 07时28分]"
         },
         {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时35分 ~ 22时32分]"
-        },
-        {
           "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
           "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
           "source": "凤凰网",
@@ -93,6 +93,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 23时31分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -144,15 +155,28 @@
           "time_info": "[02时38分 ~ 10时45分]"
         },
         {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
           "source": "凤凰网",
           "ranks": [
-            5
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 22时32分]"
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 23时31分]"
+        },
+        {
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 23时31分]"
         },
         {
           "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
@@ -170,28 +194,17 @@
           "time_info": "[15时40分 ~ 21时50分]"
         },
         {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7
+            11,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 22时32分]"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 22时32分]"
+          "appearance_count": 7,
+          "time_info": "[19时26分 ~ 23时31分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -248,19 +261,6 @@
           "time_info": "[10时45分 ~ 16时38分]"
         },
         {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 22时32分]"
-        },
-        {
           "title": "特朗普：希望沃什能降低利率。",
           "url": "https://wallstreetcn.com/livenews/3047748",
           "source": "华尔街见闻-快讯",
@@ -273,6 +273,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时45分 ~ 16时38分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            11,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 23时31分]"
         },
         {
           "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
@@ -302,20 +317,6 @@
           "time_info": "[00时34分 ~ 01时27分]"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时32分]"
-        },
-        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://wallstreetcn.com/livenews/3047762",
           "source": "华尔街见闻-快讯",
@@ -328,6 +329,36 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时56分 ~ 18时31分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
+          "url": "https://flash.jin10.com/detail/20260201190211010800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            13,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 23时31分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
+          "url": "https://flash.jin10.com/detail/20260201185420868800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            15,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 23时31分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -372,7 +403,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -399,6 +430,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
+          "url": "https://wallstreetcn.com/livenews/3047823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普：美伊正在谈判",
           "url": "https://www.douyin.com/hot/2385844",
           "source": "抖音",
@@ -408,20 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
-          "url": "https://flash.jin10.com/detail/20260201190211010800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时32分]"
         },
         {
           "title": "特朗普谈及古巴 称将达成协议",
@@ -435,20 +463,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时05分 ~ 16时38分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
-          "url": "https://flash.jin10.com/detail/20260201185420868800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时32分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -670,11 +684,12 @@
             6,
             11,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 22时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 23时31分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -735,8 +750,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 22时32分]"
+          "appearance_count": 6,
+          "time_info": "[20时58分 ~ 23时31分]"
         }
       ]
     },
