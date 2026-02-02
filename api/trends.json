@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:38:59.018413+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-02-02T21:09:15.374241+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -361,6 +361,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普拟设120亿美元关键矿产战略储备",
+          "url": "https://flash.jin10.com/detail/20260202202100630800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -370,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "据外媒报道，特朗普计划启动一项120亿美元的矿产储备计划，美国稀土公司盘前拉升，现涨近6%。",
+          "url": "https://flash.jin10.com/detail/20260202201412706800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "美国稀土公司（USA Rare Earth）盘前拉升，现涨超3%，特朗普拟启动120亿美元战略矿产储备。",
+          "url": "https://wallstreetcn.com/livenews/3048345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "新爱泼斯坦档案特朗普被提超千次",
@@ -397,7 +430,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -465,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "迪士尼美股盘前转涨，现涨超3%，公司第一季度调整后每股收益超市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3048339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
