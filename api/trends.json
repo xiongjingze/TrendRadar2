@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:46:09.279651+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-02-05T19:39:24.296964+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时56分 ~ 18时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时56分 ~ 19时39分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时51分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[01时51分 ~ 19时39分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -160,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
-          "url": "https://wallstreetcn.com/livenews/3050592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
@@ -305,6 +294,18 @@
           "time_info": "[03时42分 ~ 04时40分]"
         },
         {
+          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
+          "url": "https://wallstreetcn.com/livenews/3050592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时39分]"
+        },
+        {
           "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -359,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -433,8 +434,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时28分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时39分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -471,8 +472,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 19时39分]"
         },
         {
           "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
@@ -794,11 +795,12 @@
           "ranks": [
             12,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 19时39分]"
         },
         {
           "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
@@ -922,7 +924,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -944,7 +946,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -955,7 +957,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1032,11 +1034,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 19时39分]"
         }
       ]
     },
