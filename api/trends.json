@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:52:13.393501+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-02-05T13:59:26.255646+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 12时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 13时59分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时51分 ~ 12时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时51分 ~ 13时59分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -90,8 +90,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时59分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时52分]"
+          "time_info": "[12时51分 ~ 13时59分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -114,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时33分 ~ 10时28分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "美国总统特朗普：必须继续采取足够的移民执法行动。",
@@ -380,7 +380,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -409,8 +409,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时59分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -421,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 13时59分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -551,8 +551,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 13时59分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -734,8 +734,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时59分]"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
