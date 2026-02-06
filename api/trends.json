@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T18:44:31.088236+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-02-06T19:38:00.772007+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时38分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -32,8 +32,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时38分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 19时38分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -58,17 +69,6 @@
           "time_info": "[12时50分 ~ 15时03分]"
         },
         {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时44分]"
-        },
-        {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
           "url": "https://wallstreetcn.com/livenews/3050842",
           "source": "华尔街见闻-快讯",
@@ -88,7 +88,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -135,6 +135,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 19时38分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -213,7 +225,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -264,6 +276,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时53分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 19时38分]"
         },
         {
           "title": "特朗普：《新削减战略武器条约》应被改进而非延长",
@@ -343,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
@@ -477,17 +490,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
           "url": "https://flash.jin10.com/detail/20260206020145026800",
           "source": "金十数据",
@@ -513,7 +515,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -523,8 +525,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时38分]"
         },
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -595,6 +597,18 @@
           "time_info": "[00时55分 ~ 06时42分]"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 19时38分]"
+        },
+        {
           "title": "美股三大指数集体收跌",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
           "source": "bilibili 热搜",
@@ -617,17 +631,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
@@ -749,6 +752,17 @@
           "time_info": "[06时42分 ~ 07时29分]"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
           "url": "https://flash.jin10.com/detail/20260206050117661800",
           "source": "金十数据",
@@ -759,6 +773,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时42分]"
+        },
+        {
+          "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3051361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -871,17 +896,6 @@
           "time_info": "[00时55分 ~ 12时50分]"
         },
         {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时42分]"
-        },
-        {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
@@ -891,8 +905,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时38分]"
+        },
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时44分]"
+          "time_info": "[00时55分 ~ 06时42分]"
         }
       ]
     },
@@ -905,11 +930,12 @@
           "url": "https://wallstreetcn.com/articles/3765096",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时38分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
