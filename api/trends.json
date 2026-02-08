@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:38:51.615411+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-02-08T17:35:51.532486+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 16时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 17时35分]"
         },
         {
           "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
@@ -303,8 +303,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 16时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 17时35分]"
         },
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -318,6 +318,19 @@
           "time_info": "[00时36分 ~ 06时31分]"
         },
         {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时35分]"
+        },
+        {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2283417",
           "source": "财联社热门",
@@ -327,18 +340,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时31分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时38分]"
         }
       ]
     },
@@ -369,11 +370,29 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "17时35分"
         }
       ]
     }
