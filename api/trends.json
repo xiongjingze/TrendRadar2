@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:59:20.592180+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-08T21:52:01.046755+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -320,6 +320,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时41分 ~ 21时52分]"
+        },
+        {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
@@ -331,8 +345,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 20时59分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 21时52分]"
         },
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -344,20 +358,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时31分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时41分 ~ 20时59分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -405,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时59分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 21时52分]"
         }
       ]
     },
@@ -423,8 +423,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 21时52分]"
         }
       ]
     },
@@ -439,11 +439,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时52分]"
         }
       ]
     }
