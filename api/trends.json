@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:28:22.731825+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-02-08T20:59:20.592180+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -258,22 +258,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
-          "url": "https://flash.jin10.com/detail/20260208181448181800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时59分]"
         },
         {
           "title": "学者：特朗普羞辱奥巴马引众怒",
@@ -287,6 +277,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时56分 ~ 16时38分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 20时59分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -325,11 +327,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 19时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时36分 ~ 20时59分]"
         },
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -353,8 +356,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时41分 ~ 19时28分]"
+          "appearance_count": 7,
+          "time_info": "[15时41分 ~ 20时59分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -402,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 20时59分]"
         }
       ]
     },
@@ -420,8 +423,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时59分]"
         }
       ]
     },
@@ -435,11 +438,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时59分]"
         }
       ]
     }
