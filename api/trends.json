@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T01:31:45.494101+08:00",
-  "total_titles_processed": 332,
+  "generated_at": "2026-02-09T02:42:46.241530+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -63,8 +63,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         }
       ]
     },
@@ -80,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -91,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         }
       ]
     },
@@ -105,11 +105,12 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         }
       ]
     },
@@ -125,8 +126,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时42分]"
         }
       ]
     }
