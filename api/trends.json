@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:54:26.659372+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-02-10T21:23:16.961192+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -57,6 +57,17 @@
           "time_info": "[10时44分 ~ 15时11分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 21时23分]"
+        },
+        {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
           "url": "https://www.toutiao.com/trending/7605068464549744178/",
           "source": "今日头条",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时07分 ~ 17时01分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
@@ -229,6 +229,17 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
+          "title": "特朗普称自己犯了大错",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%87%AA%E5%B7%B1%E7%8A%AF%E4%BA%86%E5%A4%A7%E9%94%99%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
+        },
+        {
           "title": "美联储理事米兰：美联储缩减资产负债表（缩表）之前还需采取许多步骤。 如果货币政策没有（被总统特朗普）政治化，会有更好的结果。 如果保留美联储独立性，美联储就应该坚持其核心使命。",
           "url": "https://wallstreetcn.com/livenews/3052543",
           "source": "华尔街见闻-快讯",
@@ -342,8 +353,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时44分 ~ 21时23分]"
+        },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2285010",
@@ -357,18 +380,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时44分]"
-        },
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 19时54分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -404,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "标普全球美股盘前一度下跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3053058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
@@ -500,6 +522,17 @@
           "time_info": "[06时41分 ~ 07时41分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
+        },
+        {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
@@ -510,6 +543,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "美银警告美股原材料板块出现泡沫化价格波动",
+          "url": "https://flash.jin10.com/detail/20260210204541121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美股AI应用软件股盘前涨幅扩大，Spotify、Datadog绩后大涨超10%，Shopify涨近5%，Unity涨超4%，Applovin、Snowflake涨近4%，Palantir涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3053047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
@@ -529,7 +584,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -543,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
@@ -592,8 +658,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "谷歌：对有机会解决英国竞争和市场管理局（CMA）的关切表示欢迎。 将继续与CMA进行建设性互动。",
+          "url": "https://wallstreetcn.com/livenews/3053053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
           "url": "https://www.cls.cn/detail/2285182",
@@ -618,6 +695,39 @@
           "time_info": "01时53分"
         },
         {
+          "title": "谷歌(GOOG.O)：将继续与英国竞争和市场管理局（CMA）进行建设性互动。",
+          "url": "https://flash.jin10.com/detail/20260210204920773800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：对有机会解决英国竞争和市场管理局（CMA）的关切表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260210204906860800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
+        },
+        {
           "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
           "url": "https://www.cls.cn/detail/2285329",
           "source": "财联社热门",
@@ -635,7 +745,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -646,7 +756,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -671,6 +781,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
@@ -811,7 +943,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
