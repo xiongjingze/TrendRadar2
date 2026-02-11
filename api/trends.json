@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:56:34.982158+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-02-11T17:58:19.403362+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -30,23 +30,24 @@
           "time_info": "[01时06分 ~ 07时42分]"
         },
         {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 16时56分]"
-        },
-        {
           "title": "特朗普又翻脸了，中国再躺枪",
           "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 17时58分]"
+        },
+        {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -62,6 +63,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时41分 ~ 16时56分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "市场消息：美国总统特朗普指示美国国防部购买煤炭，以振兴该行业。",
@@ -110,6 +122,17 @@
           "time_info": "[10时41分 ~ 13时06分]"
         },
         {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
           "url": "https://flash.jin10.com/detail/20260211023104811800",
           "source": "金十数据",
@@ -127,9 +150,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -563,7 +597,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -597,8 +631,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 16时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 17时58分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -619,11 +653,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 16时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 17时58分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -755,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
+          "url": "https://www.cls.cn/detail/2286766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
