@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T18:32:25.728366+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-02-14T19:27:35.647387+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 19时27分]"
         },
         {
           "title": "特朗普证实美军将向中东派第二艘航母",
@@ -44,6 +45,17 @@
           "time_info": "[04时43分 ~ 14时52分]"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 19时27分]"
+        },
+        {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
           "url": "https://www.cls.cn/detail/2290097",
           "source": "财联社热门",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时43分 ~ 13时49分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时36分 ~ 18时32分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -234,6 +235,28 @@
           "time_info": "[03时46分 ~ 05时41分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-14）",
+          "url": "https://flash.jin10.com/detail/20260214184950680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
           "url": "https://wallstreetcn.com/livenews/3055319",
           "source": "华尔街见闻-快讯",
@@ -246,6 +269,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时43分]"
+        },
+        {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -315,6 +349,32 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时27分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时27分]"
+        },
+        {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
           "url": "https://wallstreetcn.com/livenews/3055318",
           "source": "华尔街见闻-快讯",
@@ -354,18 +414,6 @@
           "time_info": "[05时41分 ~ 07时35分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
-          "url": "https://flash.jin10.com/detail/20260214165909253800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时32分]"
-        },
-        {
           "title": "美国总统特朗普：与古巴关系非常好。",
           "url": "https://flash.jin10.com/detail/20260214005706725800",
           "source": "金十数据",
@@ -401,18 +449,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 18时32分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
-          "url": "https://flash.jin10.com/detail/20260214165831489800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "特朗普证实美军将向中东地区派出第二艘航母",
@@ -684,8 +720,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时35分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时35分 ~ 19时27分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -777,6 +813,20 @@
           "time_info": "[00时54分 ~ 05时41分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 19时27分]"
+        },
+        {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
           "url": "https://www.zhihu.com/question/2005568531748648323",
           "source": "知乎",
@@ -786,19 +836,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 06时39分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -929,11 +966,12 @@
             12,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 19时27分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1049,6 +1087,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时49分 ~ 19时27分]"
+        },
+        {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
@@ -1060,8 +1111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1078,19 +1129,6 @@
           "time_info": "[00时54分 ~ 07时35分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时49分 ~ 18时32分]"
-        },
-        {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
@@ -1100,8 +1138,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1115,8 +1153,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 19时27分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
