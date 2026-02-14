@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:51:10.287923+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-02-14T22:32:09.363398+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时44分 ~ 21时51分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 22时32分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时36分 ~ 21时51分]"
+          "appearance_count": 14,
+          "time_info": "[15时36分 ~ 22时32分]"
         },
         {
           "title": "特朗普证实美军将向中东派第二艘航母",
@@ -70,6 +70,17 @@
           "time_info": "[10时25分 ~ 18时32分]"
         },
         {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时27分 ~ 22时32分]"
+        },
+        {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
           "url": "https://news.ifeng.com/c/8qis4CFCUkf",
           "source": "凤凰网",
@@ -102,17 +113,6 @@
           "time_info": "[00时54分 ~ 15时37分]"
         },
         {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 21时51分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -122,6 +122,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 03时46分]"
+        },
+        {
+          "title": "特朗普下令第二艘航母前往中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时32分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -197,17 +209,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时46分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普下令第二艘航母前往中东",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -313,6 +314,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
@@ -463,19 +478,6 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时51分]"
-        },
-        {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
           "url": "https://flash.jin10.com/detail/20260214005621423800",
           "source": "金十数据",
@@ -535,6 +537,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时43分]"
+        },
+        {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
@@ -606,30 +634,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时46分]"
-        },
-        {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
         },
         {
           "title": "特朗普称将访问委内瑞拉",
@@ -758,8 +762,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时35分 ~ 21时51分]"
+          "appearance_count": 19,
+          "time_info": "[07时35分 ~ 22时32分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -826,8 +830,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时38分 ~ 21时51分]"
+          "appearance_count": 12,
+          "time_info": "[16时38分 ~ 22时32分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -1009,8 +1013,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时44分 ~ 21时51分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 22时32分]"
+        },
+        {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1023,18 +1040,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时46分 ~ 05时41分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -1102,11 +1107,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -1160,8 +1166,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时52分 ~ 21时51分]"
+          "appearance_count": 15,
+          "time_info": "[14时52分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -1170,11 +1176,12 @@
           "ranks": [
             15,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时49分 ~ 21时51分]"
+          "appearance_count": 16,
+          "time_info": "[13时49分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
