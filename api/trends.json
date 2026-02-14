@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T19:27:35.647387+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-02-14T20:58:12.337889+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -17,8 +17,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时44分 ~ 20时58分]"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时36分 ~ 20时58分]"
         },
         {
           "title": "特朗普证实美军将向中东派第二艘航母",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时43分 ~ 14时52分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时36分 ~ 19时27分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -188,6 +188,17 @@
           "time_info": "[03时46分 ~ 07时35分]"
         },
         {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
           "source": "澎湃新闻",
@@ -241,18 +252,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -269,17 +269,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时43分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -487,6 +476,18 @@
           "time_info": "[03时46分 ~ 05时41分]"
         },
         {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 20时58分]"
+        },
+        {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
           "url": "https://wallstreetcn.com/livenews/3055310",
           "source": "华尔街见闻-快讯",
@@ -651,6 +652,28 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
           "url": "https://flash.jin10.com/detail/20260213235807160800",
           "source": "金十数据",
@@ -717,11 +740,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -820,11 +844,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[16时38分 ~ 20时58分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -956,7 +981,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -970,8 +995,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时44分 ~ 20时58分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1021,6 +1046,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3055385",
           "source": "华尔街见闻-快讯",
@@ -1044,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 18时32分]"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -1087,6 +1134,20 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时52分 ~ 20时58分]"
+        },
+        {
           "title": "DeepSeek春节再扔王炸？最新披露",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
           "source": "百度热搜",
@@ -1096,8 +1157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时49分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[13时49分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -1111,8 +1172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1127,19 +1188,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时35分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时52分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
