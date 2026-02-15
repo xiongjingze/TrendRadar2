@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T21:52:38.652010+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-15T22:32:57.206446+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时36分 ~ 21时52分]"
+          "appearance_count": 8,
+          "time_info": "[17时36分 ~ 22时32分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 21时52分]"
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 22时32分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -131,11 +131,38 @@
           "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时32分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
+          "url": "https://flash.jin10.com/detail/20260215211009575800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时32分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -165,30 +192,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时40分 ~ 19时27分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时52分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -251,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时40分 ~ 16时39分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -264,11 +278,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时38分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[10时38分 ~ 22时32分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -366,8 +381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -385,36 +400,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
-          "url": "https://wallstreetcn.com/articles/3765726",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -439,11 +426,51 @@
             7,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 21时52分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 22时32分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时32分]"
+        },
+        {
+          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
+          "url": "https://wallstreetcn.com/articles/3765726",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
