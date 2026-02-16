@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:13:12.446536+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-02-16T22:46:07.503266+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -219,7 +219,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -241,7 +241,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -285,8 +285,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 21时13分]"
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 22时46分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -402,6 +402,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时12分 ~ 22时46分]"
+        },
+        {
           "title": "【阿里除夕夜将开源新一代千问Qwen3.5模型】消息人士透露，阿里今晚除夕夜将开源新一代千问大模型Qwen3.5，该模型实现了模型架构的全面创新，有望实现国产模型新的里程碑。去年，阿里在除夕深夜发布Qwen2.5-Max。（硬AI）",
           "url": "https://wallstreetcn.com/livenews/3055664",
           "source": "华尔街见闻-快讯",
@@ -411,17 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        },
-        {
-          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
-          "url": "https://www.zhihu.com/question/2004174915692172333",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "阿里除夕夜将开源新一代千问Qwen3.5模型",
@@ -470,11 +471,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 21时13分]"
+          "appearance_count": 25,
+          "time_info": "[00时36分 ~ 22时46分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -501,8 +503,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 21时13分]"
+          "appearance_count": 5,
+          "time_info": "[19时49分 ~ 22时46分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -591,7 +593,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
