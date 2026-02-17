@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T18:52:35.440565+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-02-17T19:42:42.091483+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -61,6 +61,17 @@
           "time_info": "[10时31分 ~ 15时13分]"
         },
         {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
           "url": "https://flash.jin10.com/detail/20260217003445113800",
           "source": "金十数据",
@@ -109,15 +120,15 @@
           "time_info": "[00时52分 ~ 01时42分]"
         },
         {
-          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
-          "url": "https://wallstreetcn.com/livenews/3055943",
-          "source": "华尔街见闻-快讯",
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
           "ranks": [
-            5
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时42分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -144,6 +155,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://wallstreetcn.com/livenews/3055955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
           "url": "https://flash.jin10.com/detail/20260217095902766800",
           "source": "金十数据",
@@ -153,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
@@ -179,17 +190,6 @@
           "time_info": "[03时35分 ~ 05时33分]"
         },
         {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
           "url": "https://flash.jin10.com/detail/20260217021035538800",
           "source": "金十数据",
@@ -201,6 +201,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时37分]"
+        },
+        {
+          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
+          "url": "https://wallstreetcn.com/livenews/3055943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时42分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -255,6 +267,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时31分 ~ 15时13分]"
+        },
+        {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时42分]"
         },
         {
           "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
@@ -330,6 +354,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://flash.jin10.com/detail/20260217191010466800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "特朗普反应低调 日本怕中美搞大动作",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
@@ -339,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217183508117800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     },
@@ -436,8 +482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时30分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[10时30分 ~ 19时42分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -529,8 +575,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 18时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 19时42分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
