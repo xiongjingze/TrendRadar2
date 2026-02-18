@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T10:34:11.639102+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-02-18T12:57:43.252598+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 10时34分]"
+          "appearance_count": 9,
+          "time_info": "[03时03分 ~ 12时57分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时57分]"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -250,6 +261,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://flash.jin10.com/detail/20260218115602378800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
           "url": "https://wallstreetcn.com/livenews/3056103",
           "source": "华尔街见闻-快讯",
@@ -303,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -365,8 +398,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 10时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 12时57分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -384,11 +417,12 @@
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时57分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -411,6 +445,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时57分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -496,17 +542,6 @@
           "time_info": "[06时37分 ~ 07时34分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
           "title": "应用材料美股盘后跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3056144",
           "source": "华尔街见闻-快讯",
@@ -570,6 +605,18 @@
           "time_info": "[05时40分 ~ 06时37分]"
         },
         {
+          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
+          "url": "https://wallstreetcn.com/livenews/3056192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 12时57分]"
+        },
+        {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
           "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
@@ -601,17 +648,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
-          "url": "https://wallstreetcn.com/livenews/3056192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
         }
       ]
     },
