@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:53:56.217663+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-02-18T16:52:58.884897+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -78,17 +78,6 @@
           "time_info": "[04时43分 ~ 07时34分]"
         },
         {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
@@ -98,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -133,6 +133,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -153,6 +164,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
@@ -411,8 +434,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 15时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 16时52分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -423,8 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 16时52分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -446,8 +469,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 16时52分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -751,6 +774,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问：Qwen 3.5 Plus现在可以在AI Gateway上使用了。",
+          "url": "https://flash.jin10.com/detail/20260218155737801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     }
