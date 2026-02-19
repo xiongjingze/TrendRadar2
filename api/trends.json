@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T17:54:01.610442+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-02-19T18:51:07.450461+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时32分 ~ 18时51分]"
         },
         {
           "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
@@ -63,15 +63,15 @@
           "time_info": "[10时32分 ~ 10时33分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
-          "url": "https://flash.jin10.com/detail/20260219174052852800",
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
           "source": "金十数据",
           "ranks": [
-            1
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "18时51分"
         },
         {
           "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
@@ -95,6 +95,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时35分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219174052852800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时51分]"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -483,8 +495,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时37分 ~ 17时54分]"
+          "appearance_count": 14,
+          "time_info": "[06时37分 ~ 18时51分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -523,8 +535,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时10分 ~ 17时54分]"
+          "appearance_count": 22,
+          "time_info": "[01时10分 ~ 18时51分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -535,8 +547,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时10分 ~ 17时54分]"
+          "appearance_count": 22,
+          "time_info": "[01时10分 ~ 18时51分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -562,19 +574,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时10分 ~ 17时54分]"
-        },
-        {
-          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
-          "url": "https://wallstreetcn.com/livenews/3056610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "appearance_count": 22,
+          "time_info": "[01时10分 ~ 18时51分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -586,30 +587,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 17时54分]"
-        },
-        {
-          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3056607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 18时51分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 18时51分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -623,6 +614,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 07时35分]"
+        },
+        {
+          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3056610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时51分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -658,6 +661,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时51分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
@@ -700,7 +715,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
@@ -780,7 +795,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
@@ -789,11 +804,23 @@
           "ranks": [
             4,
             9,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时52分 ~ 17时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 18时51分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
