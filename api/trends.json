@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T18:42:19.436274+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-20T19:36:29.930265+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 91,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 19时36分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -30,6 +30,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时28分 ~ 18时42分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 19时36分]"
+        },
+        {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 19时36分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -54,31 +79,6 @@
           "time_info": "[10时28分 ~ 18时42分]"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 18时42分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 18时42分]"
-        },
-        {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
           "url": "https://wallstreetcn.com/articles/3765874",
           "source": "华尔街见闻",
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 19时36分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -128,6 +128,17 @@
           "time_info": "[02时57分 ~ 04时42分]"
         },
         {
+          "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
+          "url": "https://flash.jin10.com/detail/20260220190226119800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
           "url": "https://flash.jin10.com/detail/20260220021610767800",
           "source": "金十数据",
@@ -150,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-20）",
+          "url": "https://flash.jin10.com/detail/20260220185800297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -575,6 +597,17 @@
           "time_info": "[00时59分 ~ 01时57分]"
         },
         {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时36分]"
+        },
+        {
           "title": "美国一机场将更名为特朗普国际机场",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%B0%86%E6%9B%B4%E5%90%8D%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
           "source": "百度热搜",
@@ -728,17 +761,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "特朗普称赞私营部门的就业增长。",
@@ -1053,8 +1075,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时37分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[06时37分 ~ 19时36分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1103,8 +1125,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时59分 ~ 18时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时59分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1117,8 +1139,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1129,8 +1151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时59分 ~ 18时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时59分 ~ 19时36分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1153,8 +1175,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 19时36分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1284,11 +1306,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时36分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
