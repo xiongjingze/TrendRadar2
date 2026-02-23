@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T19:49:48.724752+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-02-23T21:14:43.845730+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 19时49分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 21时14分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -78,6 +78,32 @@
           "time_info": "[00时36分 ~ 19时01分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 21时14分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 21时14分]"
+        },
+        {
           "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
           "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
           "source": "凤凰网",
@@ -90,17 +116,19 @@
           "time_info": "[13时02分 ~ 18时01分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            5,
-            2
+            14,
+            13,
+            12,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 19时49分]"
+          "appearance_count": 9,
+          "time_info": "[15时09分 ~ 21时14分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -131,32 +159,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时31分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 19时49分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时09分 ~ 19时49分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -369,6 +371,17 @@
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://wallstreetcn.com/livenews/3057362",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -412,6 +425,17 @@
           "time_info": "19时01分"
         },
         {
+          "title": "英国首相发言人：不认为美国总统特朗普最新发布的关税公告会影响去年宣布的英美多数经济协议。",
+          "url": "https://flash.jin10.com/detail/20260223203204446800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
           "url": "https://flash.jin10.com/detail/20260223062904190800",
           "source": "金十数据",
@@ -434,6 +458,17 @@
           "time_info": "19时01分"
         },
         {
+          "title": "特朗普：我可以用许可证向外国收费。 可以利用许可证对外国采取绝对严厉的措施。",
+          "url": "https://wallstreetcn.com/livenews/3057463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
           "url": "https://flash.jin10.com/detail/20260223081143529800",
           "source": "金十数据",
@@ -443,6 +478,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普：最高法在无意间给予了我更多的权力",
+          "url": "https://flash.jin10.com/detail/20260223201801511800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以利用许可证对外国采取绝对严厉的措施。",
+          "url": "https://flash.jin10.com/detail/20260223200904902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
+          "title": "美国总统特朗普：（谈关税）其他关税“完全可以以一种更具威力且更为蛮横的方式加以使用”。",
+          "url": "https://flash.jin10.com/detail/20260223200733570800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
+          "title": "美国总统特朗普：（谈关税）美国最高法院“在无意中且未察觉的情况下”赋予总统比裁决前“强大得多的权力”。",
+          "url": "https://flash.jin10.com/detail/20260223200557720800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "如何看待特朗普关税战被判非法",
@@ -513,11 +592,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时00分 ~ 19时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时00分 ~ 21时14分]"
         },
         {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
@@ -537,7 +617,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -561,7 +641,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -583,11 +663,12 @@
           "url": "https://www.cls.cn/detail/2292391",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时14分]"
         }
       ]
     },
@@ -604,8 +685,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 19时49分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 21时14分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
