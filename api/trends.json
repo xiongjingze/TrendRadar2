@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:01:22.656444+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-23T19:01:13.940727+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 18时01分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 19时01分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 18时01分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 19时01分]"
         },
         {
           "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
@@ -118,6 +118,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时31分]"
+        },
+        {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时01分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时01分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -188,29 +212,6 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时01分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时56分 ~ 18时01分]"
-        },
-        {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
           "source": "澎湃新闻",
@@ -220,8 +221,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 18时01分]"
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 19时01分]"
+        },
+        {
+          "title": "鉴于特朗普关税风险，欧盟势将冻结对与美国贸易协议的批准程序。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -234,6 +246,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时36分 ~ 04时33分]"
+        },
+        {
+          "title": "鉴于特朗普的关税风险，欧盟拟冻结对与美国贸易协议的批准程序",
+          "url": "https://flash.jin10.com/detail/20260223184821705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "男子持枪闯入特朗普住所被击毙",
@@ -375,6 +398,17 @@
           "time_info": "15时10分"
         },
         {
+          "title": "市场消息：鉴于美国总统特朗普的关税风险，欧盟势将冻结对与美国贸易协议的批准程序。",
+          "url": "https://flash.jin10.com/detail/20260223182731191800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
           "url": "https://flash.jin10.com/detail/20260223062904190800",
           "source": "金十数据",
@@ -384,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "市场消息：在美国最高法院推翻特朗普征收关税的决定后，印度正研究此举对与美国双边贸易协定的影响。",
+          "url": "https://flash.jin10.com/detail/20260223181405516800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
@@ -460,13 +505,24 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时00分 ~ 19时01分]"
+        },
+        {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260223174523816800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
         },
@@ -475,33 +531,24 @@
           "url": "https://wallstreetcn.com/livenews/3057431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时01分"
-        },
-        {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            2,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时00分 ~ 18时01分]"
+          "time_info": "[18时01分 ~ 19时01分]"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
           "url": "https://wallstreetcn.com/livenews/3057423",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 19时01分]"
         }
       ]
     },
@@ -518,8 +565,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 18时01分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 19时01分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
