@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T01:59:13.472514+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-02-25T03:14:59.615250+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,30 +37,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -68,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时30分 ~ 03时14分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
@@ -99,6 +102,17 @@
           "time_info": "[01时30分 ~ 01时59分]"
         },
         {
+          "title": "特朗普政府被1000多家企业起诉",
+          "url": "https://www.toutiao.com/trending/7609548645095964718/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时14分]"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -111,15 +125,15 @@
           "time_info": "[01时30分 ~ 01时59分]"
         },
         {
-          "title": "特朗普政府被1000多家企业起诉",
-          "url": "https://www.toutiao.com/trending/7609548645095964718/",
-          "source": "今日头条",
+          "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260225022141993800",
+          "source": "金十数据",
           "ranks": [
-            27
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 01时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -146,8 +160,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -157,8 +171,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -168,8 +182,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -179,8 +193,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -188,11 +202,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时30分 ~ 03时14分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -201,7 +216,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -212,7 +227,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -251,11 +266,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时30分 ~ 03时14分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -280,22 +296,24 @@
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         },
         {
           "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
           "url": "https://www.zhihu.com/question/2009482926241382805",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时14分]"
         }
       ]
     },
