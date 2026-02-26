@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:43:02.722493+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-02-26T21:16:12.342783+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 19时43分]"
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 21时16分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -88,8 +88,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 21时16分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 21时16分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -151,6 +164,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "消息人士：特朗普政府计划将至少50%的生物燃料强制掺混豁免额度重新分配给大型炼油企业，并暗示比例还可能提高。",
+          "url": "https://flash.jin10.com/detail/20260226205022901800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
           "url": "https://flash.jin10.com/detail/20260226062305910800",
           "source": "金十数据",
@@ -161,18 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时43分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -197,6 +209,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普将召集科技巨头签自行发电承诺",
+          "url": "https://www.toutiao.com/trending/7610290087637123126/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -326,8 +360,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 19时43分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 21时16分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
