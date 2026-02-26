@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T18:53:08.520560+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-02-26T19:43:02.722493+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,33 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 19时43分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时01分 ~ 18时53分]"
+          "time_info": "[16时55分 ~ 19时43分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -102,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
@@ -149,16 +163,16 @@
           "time_info": "[06时38分 ~ 07时32分]"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时55分 ~ 18时53分]"
+          "time_info": "[18时52分 ~ 19时43分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -183,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时41分]"
-        },
-        {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -259,7 +262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -323,8 +326,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 18时53分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 19时43分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -449,7 +452,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -482,7 +485,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
