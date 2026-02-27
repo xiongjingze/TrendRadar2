@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:55:55.215321+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-27T15:02:03.358773+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -51,11 +51,49 @@
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时55分]"
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -116,20 +154,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时58分 ~ 04时43分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时55分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -326,7 +350,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -414,8 +438,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 15时02分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -443,13 +467,24 @@
           "time_info": "[12时49分 ~ 13时55分]"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "韩国批准谷歌的地图数据出口申请。",
           "url": "https://flash.jin10.com/detail/20260227130247973800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -482,7 +517,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -569,8 +604,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -733,7 +768,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
