@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T03:37:09.045228+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-02-28T04:34:12.392439+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -17,8 +17,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -43,29 +66,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时37分]"
-        },
-        {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时37分]"
-        },
-        {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
           "url": "https://flash.jin10.com/detail/20260228011403179800",
           "source": "金十数据",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -93,11 +104,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
+          "url": "https://wallstreetcn.com/livenews/3060466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格正在大幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3060465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时34分]"
         },
         {
           "title": "市场消息：特朗普表示，他未考虑为2026年中期选举宣布进入国家紧急状态。",
@@ -124,28 +162,17 @@
           "time_info": "[02时51分 ~ 03时37分]"
         },
         {
-          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
-          "url": "https://wallstreetcn.com/livenews/3060466",
+          "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3060463",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            15
+            12,
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时37分]"
-        },
-        {
-          "title": "美国总统特朗普：汽油价格正在大幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3060465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时34分]"
         },
         {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
@@ -154,18 +181,6 @@
           "ranks": [
             12,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时37分]"
-        },
-        {
-          "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3060463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -242,6 +257,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时37分]"
+        },
+        {
+          "title": "据华尔街日报：美国共和党人敦促特朗普叫停英国在迪戈加西亚岛建设军事基地的计划。",
+          "url": "https://flash.jin10.com/detail/20260228032207190800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特：抵押贷款利率降至5%区间！感谢特朗普总统！",
+          "url": "https://flash.jin10.com/detail/20260228031931827800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
@@ -331,11 +368,12 @@
           "url": "https://www.cls.cn/detail/2297763",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 04时34分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -345,19 +383,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3060477",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时34分]"
         }
       ]
     },
@@ -370,11 +409,12 @@
           "url": "https://www.cls.cn/detail/2297724",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时34分]"
         }
       ]
     },
@@ -391,8 +431,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时34分]"
         }
       ]
     }
