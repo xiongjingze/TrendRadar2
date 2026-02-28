@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T21:40:09.763267+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2026-02-28T22:28:11.167838+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 109,
+      "match_count": 112,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[10时09分 ~ 22时28分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[10时09分 ~ 22时28分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -59,8 +59,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[10时09分 ~ 22时28分]"
+        },
+        {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时36分 ~ 22时28分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -99,18 +111,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 06时28分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时36分 ~ 21时40分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -369,6 +369,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 22时28分]"
+        },
+        {
           "title": "美国总统特朗普：我正考虑让特德·克鲁兹（Ted Cruz）进入最高法院。",
           "url": "https://flash.jin10.com/detail/20260228061953767800",
           "source": "金十数据",
@@ -389,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
-        },
-        {
-          "title": "特朗普今日预计将不会发表全国讲话。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3060874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
         },
         {
           "title": "特朗普：更愿和平解决伊朗问题，希望达成“有意义的协议”",
@@ -423,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "伊朗外交部长向美国总统特朗普发出的有关伊朗政权更迭的讯息表示，这是不可能完成的任务。",
+          "url": "https://flash.jin10.com/detail/20260228221602942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
@@ -644,6 +655,18 @@
           "time_info": "[07时29分 ~ 10时10分]"
         },
         {
+          "title": "梅德韦杰夫称特朗普露出真面目",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E9%9C%B2%E5%87%BA%E7%9C%9F%E9%9D%A2%E7%9B%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
+        {
           "title": "市场消息：特朗普表示，他未考虑为2026年中期选举宣布进入国家紧急状态。",
           "url": "https://flash.jin10.com/detail/20260228023319874800",
           "source": "金十数据",
@@ -690,6 +713,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 10时10分]"
+        },
+        {
+          "title": "特朗普今日预计将不会发表全国讲话。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3060874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时28分]"
         },
         {
           "title": "美国总统特朗普：关税已对诺华产生影响，并促使其杰出的领导人、医学博士瓦桑特·纳拉辛汉建设7个以上的制造和研发设施，创造了数以千计的就业岗位。激进左派以及那些就关税提起诉讼的“狂人”对此拒而不谈，但数百家其他公司也正在发生同样的情况。",
@@ -739,17 +774,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时51分 ~ 04时34分]"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时40分]"
         },
         {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
@@ -919,17 +943,6 @@
           "time_info": "[02时51分 ~ 03时37分]"
         },
         {
-          "title": "梅德韦杰夫称特朗普露出真面目",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E9%9C%B2%E5%87%BA%E7%9C%9F%E9%9D%A2%E7%9B%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
-        },
-        {
           "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
           "url": "https://wallstreetcn.com/livenews/3060501",
           "source": "华尔街见闻-快讯",
@@ -969,7 +982,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1079,7 +1092,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1123,7 +1136,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1227,6 +1240,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "美国众议院少数党领袖杰弗瑞斯：如果正如特朗普在2025年6月大胆宣称的那样，当时的军事打击已“完全彻底摧毁”了伊朗的核计划，那么现在就没有必要再对其进行打击。",
+          "url": "https://flash.jin10.com/detail/20260228215830435800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美国总统特朗普：尚未就伊朗问题做决定。 对他们的谈判方式不满意。 他们正在与我们对话。 伊朗不能拥有核武器。 伊朗并没有说出那句关键的话——不发展核武器。",
           "url": "https://wallstreetcn.com/livenews/3060445",
           "source": "华尔街见闻-快讯",
@@ -1271,6 +1295,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "美国众议院少数党领袖杰弗瑞斯：特朗普在打击伊朗之前未能寻求国会授权。总统放弃外交、发动大规模军事攻击的决定，已使美军面临伊朗报复行动的风险。",
+          "url": "https://flash.jin10.com/detail/20260228215754218800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美国总统特朗普：或许我们会友好地接管古巴。",
           "url": "https://wallstreetcn.com/livenews/3060444",
           "source": "华尔街见闻-快讯",
@@ -1299,8 +1334,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时33分 ~ 21时40分]"
+          "appearance_count": 21,
+          "time_info": "[05时33分 ~ 22时28分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1326,11 +1361,12 @@
             16,
             28,
             12,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时44分 ~ 21时40分]"
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 22时28分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1380,6 +1416,18 @@
           "time_info": "[03时37分 ~ 04时34分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 22时28分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
           "url": "https://wallstreetcn.com/livenews/3060587",
           "source": "华尔街见闻-快讯",
@@ -1414,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时23分 ~ 20时54分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -1508,8 +1545,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时09分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[10时09分 ~ 22时28分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -1522,6 +1559,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 06时28分]"
+        },
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 22时28分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -1539,29 +1588,18 @@
           "time_info": "[07时29分 ~ 18时28分]"
         },
         {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时31分 ~ 21时40分]"
-        },
-        {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
           "url": "https://www.zhihu.com/question/2011096140146286806",
           "source": "知乎",
           "ranks": [
             14,
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -1620,11 +1658,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时40分]"
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 22时28分]"
         },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
