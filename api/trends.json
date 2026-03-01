@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T19:24:59.573309+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-03-01T20:58:11.625776+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时57分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时57分 ~ 20时58分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时40分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时40分 ~ 20时58分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时40分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时40分 ~ 20时58分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -199,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时58分]"
         },
         {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
@@ -389,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
@@ -615,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。",
@@ -906,7 +918,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -924,8 +936,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 19时24分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 20时58分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -948,6 +960,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "ChatGPT周活用户超过9亿",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%91%A8%E6%B4%BB%E7%94%A8%E6%88%B7%E8%B6%85%E8%BF%879%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时58分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
