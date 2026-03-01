@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T15:37:09.936946+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-03-01T16:37:18.243616+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 05时26分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 16时37分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -59,19 +72,6 @@
           "time_info": "[00时31分 ~ 15时37分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 15时37分]"
-        },
-        {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
           "url": "https://www.cls.cn/detail/2298666",
           "source": "财联社热门",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 16时37分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时57分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时57分 ~ 16时37分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -246,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "美媒称特朗普政府“暂停”对台军售",
+          "url": "https://www.toutiao.com/trending/7611080988840280107/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
@@ -426,6 +437,19 @@
           "time_info": "[10时40分 ~ 13时57分]"
         },
         {
+          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
+          "url": "https://wallstreetcn.com/livenews/3061070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 16时37分]"
+        },
+        {
           "title": "特朗普称哈梅内伊死亡",
           "url": "https://wallstreetcn.com/livenews/3061004",
           "source": "华尔街见闻-快讯",
@@ -462,18 +486,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
-          "url": "https://wallstreetcn.com/livenews/3061070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时37分]"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -898,8 +910,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 15时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 16时37分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
