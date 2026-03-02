@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T21:08:02.037433+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2026-03-02T22:48:33.390538+08:00",
+  "total_titles_processed": 1931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 21时08分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 22时48分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时55分 ~ 21时08分]"
+          "appearance_count": 12,
+          "time_info": "[13时55分 ~ 22时48分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 21时08分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 22时48分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -69,8 +69,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 21时08分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 22时48分]"
+        },
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 22时48分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -82,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 21时08分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 22时48分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -95,18 +107,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时29分]"
-        },
-        {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 21时08分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -130,8 +130,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 21时08分]"
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 22时48分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -144,11 +144,12 @@
             24,
             23,
             21,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 21时08分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 22时48分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -183,6 +184,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普，还有一仗？",
+          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 22时48分]"
         },
         {
           "title": "特朗普：对伊朗的军事行动可能持续四周左右",
@@ -234,15 +246,15 @@
           "time_info": "[16时52分 ~ 21时08分]"
         },
         {
-          "title": "特朗普，还有一仗？",
-          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
-          "source": "凤凰网",
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 22时48分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
@@ -265,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
-        },
-        {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：由于特朗普错误的行动，他将自己所鼓吹的“美国优先”口号变成了“以色列优先”，为了以色列的权力扩张而牺牲了美国士兵的生命。",
@@ -586,6 +587,17 @@
           "time_info": "[19时34分 ~ 19时35分]"
         },
         {
+          "title": "特朗普称同意与伊朗新领导层对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -595,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普炮轰斯塔默 延迟开放基地令美方“非常失望”",
@@ -650,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
+          "url": "https://wallstreetcn.com/livenews/3061991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
@@ -738,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普称对英国首相的立场“非常失望”",
+          "url": "https://wallstreetcn.com/livenews/3061985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
@@ -842,7 +887,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -852,8 +897,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 21时08分]"
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 22时48分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -900,6 +945,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -928,9 +984,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "摩根士丹利策略师Wilson：伊朗局势不太可能动摇对美股看涨观点",
@@ -939,7 +1006,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -955,6 +1022,28 @@
           "time_info": "18时50分"
         },
         {
+          "title": "现货金银价格回落，美股黄金概念股走势分化，纽蒙特矿业(NEM.N)涨0.53%，科尔黛伦矿业(CDE.N)跌1.8%，泛美白银(PAAS.O)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260302223225321800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美伊冲突爆发 美股低开",
+          "url": "https://flash.jin10.com/detail/20260302223032979800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌幅扩大至2%，标普500指数期货下跌1.6%，道指期货跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3061698",
           "source": "华尔街见闻-快讯",
@@ -964,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3061974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
