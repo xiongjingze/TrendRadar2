@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T03:40:20.378765+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-03-03T04:42:19.523397+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "中方回应特朗普3月访华能否成行",
@@ -80,11 +80,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -94,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -120,17 +121,6 @@
           "time_info": "[00时55分 ~ 01时51分]"
         },
         {
-          "title": "美上诉院驳回特朗普政府推迟关税退税请求",
-          "url": "https://flash.jin10.com/detail/20260303032852085800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
           "title": "阿联酋、卡塔尔各自的游说团体劝说美国总统特朗普迅速停止（美国+以色列）与伊朗之间的战争。",
           "url": "https://wallstreetcn.com/livenews/3062064",
           "source": "华尔街见闻-快讯",
@@ -140,6 +130,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
+        },
+        {
+          "title": "美媒：特朗普颈部疑似出现皮疹 预计红肿会持续数周",
+          "url": "https://flash.jin10.com/detail/20260303040020990800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -165,28 +179,27 @@
           "time_info": "00时55分"
         },
         {
-          "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
-          "url": "https://wallstreetcn.com/livenews/3062112",
-          "source": "华尔街见闻-快讯",
+          "title": "美上诉院驳回特朗普政府推迟关税退税请求",
+          "url": "https://flash.jin10.com/detail/20260303032852085800",
+          "source": "金十数据",
           "ranks": [
-            9
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时42分]"
         },
         {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
           "ranks": [
-            25,
-            24,
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "time_info": "[01时51分 ~ 04时42分]"
         },
         {
           "title": "特朗普称对伊朗军事行动可能持续4至5周",
@@ -201,6 +214,18 @@
           "time_info": "[02时55分 ~ 03时40分]"
         },
         {
+          "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
+          "url": "https://wallstreetcn.com/livenews/3062112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时42分]"
+        },
+        {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
           "url": "https://wallstreetcn.com/livenews/3062075",
           "source": "华尔街见闻-快讯",
@@ -213,17 +238,6 @@
           "time_info": "[01时51分 ~ 02时55分]"
         },
         {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 03时40分]"
-        },
-        {
           "title": "美国联邦上诉法院驳回特朗普政府延期请求，关税退款诉讼程序重启",
           "url": "https://wallstreetcn.com/livenews/3062092",
           "source": "华尔街见闻-快讯",
@@ -234,6 +248,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时40分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3062107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时42分]"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话",
@@ -280,24 +306,13 @@
           "time_info": "02时55分"
         },
         {
-          "title": "摩根大通CEO戴蒙：如果伊朗冲突不延长，就不会出现严重通货膨胀。 通胀可能会是（美国总统特朗普）经济的“败笔”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3062107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
           "title": "美国联邦巡回上诉法院拒绝了特朗普政府要求推迟关税退款争议程序的请求。",
           "url": "https://flash.jin10.com/detail/20260303031045949800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
         },
@@ -414,8 +429,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -429,6 +444,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 04时42分]"
+        },
+        {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
           "url": "https://wallstreetcn.com/livenews/3062073",
           "source": "华尔街见闻-快讯",
@@ -439,17 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时55分]"
-        },
-        {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时40分]"
         },
         {
           "title": "美股费城银行指数涨幅扩大至1%。",
@@ -503,6 +518,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨0.8%",
+          "url": "https://wallstreetcn.com/livenews/3062129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         }
       ]
     }
