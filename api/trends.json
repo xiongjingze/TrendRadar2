@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T01:48:57.991942+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-03-04T02:57:59.171888+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 39,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,30 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
-          "url": "https://flash.jin10.com/detail/20260304012406090800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
-          "url": "https://wallstreetcn.com/livenews/3062933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -70,8 +48,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
+          "url": "https://flash.jin10.com/detail/20260304012406090800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普否认被以色列“拖入战争”",
+          "url": "https://wallstreetcn.com/livenews/3062965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
+          "url": "https://wallstreetcn.com/livenews/3062933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -91,7 +102,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -102,7 +113,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -124,9 +135,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "西班牙：有办法遏制美国总统特朗普威胁的切断贸易往来的影响。 特朗普在贸易问题上必须尊重国际法。",
+          "url": "https://wallstreetcn.com/livenews/3062959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
@@ -135,9 +157,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后会见财政部长和能源部长；法国总统马克龙将于十分钟后就伊朗局势发表全国讲话。",
+          "url": "https://flash.jin10.com/detail/20260304025000000800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -146,7 +179,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -157,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -168,7 +201,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -179,7 +212,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -190,7 +223,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -201,9 +234,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "报道：特朗普今日将评估控制能源价格的方案",
+          "url": "https://wallstreetcn.com/livenews/3062950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：我们必须对那些玩弄金钱的国家征收关税。",
@@ -212,7 +256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -223,9 +267,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普与默茨会晤 双方一致希望铲除伊朗现政权",
+          "url": "https://flash.jin10.com/detail/20260304023526652800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普告诉到访的德国总理默茨：我们将商谈贸易协议。",
@@ -234,9 +289,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
+          "url": "https://wallstreetcn.com/livenews/3062944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
@@ -245,7 +311,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -256,9 +322,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "【特朗普：将切断美国和西班牙之间的贸易往来】3月3日，美国总统特朗普在白宫会见德国总理默茨期间抨击西班牙在袭击伊朗行动中“缺乏合作”，并宣布将切断美国和西班牙之间的一切贸易往来，因为西班牙是“一个糟糕的盟友”。 特朗普表示：“西班牙的表现很糟糕。”他还称，已指示财政部长贝森特“切断与西班牙的所有往来”。 特朗普补充说：“我们将切断与西班牙的所有贸易。我们不想与西班牙有任何往来。”（央视）",
+          "url": "https://wallstreetcn.com/livenews/3062943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：一旦战争结束，油价可能会跌到比之前更低的水平。",
@@ -267,9 +344,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "西班牙政府：（就美国总统特朗普威胁切断贸易）美国必须遵守国际法和欧盟与美国之间的双边贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260304022536347800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：关税让美国变得非常富裕。",
@@ -278,9 +366,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普政府高级官员：未借助任何国家作为与伊朗的沟通桥梁。",
+          "url": "https://flash.jin10.com/detail/20260304022232395800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：预计油价将在对伊朗采取的行动结束后下跌。",
@@ -289,9 +388,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普：可容忍油价短期内上涨 优先消除伊朗威胁",
+          "url": "https://flash.jin10.com/detail/20260304022122246800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美国总统特朗普：油价可能会维持一段时间，但随后会下跌。",
@@ -300,7 +410,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -311,9 +421,59 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普就对伊动武的给出最新解释：确信伊朗即将袭击美国 系“先发制人”",
+          "url": "https://flash.jin10.com/detail/20260304021634327800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
+          "url": "https://wallstreetcn.com/livenews/3062921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "Claude Code核心工程师：本周Claude和Claude Code流量有前所未有的增长。",
+          "url": "https://flash.jin10.com/detail/20260304024214274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3062945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     },
@@ -329,19 +489,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2301690",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
         }
       ]
     },
@@ -357,8 +518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时57分]"
         },
         {
           "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
@@ -384,26 +545,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
-          "url": "https://wallstreetcn.com/livenews/3062921",
+          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
+          "url": "https://wallstreetcn.com/livenews/3062952",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "02时57分"
         }
       ]
     }
