@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T12:46:55.776476+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-03-08T13:47:38.236040+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 12时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时47分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -48,8 +48,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时47分]"
+        },
+        {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时47分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 10时31分]"
-        },
-        {
-          "title": "英国可能部署航母至中东，特朗普：不需要",
-          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时46分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -146,17 +146,6 @@
           "time_info": "[05时26分 ~ 07时28分]"
         },
         {
-          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
-          "url": "https://flash.jin10.com/detail/20260308105750349800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
           "url": "https://wallstreetcn.com/livenews/3065776",
           "source": "华尔街见闻-快讯",
@@ -167,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 10时31分]"
+        },
+        {
+          "title": "王毅回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时47分]"
         },
         {
           "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
@@ -205,6 +206,18 @@
           "time_info": "[02时40分 ~ 03时26分]"
         },
         {
+          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260308105750349800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时47分]"
+        },
+        {
           "title": "美国总统特朗普：我认为鲁比奥将成为历史上最优秀的国务卿，这是我的看法。",
           "url": "https://flash.jin10.com/detail/20260308001200353800",
           "source": "金十数据",
@@ -237,8 +250,32 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://flash.jin10.com/detail/20260308104028991800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时46分]"
+          "time_info": "[12时46分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时47分]"
         },
         {
           "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
@@ -261,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
-          "url": "https://flash.jin10.com/detail/20260308104028991800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         },
         {
           "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
@@ -327,28 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "王毅回应特朗普访华",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
-          "url": "https://wallstreetcn.com/livenews/3065812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -438,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 12时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时47分]"
         }
       ]
     },
@@ -453,11 +457,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时47分]"
         }
       ]
     }
