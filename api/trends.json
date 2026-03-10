@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T05:34:02.902938+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-03-11T06:53:31.796611+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时53分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -71,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 06时53分]"
         },
         {
           "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
@@ -86,17 +86,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
-          "url": "https://wallstreetcn.com/livenews/3067576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -108,15 +97,15 @@
           "time_info": "03时41分"
         },
         {
-          "title": "微软：美国法院应该临时性地阻止总统特朗普的五角大楼封杀Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3067571",
+          "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
+          "url": "https://wallstreetcn.com/livenews/3067598",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时53分"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -143,6 +132,18 @@
           "time_info": "[03时41分 ~ 04时39分]"
         },
         {
+          "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
+          "url": "https://wallstreetcn.com/livenews/3067576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时53分]"
+        },
+        {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
           "url": "https://flash.jin10.com/detail/20260311024917958800",
           "source": "金十数据",
@@ -166,6 +167,19 @@
           "time_info": "[02时56分 ~ 03时41分]"
         },
         {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 06时53分]"
+        },
+        {
           "title": "白宫宣称战争将在特朗普认为目标达成、伊朗投降时结束",
           "url": "https://flash.jin10.com/detail/20260311023938000800",
           "source": "金十数据",
@@ -178,16 +192,16 @@
           "time_info": "[02时56分 ~ 03时41分]"
         },
         {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
+          "title": "微软：美国法院应该临时性地阻止总统特朗普的五角大楼封杀Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3067571",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
+            7,
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 05时34分]"
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时53分]"
         },
         {
           "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
@@ -274,7 +288,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -329,15 +343,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "美国总统特朗普：这是一项历史性的3000亿美元交易。",
+          "url": "https://flash.jin10.com/detail/20260311052004491800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -352,6 +377,17 @@
           "time_info": "[00时04分 ~ 05时34分]"
         },
         {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
           "url": "https://flash.jin10.com/detail/20260311040618267800",
           "source": "金十数据",
@@ -363,15 +399,15 @@
           "time_info": "04时39分"
         },
         {
-          "title": "甲骨文美股盘后涨幅扩大至9%。",
-          "url": "https://wallstreetcn.com/livenews/3067572",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时53分"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -425,9 +461,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "甲骨文美股盘后涨幅扩大至9%。",
+          "url": "https://wallstreetcn.com/livenews/3067572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时53分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
@@ -460,7 +508,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -474,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3067585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
@@ -499,7 +558,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -510,7 +569,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
