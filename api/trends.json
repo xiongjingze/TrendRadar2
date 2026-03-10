@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T18:45:11.286221+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-03-10T19:37:00.473361+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 120,
+      "match_count": 122,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 18时45分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 19时37分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 19时37分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 18时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时45分 ~ 19时37分]"
         },
         {
           "title": "美媒：特朗普没有对伊朗的“战后计划”",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[10时24分 ~ 19时37分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -103,6 +103,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时24分 ~ 17时51分]"
+        },
+        {
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时56分 ~ 19时37分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -141,6 +157,21 @@
           "time_info": "[07时32分 ~ 16时51分]"
         },
         {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时50分 ~ 19时37分]"
+        },
+        {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
           "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
           "source": "凤凰网",
@@ -151,21 +182,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 10时24分]"
-        },
-        {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 18时45分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -179,20 +195,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时24分 ~ 16时51分]"
-        },
-        {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时50分 ~ 18时45分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -216,8 +218,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时50分 ~ 18时45分]"
+          "appearance_count": 11,
+          "time_info": "[13时50分 ~ 19时37分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -405,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美国总统特朗普：有可能会与伊朗对话。",
+          "url": "https://wallstreetcn.com/livenews/3067252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "美国总统特朗普：（就油价问题）我对一切都有计划。",
@@ -1162,6 +1175,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美媒：特朗普称可能愿意与伊朗进行对话",
+          "url": "https://flash.jin10.com/detail/20260310190512823800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "据媒体报道，受油价飙升影响，特朗普政府正权衡进一步放宽对俄罗斯的石油制裁。（路透社）",
           "url": "https://wallstreetcn.com/livenews/3066708",
           "source": "华尔街见闻-快讯",
@@ -1374,7 +1398,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1412,6 +1436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -1467,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
@@ -1540,6 +1586,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
           "url": "https://wallstreetcn.com/livenews/3066709",
           "source": "华尔街见闻-快讯",
@@ -1586,7 +1643,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
