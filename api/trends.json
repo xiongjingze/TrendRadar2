@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T02:56:41.059158+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-03-11T03:41:40.518482+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时41分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时41分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时41分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时41分]"
         },
         {
           "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时41分]"
         },
         {
           "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
@@ -74,26 +74,26 @@
           "time_info": "00时04分"
         },
         {
-          "title": "美国白宫：特朗普并未排除地面部队的选项。",
-          "url": "https://flash.jin10.com/detail/20260311024027203800",
+          "title": "Alphavalue驻巴黎的副首席执行官Laurent Lamagnere表示：石油价格的剧烈波动令我们感到震惊。 尽管周二市场有所缓和，但“我们认为油价仍将维持在高位”。 “特朗普称战争可能结束，并不意味着它真的会结束。”",
+          "url": "https://wallstreetcn.com/livenews/3067535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
+          "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "白宫宣称战争将在特朗普认为目标达成、伊朗投降时结束",
-          "url": "https://flash.jin10.com/detail/20260311023938000800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "03时41分"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -108,6 +108,53 @@
           "time_info": "[01时50分 ~ 02时56分]"
         },
         {
+          "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
+          "url": "https://flash.jin10.com/detail/20260311024917958800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "美国白宫：特朗普并未排除地面部队的选项。",
+          "url": "https://flash.jin10.com/detail/20260311024027203800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时41分]"
+        },
+        {
+          "title": "白宫宣称战争将在特朗普认为目标达成、伊朗投降时结束",
+          "url": "https://flash.jin10.com/detail/20260311023938000800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时41分]"
+        },
+        {
+          "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
+          "url": "https://flash.jin10.com/detail/20260311023003523800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 03时41分]"
+        },
+        {
           "title": "特朗普可能在本周晚些时候下令切断与人工智能公司Anthropic的联系。",
           "url": "https://flash.jin10.com/detail/20260311012115573800",
           "source": "金十数据",
@@ -117,17 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
-          "url": "https://flash.jin10.com/detail/20260311023003523800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
         },
         {
           "title": "舒默批评特朗普言论荒谬至极 呼吁对伊朗学校遇袭事件展开调查",
@@ -158,7 +194,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -169,7 +205,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         }
@@ -187,8 +223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时41分]"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -228,6 +264,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
+          "url": "https://wallstreetcn.com/livenews/3067537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         }
       ]
     }
