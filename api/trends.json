@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T10:29:51.425781+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-03-12T12:51:12.276611+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -44,6 +44,18 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 12时51分]"
+        },
+        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -56,16 +68,26 @@
           "time_info": "[00时58分 ~ 05时37分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
-          "url": "https://wallstreetcn.com/articles/3767268",
-          "source": "华尔街见闻",
+          "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
+          "url": "https://www.cls.cn/detail/2310250",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 12时51分]"
+        },
+        {
+          "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
+          "url": "https://news.ifeng.com/c/8rQZWpPErKf",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时31分 ~ 10时29分]"
+          "time_info": "[10时29分 ~ 12时51分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
@@ -95,15 +117,17 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
-          "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
-          "url": "https://www.cls.cn/detail/2310250",
+          "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
+          "url": "https://www.cls.cn/detail/2310196",
           "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时51分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -123,7 +147,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -150,15 +174,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
-          "url": "https://news.ifeng.com/c/8rQZWpPErKf",
-          "source": "凤凰网",
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "市场消息：美国在中东的部分盟友私下担心特朗普政府对战争的经济后果考虑不足。",
@@ -372,18 +396,6 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
-          "url": "https://www.cls.cn/detail/2310196",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 10时29分]"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗问题）在任务完成之前我们不会离开。",
           "url": "https://flash.jin10.com/detail/20260312051328694800",
           "source": "金十数据",
@@ -420,6 +432,18 @@
           "time_info": "[05时37分 ~ 06时31分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
+          "url": "https://www.zhihu.com/question/2015192608771633980",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 12时51分]"
+        },
+        {
           "title": "美国总统特朗普：国际能源署（IEA）决定动用战略石油储备将会“大幅”降低油价。",
           "url": "https://flash.jin10.com/detail/20260312050947132800",
           "source": "金十数据",
@@ -454,6 +478,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
+          "url": "https://www.cls.cn/detail/2310220",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们击毁了58艘伊朗海军舰艇。",
@@ -633,18 +668,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
-          "url": "https://www.zhihu.com/question/2015192608771633980",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -754,17 +778,6 @@
       "match_count": 19,
       "titles": [
         {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时31分]"
-        },
-        {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
@@ -775,8 +788,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 10时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 12时51分]"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时31分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -799,19 +823,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时51分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
           "url": "https://www.cls.cn/detail/2310241",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时51分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
