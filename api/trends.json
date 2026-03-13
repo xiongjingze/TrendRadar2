@@ -1,101 +1,12 @@
 {
-  "generated_at": "2026-03-13T23:49:55.918258+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2026-03-14T00:47:05.797483+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时48分 ~ 19时36分]"
-        },
-        {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时32分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时53分 ~ 19时36分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时27分 ~ 23时49分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
-          "url": "https://wallstreetcn.com/articles/3767268",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 05时46分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            28,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 16时47分]"
-        },
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
           "url": "https://news.ifeng.com/c/8rSg9cinRV8",
@@ -104,59 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时42分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时35分 ~ 23时49分]"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 15时52分]"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时42分 ~ 23时49分]"
-        },
-        {
-          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
-          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时07分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
           "title": "以色列总统称特朗普攻击国家主权",
@@ -166,870 +37,102 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时46分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
-          "url": "https://flash.jin10.com/detail/20260313172014745800",
-          "source": "金十数据",
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-13）",
-          "url": "https://flash.jin10.com/detail/20260313181800724800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
-          "url": "https://flash.jin10.com/detail/20260313035535843800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "特朗普称必要时将护航霍尔木兹海峡 威胁加大对伊朗打击",
-          "url": "https://flash.jin10.com/detail/20260313191927288800",
-          "source": "金十数据",
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "特朗普：伊朗的一切都在被摧毁",
-          "url": "https://flash.jin10.com/detail/20260313123158096800",
-          "source": "金十数据",
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
           "title": "白宫官员：美国总统特朗普此前已表示，美国正与古巴进行对话，古巴领导人应达成协议，而这完全可能实现。",
           "url": "https://flash.jin10.com/detail/20260313233930392800",
           "source": "金十数据",
           "ranks": [
-            3
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
-          "url": "https://flash.jin10.com/detail/20260313171234466800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时48分]"
-        },
-        {
-          "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
-          "url": "https://flash.jin10.com/detail/20260313023939495800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "特朗普会晤在即，日本首相高市早苗健康状况引担忧",
-          "url": "https://flash.jin10.com/detail/20260313095635530800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普政府提议让巴西接收在美国被捕的外国人。",
-          "url": "https://flash.jin10.com/detail/20260313222101323800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "特朗普：目前未将重点放在获取伊朗铀的行动上，但迟早可能会这样做。",
-          "url": "https://flash.jin10.com/detail/20260313222035984800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "00时47分"
         },
         {
           "title": "特朗普称正密切监控美国境内的伊朗人",
           "url": "https://flash.jin10.com/detail/20260313232814161800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时48分]"
-        },
-        {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时46分]"
-        },
-        {
-          "title": "美国总统特朗普表示，他的政府将“研究”暂停实施《琼斯法》。",
-          "url": "https://wallstreetcn.com/livenews/3069883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时49分]"
-        },
-        {
-          "title": "特朗普：（谈琼斯法案暂停）我们将会关注此事。",
-          "url": "https://flash.jin10.com/detail/20260313221928187800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3069649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "Cameco Corp一度下跌8.9%，Energy Fuels Inc.一度下跌4.4%，特朗普称目前重点不在于获取伊朗铀材料。",
-          "url": "https://wallstreetcn.com/livenews/3069903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时53分]"
-        },
-        {
-          "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
-          "url": "https://wallstreetcn.com/livenews/3069118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
-        },
-        {
-          "title": "贝森特说不会因为战争成本跟特朗普对峙",
-          "url": "https://flash.jin10.com/detail/20260313045000353800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时31分]"
-        },
-        {
-          "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3069156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时31分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
-          "url": "https://flash.jin10.com/detail/20260313031932554800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
-          "url": "https://flash.jin10.com/detail/20260313031754519800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗局势）未来一周将对他们予以迎头痛击。",
-          "url": "https://flash.jin10.com/detail/20260313190732526800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "特朗普：穆杰塔巴可能受伤但活着",
-          "url": "https://www.toutiao.com/trending/7616538009198054950/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2015341795039475528",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美国总统特朗普：（关于霍尔木兹海峡）让我们拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260313190707304800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "美国总统特朗普：希望一切进展顺利。",
-          "url": "https://flash.jin10.com/detail/20260313190639309800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "特朗普重申美国正在“摧毁”伊朗。",
-          "url": "https://flash.jin10.com/detail/20260313221727144800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "美国总统特朗普谈论“Save America Act”，称：（国会山）领导层必须找到（足够多的支持）票数。",
-          "url": "https://wallstreetcn.com/livenews/3069869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "特朗普：（谈“拯救美国法案”）领导人必须找到足够的票数。",
-          "url": "https://flash.jin10.com/detail/20260313221712255800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "美国总统特朗普：（谈美国在霍尔木兹海峡的护航行动）如果我们需要，就会这么做。",
-          "url": "https://flash.jin10.com/detail/20260313190528886800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "以色列总统称特朗普攻击国家主权",
-          "url": "https://wallstreetcn.com/livenews/3069799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：美国总统特朗普可决定他希望为实现美国目标而奋斗多久。",
-          "url": "https://flash.jin10.com/detail/20260313203505497800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "日本首相高市早苗：将巩固与特朗普的信任关系。 将在美峰会中阐述日本在中东问题上的立场。 强化基本面能增强日元的信心。",
-          "url": "https://wallstreetcn.com/livenews/3069422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "特朗普：（谈伊朗沉睡特工）可能超过1,700个。",
-          "url": "https://flash.jin10.com/detail/20260313221312265800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
-          "url": "https://flash.jin10.com/detail/20260313042436372800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "特朗普炮轰鲍威尔：现在立刻降息",
-          "url": "https://www.toutiao.com/trending/7616231966203379758/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
-          "url": "https://flash.jin10.com/detail/20260313042248877800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "美国总统特朗普：一旦伊朗战争结束，（美国）经济就会迅速反弹。",
-          "url": "https://wallstreetcn.com/livenews/3069886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
-          "url": "https://flash.jin10.com/detail/20260313010502775800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "美国总统特朗普：我们拥有无与伦比的火力、无限的弹药和充足的时间——看看今天伊朗会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260313124216025800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "特朗普：我们在无人机防御方面不需要乌克兰的帮助。",
-          "url": "https://flash.jin10.com/detail/20260313230019786800",
-          "source": "金十数据",
-          "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "报道：特朗普政府拟暂停《琼斯法案》，从而实现平抑油价",
-          "url": "https://wallstreetcn.com/livenews/3069017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "00时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时48分 ~ 23时49分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时32分]"
-        },
-        {
-          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时31分 ~ 15时52分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040653218800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040535187800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "美股收盘：纳指跌1.7% 芯片股走弱",
-          "url": "https://flash.jin10.com/detail/20260313040117943800",
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260314003323131800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美股三大股指期货全线走低",
-          "url": "https://wallstreetcn.com/livenews/3069452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3069142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 05时46分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
-          "url": "https://wallstreetcn.com/livenews/3069153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时31分]"
-        },
-        {
-          "title": "为何油价大涨美股大跌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "摩根大通：散户投资者对美股首次显露出购买疲劳迹象",
-          "url": "https://wallstreetcn.com/livenews/3069876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时49分]"
-        },
-        {
-          "title": "美股小盘股指期货周四跌超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3069164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时31分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌2.28%，报405.84点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.91%，报2859.82点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌3.84%。",
-          "url": "https://wallstreetcn.com/livenews/3069162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时31分]"
-        },
-        {
-          "title": "纽约期金跌超2%，美股盘后失守5060美元",
-          "url": "https://wallstreetcn.com/livenews/3069160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时31分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3069804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美股高开低走，标普500指数现跌0.15%，纳指现跌0.4%，道指微涨0.07%。",
-          "url": "https://flash.jin10.com/detail/20260313230115209800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
-          "url": "https://wallstreetcn.com/articles/3767392",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时07分 ~ 23时49分]"
+          "time_info": "00时47分"
         },
         {
-          "title": "美元指数12日上涨",
-          "url": "https://flash.jin10.com/detail/20260313050109769800",
-          "source": "金十数据",
+          "title": "美股三大指数集体高开 百度涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时31分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3069075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 03时01分]"
-        },
-        {
-          "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
-          "url": "https://wallstreetcn.com/livenews/3069116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时40分]"
-        },
-        {
-          "title": "美元指数涨幅重新扩大至0.38%，重返100.100点上方。",
-          "url": "https://wallstreetcn.com/livenews/3069893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "纳斯达克100指数转跌，此前一度上涨1%。 标普500指数转跌，此前一度涨0.9%。 现货黄金短线跳水40美元，跌穿5040美元，日内整体跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3069890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "GitHub Copilot 、 Cursor 、 CodeX 与 Claude Code，我究竟要为谁付费？",
-          "url": "https://www.zhihu.com/question/1963698332040929828",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
-          "url": "https://wallstreetcn.com/livenews/3069106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时13分]"
-        },
-        {
-          "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
-          "url": "https://flash.jin10.com/detail/20260313023234906800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "[00时46分 ~ 00时47分]"
         }
       ]
     },
@@ -1042,12 +145,28 @@
           "url": "https://www.zhihu.com/question/2014783631814580088",
           "source": "知乎",
           "ranks": [
-            4,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时46分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         }
       ]
     }
