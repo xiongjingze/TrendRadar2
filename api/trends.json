@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T12:56:14.699006+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-03-17T14:02:45.029973+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 12时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 14时02分]"
         },
         {
           "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
@@ -27,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 12时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 14时02分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -95,17 +96,6 @@
           "time_info": "[01时06分 ~ 07时36分]"
         },
         {
-          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
-          "url": "https://www.cls.cn/detail/2314895",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时56分]"
-        },
-        {
           "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_32777497",
           "source": "澎湃新闻",
@@ -114,8 +104,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
+          "url": "https://www.cls.cn/detail/2314895",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普“三个很开心”，让全世界脊背发凉",
+          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时02分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -140,17 +153,6 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "特朗普“三个很开心”，让全世界脊背发凉",
-          "url": "https://news.ifeng.com/c/8rYllPsJnfC",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时56分]"
-        },
-        {
           "title": "美以伊战争丨美财长：特朗普不是因护航事件推迟访华",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -160,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 12时56分]"
+        },
+        {
+          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
+          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 14时02分]"
         },
         {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
@@ -173,15 +186,15 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://wallstreetcn.com/livenews/3071393",
-          "source": "华尔街见闻-快讯",
+          "title": "美以伊战争丨特朗普威胁推迟访华？美财长回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "14时02分"
         },
         {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
@@ -195,28 +208,6 @@
           "time_info": "01时06分"
         },
         {
-          "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
-          "url": "https://news.ifeng.com/c/8rYzLJPGX5T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "韩媒：特朗普再次点名韩国，施压拿出向霍尔木兹海峡派兵的诚意",
-          "url": "https://wallstreetcn.com/livenews/3071389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
           "url": "https://wallstreetcn.com/livenews/3071059",
           "source": "华尔街见闻-快讯",
@@ -226,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时02分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -253,6 +255,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "误判局势还是刻意无视？特朗普坚称“没人料到”伊朗报复",
+          "url": "https://flash.jin10.com/detail/20260317133835693800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美国总统特朗普：英国国王很快就要来访。",
           "url": "https://flash.jin10.com/detail/20260317003115577800",
           "source": "金十数据",
@@ -270,7 +283,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -297,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时36分]"
+        },
+        {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://wallstreetcn.com/livenews/3071393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时02分]"
         },
         {
           "title": "美国总统特朗普：还有比现在更好的降息时机吗？",
@@ -391,15 +416,16 @@
           "time_info": "[05时44分 ~ 06时39分]"
         },
         {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
+          "title": "韩媒：特朗普再次点名韩国，施压拿出向霍尔木兹海峡派兵的诚意",
+          "url": "https://wallstreetcn.com/livenews/3071389",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时56分]"
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时02分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -421,8 +447,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 14时02分]"
         },
         {
           "title": "美国总统特朗普：美联储应立即召开特别会议降息。",
@@ -758,8 +784,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 14时02分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -769,8 +795,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时02分]"
+        },
+        {
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时02分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -782,18 +821,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        },
-        {
-          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
-          "url": "https://www.cls.cn/detail/2314987",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 12时56分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -864,6 +891,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数向上触及100，日内涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3071415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260317044815242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美元指数跌0.7%",
+          "url": "https://wallstreetcn.com/livenews/3071122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -918,34 +984,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20260317044815242800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "美元指数跌0.7%",
-          "url": "https://wallstreetcn.com/livenews/3071122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         }
       ]
     }
