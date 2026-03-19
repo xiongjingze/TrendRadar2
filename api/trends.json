@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:39:46.431817+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-03-19T21:14:47.196850+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时08分 ~ 06时39分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 21时14分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -102,16 +114,28 @@
           "time_info": "[01时08分 ~ 06时39分]"
         },
         {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
           "source": "凤凰网",
           "ranks": [
-            4,
-            5
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时50分 ~ 19时39分]"
+          "time_info": "[17时51分 ~ 21时14分]"
+        },
+        {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时50分 ~ 21时14分]"
         },
         {
           "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
@@ -125,28 +149,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时35分 ~ 16时50分]"
-        },
-        {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时39分]"
-        },
-        {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 19时39分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -172,6 +174,17 @@
           "time_info": "[12时58分 ~ 15时50分]"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时14分]"
+        },
+        {
           "title": "【报道：特朗普暂不想再袭伊朗能源设施】据《华尔街日报》援引美国官员消息报道，在以色列当天袭击了伊朗南帕尔斯天然气田之后，美国总统特朗普表示“不希望再发生针对伊朗能源设施的袭击”。报道称，特朗普提前获悉了以色列对南帕尔斯气田的袭击计划，并表示支持，意在借此向伊朗传递信息，以“回应其封锁霍尔木兹海峡的行为”。据美方官员称，特朗普认为“伊朗已领会了这一信息”，因此目前他反对继续袭击伊朗的能源基础设施。不过，视伊朗未来在该战略水道上的举动而定，特朗普仍有可能再次考虑将更多伊朗能源设施列为打击目标。据以色列媒体报道，以色列空军当天袭击了位于伊朗南部的“主要天然气设施”，并准备对伊朗其他国家基础设施发动袭击。以色列媒体报道称，此次袭击由以色列与美国“协调进行”。 (CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
@@ -181,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        },
-        {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时39分]"
         },
         {
           "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
@@ -457,7 +459,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -531,7 +533,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -581,6 +583,17 @@
           "time_info": "[06时38分 ~ 06时39分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3073359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
           "url": "https://flash.jin10.com/detail/20260319025215366800",
           "source": "金十数据",
@@ -601,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货跌幅扩大至0.7%，纳指期货跌0.8%，均至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3073349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
@@ -640,6 +664,17 @@
           "time_info": "[04时43分 ~ 06时39分]"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "美光科技(MU.O)美股盘后跌超5%。",
           "url": "https://flash.jin10.com/detail/20260319063817922800",
           "source": "金十数据",
@@ -662,6 +697,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-19）",
+          "url": "https://flash.jin10.com/detail/20260319204334933800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "金十图示：2026年03月18日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260319040515992800",
           "source": "金十数据",
@@ -679,7 +725,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -769,6 +815,38 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时08分 ~ 15时50分]"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -797,23 +875,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "OpenAI将收购初创公司Astral，进一步拓展其在编程领域的布局。",
+          "url": "https://wallstreetcn.com/livenews/3073358",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18,
-            23,
-            24,
-            29
+            3
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 15时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         }
       ]
     }
