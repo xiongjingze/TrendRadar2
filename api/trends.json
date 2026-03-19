@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T17:52:07.460691+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-03-19T18:45:58.336151+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -123,8 +123,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时52分]"
+          "time_info": "[17时51分 ~ 18时45分]"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -150,17 +161,6 @@
           "time_info": "[12时58分 ~ 15时50分]"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
           "url": "https://wallstreetcn.com/articles/3767896",
           "source": "华尔街见闻",
@@ -168,8 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时45分]"
         },
         {
           "title": "【报道：特朗普暂不想再袭伊朗能源设施】据《华尔街日报》援引美国官员消息报道，在以色列当天袭击了伊朗南帕尔斯天然气田之后，美国总统特朗普表示“不希望再发生针对伊朗能源设施的袭击”。报道称，特朗普提前获悉了以色列对南帕尔斯气田的袭击计划，并表示支持，意在借此向伊朗传递信息，以“回应其封锁霍尔木兹海峡的行为”。据美方官员称，特朗普认为“伊朗已领会了这一信息”，因此目前他反对继续袭击伊朗的能源基础设施。不过，视伊朗未来在该战略水道上的举动而定，特朗普仍有可能再次考虑将更多伊朗能源设施列为打击目标。据以色列媒体报道，以色列空军当天袭击了位于伊朗南部的“主要天然气设施”，并准备对伊朗其他国家基础设施发动袭击。以色列媒体报道称，此次袭击由以色列与美国“协调进行”。 (CCTV国际时讯)",
@@ -200,7 +200,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -222,9 +222,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "知情人士：特朗普政府或强推官方保险！想要美军护航要“先买单”？",
@@ -576,7 +587,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
