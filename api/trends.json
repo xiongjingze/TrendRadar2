@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T10:36:03.057895+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-03-19T12:58:39.391737+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 12时58分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -79,6 +79,17 @@
           "time_info": "[01时08分 ~ 07时34分]"
         },
         {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 12时58分]"
+        },
+        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -91,15 +102,16 @@
           "time_info": "[01时08分 ~ 06时39分]"
         },
         {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 10时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时58分]"
         },
         {
           "title": "【报道：特朗普暂不想再袭伊朗能源设施】据《华尔街日报》援引美国官员消息报道，在以色列当天袭击了伊朗南帕尔斯天然气田之后，美国总统特朗普表示“不希望再发生针对伊朗能源设施的袭击”。报道称，特朗普提前获悉了以色列对南帕尔斯气田的袭击计划，并表示支持，意在借此向伊朗传递信息，以“回应其封锁霍尔木兹海峡的行为”。据美方官员称，特朗普认为“伊朗已领会了这一信息”，因此目前他反对继续袭击伊朗的能源基础设施。不过，视伊朗未来在该战略水道上的举动而定，特朗普仍有可能再次考虑将更多伊朗能源设施列为打击目标。据以色列媒体报道，以色列空军当天袭击了位于伊朗南部的“主要天然气设施”，并准备对伊朗其他国家基础设施发动袭击。以色列媒体报道称，此次袭击由以色列与美国“协调进行”。 (CCTV国际时讯)",
@@ -124,6 +136,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
           "url": "https://flash.jin10.com/detail/20260319043732835800",
           "source": "金十数据",
@@ -135,15 +158,16 @@
           "time_info": "04时43分"
         },
         {
-          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
-          "source": "澎湃新闻",
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 12时58分]"
         },
         {
           "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
@@ -176,7 +200,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -191,17 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时34分]"
-        },
-        {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
@@ -244,7 +257,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -255,7 +268,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -269,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "特朗普的噩梦：鲍威尔不仅不走，还赶上美联储最要命的转折点",
+          "url": "https://flash.jin10.com/detail/20260319122043077800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "市场消息：特朗普离开华盛顿特区，前往特拉华州多佛。",
@@ -299,9 +323,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "欧美同盟裂痕加剧？特朗普施压下，核心盟友集体“翻脸”",
+          "url": "https://flash.jin10.com/detail/20260319120946486800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
@@ -321,7 +356,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -332,7 +367,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -343,7 +378,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -365,7 +400,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
@@ -375,6 +410,18 @@
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 12时58分]"
+        },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
@@ -387,18 +434,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时08分 ~ 05时57分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 10时36分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -549,7 +584,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -615,11 +650,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 12时58分]"
         }
       ]
     }
