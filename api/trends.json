@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T16:49:56.101737+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-03-20T17:49:30.658218+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时40分 ~ 16时49分]"
+          "appearance_count": 13,
+          "time_info": "[05时40分 ~ 17时49分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -64,8 +64,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时07分 ~ 16时49分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 17时49分]"
+        },
+        {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 17时49分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 10时28分]"
-        },
-        {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 16时49分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -134,8 +134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时49分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
@@ -210,7 +210,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -261,6 +261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时40分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时49分]"
         },
         {
           "title": "特朗普把美袭击伊朗比作偷袭珍珠港",
@@ -351,17 +363,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
           "title": "美国总统特朗普结束白宫新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260320001923349800",
           "source": "金十数据",
@@ -417,6 +418,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "行业集体施压奏效！特朗普政府明确放弃石油出口禁令选项",
+          "url": "https://flash.jin10.com/detail/20260320172358241800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
           "url": "https://flash.jin10.com/detail/20260320061455278800",
           "source": "金十数据",
@@ -453,8 +465,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时28分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[10时28分 ~ 17时49分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -588,7 +600,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -599,7 +611,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         }
