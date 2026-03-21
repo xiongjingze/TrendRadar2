@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:45:06.624416+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-03-21T14:52:12.400932+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 13时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 14时52分]"
+        },
+        {
+          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
+          "url": "https://wallstreetcn.com/articles/3768030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时33分 ~ 14时52分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -55,18 +70,17 @@
           "time_info": "[00时51分 ~ 10时22分]"
         },
         {
-          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
-          "url": "https://wallstreetcn.com/articles/3768030",
-          "source": "华尔街见闻",
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
+            5,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时33分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[07时33分 ~ 14时52分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -81,20 +95,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 13时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 14时52分]"
         },
         {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
+          "title": "美日领导人会晤，特朗普只想聊伊朗",
+          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
+          "source": "凤凰网",
           "ranks": [
             5,
             4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时33分 ~ 13时45分]"
+          "time_info": "[10时22分 ~ 14时52分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -111,18 +125,6 @@
           "time_info": "[00时51分 ~ 10时22分]"
         },
         {
-          "title": "美日领导人会晤，特朗普只想聊伊朗",
-          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 13时45分]"
-        },
-        {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
           "url": "https://www.cls.cn/detail/2320222",
           "source": "财联社热门",
@@ -132,8 +134,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 13时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 14时52分]"
+        },
+        {
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 14时52分]"
+        },
+        {
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 14时52分]"
         },
         {
           "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
@@ -147,17 +173,6 @@
           "time_info": "[06时33分 ~ 07时34分]"
         },
         {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 13时45分]"
-        },
-        {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
           "url": "https://flash.jin10.com/detail/20260321041434327800",
           "source": "金十数据",
@@ -168,18 +183,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时38分 ~ 10时22分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 13时45分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -198,11 +201,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时52分]"
         },
         {
           "title": "“谁是主子，谁是奴才？”特朗普借“珍珠港”给高市早苗上课",
@@ -312,6 +316,17 @@
           "time_info": "[04时38分 ~ 07时34分]"
         },
         {
+          "title": "视频丨美防长声称全世界都应对特朗普说声“谢谢”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800200",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 14时52分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
           "url": "https://flash.jin10.com/detail/20260321035243299800",
           "source": "金十数据",
@@ -401,17 +416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "视频丨美防长声称全世界都应对特朗普说声“谢谢”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32800200",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
           "title": "消息人士称，特朗普政府正制定方案以夺取伊朗核材料储备",
@@ -612,8 +616,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 13时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 14时52分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -631,6 +635,18 @@
           "time_info": "[00时51分 ~ 06时33分]"
         },
         {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时33分 ~ 14时52分]"
+        },
+        {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
@@ -645,18 +661,6 @@
           "time_info": "[00时51分 ~ 10时22分]"
         },
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 13时45分]"
-        },
-        {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
@@ -664,8 +668,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 13时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 14时52分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 14时52分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -677,17 +693,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时34分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 13时45分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
