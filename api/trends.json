@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T03:13:59.990626+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-03-27T04:40:44.338166+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
@@ -61,8 +62,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
+        },
+        {
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.toutiao.com/trending/7621462030418972210/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "特朗普再次就停战谈判威胁伊朗",
@@ -71,9 +85,53 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
+          "url": "https://wallstreetcn.com/livenews/3077681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "特朗普称再推迟10天打击伊朗发电厂",
+          "url": "https://wallstreetcn.com/livenews/3077680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美指涨穿100关口，特朗普延长对伊朗谈判的最后期限至4月6日",
+          "url": "https://wallstreetcn.com/livenews/3077679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
+          "url": "https://wallstreetcn.com/articles/3768496",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
@@ -98,18 +156,6 @@
           "time_info": "01时07分"
         },
         {
-          "title": "中方回应特朗普称5月中旬访华",
-          "url": "https://www.toutiao.com/trending/7621462030418972210/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
-        },
-        {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
           "url": "https://www.zhihu.com/question/2020434705586102279",
           "source": "知乎",
@@ -118,8 +164,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -129,8 +175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -141,8 +187,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "特朗普称伊朗允许10艘油轮通行霍尔木兹海峡",
@@ -184,7 +230,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -214,7 +260,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -224,19 +270,53 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260327040606823800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260327040601213800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美股收盘：纳指跌超2% 英伟达跌4%",
+          "url": "https://flash.jin10.com/detail/20260327040147808800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -261,6 +341,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3077676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2326015",
           "source": "财联社热门",
@@ -268,14 +359,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -285,8 +376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -295,7 +386,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -309,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
+          "url": "https://flash.jin10.com/detail/20260327032315760800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
@@ -325,7 +427,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "WTI原油日内涨幅达5.0%，报94.89美元/桶。 纳斯达克100指数跌幅扩大至1.6%。",
@@ -348,6 +450,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美元指数DXY向上触及100关口，日内涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20260327040044304800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "周四（3月26日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至99.980点，整体持续走高，北京时间19:11-20:02涨幅突出。 彭博美元指数涨0.36%，刷新日高至1215.82点。 美元兑日元涨0.22%，刷新日高至159.83日元；欧元兑日元跌0.08%，英镑兑日元跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3077665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美元指数26日上涨",
+          "url": "https://flash.jin10.com/detail/20260327033542902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
@@ -378,11 +513,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时40分]"
         }
       ]
     }
