@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T13:10:56.533456+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-03-26T15:15:59.119922+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -74,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时43分 ~ 13时10分]"
+          "appearance_count": 6,
+          "time_info": "[05时43分 ~ 15时15分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -91,6 +91,18 @@
           "time_info": "[01时08分 ~ 07时48分]"
         },
         {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时15分]"
+        },
+        {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
           "url": "https://wallstreetcn.com/articles/3768337",
           "source": "华尔街见闻",
@@ -104,16 +116,29 @@
           "time_info": "[06时41分 ~ 13时10分]"
         },
         {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 15时15分]"
+        },
+        {
+          "title": "白宫：特朗普将于5月中旬访华",
+          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
           "source": "凤凰网",
           "ranks": [
-            5,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时10分]"
+          "time_info": "[13时10分 ~ 15时15分]"
         },
         {
           "title": "美以伊战争丨特朗普被曝想尽快结束对伊战争",
@@ -127,17 +152,6 @@
           "time_info": "10时41分"
         },
         {
-          "title": "白宫：特朗普将于5月中旬访华",
-          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
           "url": "https://flash.jin10.com/detail/20260326032123527800",
           "source": "金十数据",
@@ -147,19 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
-        },
-        {
-          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 13时10分]"
         },
         {
           "title": "据Axios网站记者Barak Ravid：特朗普政府尚未收到伊朗方面拒绝该提议的任何官方消息。",
@@ -190,7 +191,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -201,7 +202,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -216,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时44分]"
+        },
+        {
+          "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
+          "url": "https://wallstreetcn.com/articles/3768421",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
@@ -282,7 +294,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -378,8 +390,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 15时15分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -390,8 +402,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 15时15分]"
         },
         {
           "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
@@ -470,7 +482,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -481,7 +493,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -522,7 +534,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -533,8 +545,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 15时15分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -600,8 +623,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 13时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时08分 ~ 15时15分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -668,11 +691,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时10分]"
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时15分]"
         }
       ]
     }
