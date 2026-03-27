@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T05:40:25.806158+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-28T06:37:39.985322+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时37分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时37分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -49,9 +49,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时37分]"
+        },
+        {
+          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
+          "url": "https://www.cls.cn/detail/2327594",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时37分]"
         },
         {
           "title": "美国总统特朗普：我们将公布新的柴油指导方针。",
@@ -98,17 +111,49 @@
           "time_info": "03时08分"
         },
         {
-          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
-          "url": "https://www.cls.cn/detail/2327594",
+          "title": "美国总统特朗普：古巴是下一个。",
+          "url": "https://wallstreetcn.com/livenews/3078506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普：乌克兰曾试图干预美大选",
+          "url": "https://www.cls.cn/detail/2327470",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            10
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时37分]"
+        },
+        {
+          "title": "美国总统特朗普：我们想要低利率，无通胀。",
+          "url": "https://wallstreetcn.com/livenews/3078505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普：古巴将是下一个目标。",
+          "url": "https://flash.jin10.com/detail/20260328060529317800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美国总统特朗普：要求为农民提供额外农业援助。",
@@ -122,6 +167,61 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国总统特朗普：我们想要低利率，无通胀。",
+          "url": "https://flash.jin10.com/detail/20260328060310031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "比特币涨幅收窄至不足0.1%，逼近6.6万美元。 美国总统特朗普称，伊朗打击目标仍然有数千个，“我们迟早要决定该怎么做”。",
+          "url": "https://wallstreetcn.com/livenews/3078503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：我们摧毁了伊朗97%的发射器。",
+          "url": "https://flash.jin10.com/detail/20260328055901554800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3078502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
+          "url": "https://wallstreetcn.com/articles/3768556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时37分]"
+        },
+        {
           "title": "美国总统特朗普：（在演讲中对农民表示）就你们所知，我们在伊朗问题上做得很好。",
           "url": "https://flash.jin10.com/detail/20260328005322422800",
           "source": "金十数据",
@@ -133,16 +233,26 @@
           "time_info": "01时02分"
         },
         {
-          "title": "特朗普：乌克兰曾试图干预美大选",
-          "url": "https://www.cls.cn/detail/2327470",
-          "source": "财联社热门",
+          "title": "美国总统特朗普谈伊朗：我们还有另外3554个目标要完成，这些目标将很快就会被完成。",
+          "url": "https://flash.jin10.com/detail/20260328055758587800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普：我要感谢整个沙特阿拉伯王国；他们给予了我很大的帮助，这与北约截然不同。",
+          "url": "https://flash.jin10.com/detail/20260328055631734800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
@@ -161,11 +271,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时37分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈英国航空母舰） 它们不太好。它们速度慢，而且性能也不太好。",
+          "url": "https://flash.jin10.com/detail/20260328055428270800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表关于经济的重要讲话。",
@@ -179,15 +301,15 @@
           "time_info": "03时08分"
         },
         {
-          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
-          "url": "https://wallstreetcn.com/articles/3768556",
-          "source": "华尔街见闻",
+          "title": "特朗普将霍尔木兹海峡说成特朗普海峡",
+          "url": "https://flash.jin10.com/detail/20260328055355915800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "06时37分"
         },
         {
           "title": "美国总统特朗普：希望卡特彼勒等公司保证降低农民的成本。 与约翰迪尔（迪尔农机）讨论了（农用）设备问题。",
@@ -199,6 +321,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3078486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时37分]"
         },
         {
           "title": "报道：特朗普预算提案将于4月3日提交国会，国家安全支出最受关注",
@@ -213,15 +347,27 @@
           "time_info": "[01时02分 ~ 01时58分]"
         },
         {
-          "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3078486",
+          "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
+          "url": "https://wallstreetcn.com/livenews/3078481",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时37分]"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：伊朗必须开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260328054302829800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "06时37分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
@@ -233,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：他们正在（与我们）谈判。",
+          "url": "https://flash.jin10.com/detail/20260328054245418800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "市场消息：美国总统特朗普承诺降低拖拉机成本，并“消除大量针对农业设备的荒谬规定”。",
@@ -277,17 +434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        },
-        {
-          "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
-          "url": "https://wallstreetcn.com/livenews/3078481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         },
         {
           "title": "美国总统特朗普：正寻求国会采取行动，允许E15乙醇汽油全年销售使用。",
@@ -337,7 +483,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -347,8 +493,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -358,8 +504,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -371,8 +517,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
+        },
+        {
+          "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时37分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -386,15 +543,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
-          "source": "澎湃新闻",
+          "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -402,11 +559,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时37分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
@@ -414,11 +572,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时37分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -426,11 +585,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时37分]"
         },
         {
           "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
@@ -494,8 +654,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            15,
+            18,
+            14,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -507,8 +683,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -520,23 +696,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            15,
-            18,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时37分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
