@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T18:02:38.113607+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-03-27T19:44:27.790109+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时40分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[04时40分 ~ 19时44分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 19时44分]"
         },
         {
           "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
@@ -72,11 +72,24 @@
           "ranks": [
             7,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 19时44分]"
+        },
+        {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 19时44分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -125,18 +138,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时43分 ~ 16时59分]"
-        },
-        {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 18时02分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -277,7 +278,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -291,6 +292,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 19时44分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-27）",
+          "url": "https://flash.jin10.com/detail/20260327193101277800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
@@ -373,19 +399,6 @@
           "time_info": "[15时14分 ~ 18时02分]"
         },
         {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 18时02分]"
-        },
-        {
           "title": "美指涨穿100关口，特朗普延长对伊朗谈判的最后期限至4月6日",
           "url": "https://wallstreetcn.com/livenews/3077679",
           "source": "华尔街见闻-快讯",
@@ -396,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时36分]"
+        },
+        {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时44分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗“大礼”",
@@ -418,17 +443,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：你不能让一个疯子或疯狂的意识形态拥有核武器。",
@@ -731,7 +745,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -739,11 +753,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 19时44分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -753,11 +768,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 19时44分]"
         },
         {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
@@ -829,6 +845,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040601213800",
           "source": "金十数据",
@@ -868,7 +895,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -882,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3078195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
@@ -947,7 +985,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -967,8 +1005,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时43分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时43分 ~ 19时44分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -977,11 +1015,12 @@
           "ranks": [
             9,
             5,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 19时44分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -1001,11 +1040,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 19时44分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
