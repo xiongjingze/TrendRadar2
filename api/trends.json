@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T00:09:31.131169+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-04-03T01:53:54.922933+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        },
+        {
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -30,37 +63,82 @@
           "time_info": "00时09分"
         },
         {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
+          "url": "https://flash.jin10.com/detail/20260403011954533800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "01时53分"
         },
         {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
+          "title": "特朗普解职美国司法部长邦迪",
+          "url": "https://wallstreetcn.com/livenews/3081730",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "01时53分"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
+          "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3081729",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
+          "url": "https://flash.jin10.com/detail/20260403010625479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            17,
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
+          "url": "https://flash.jin10.com/detail/20260403010200558800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗强硬回应特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "特朗普话音刚落 伊朗导弹直扑以色列",
@@ -74,15 +152,37 @@
           "time_info": "00时09分"
         },
         {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
+          "title": "特朗普演说后，美油价差飙升至历史纪录水平",
+          "url": "https://wallstreetcn.com/livenews/3081717",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
+          "url": "https://flash.jin10.com/detail/20260403004016648800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
+          "url": "https://wallstreetcn.com/livenews/3081713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
@@ -109,30 +209,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
-          "url": "https://wallstreetcn.com/livenews/3081707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -142,30 +232,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        },
+        {
+          "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
+          "url": "https://wallstreetcn.com/livenews/3081707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
           "url": "https://www.cls.cn/detail/2333333",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         }
       ]
     },
@@ -181,19 +285,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -203,30 +308,60 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
           "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI收购TBPN。",
+          "url": "https://flash.jin10.com/detail/20260403012712890800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
@@ -239,11 +374,29 @@
           "url": "https://www.zhihu.com/question/2022382258535809067",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "01时53分"
         }
       ]
     }
