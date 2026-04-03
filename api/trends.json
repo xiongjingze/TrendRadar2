@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:48:55.999650+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-04-03T23:42:44.958965+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 71,
       "titles": [
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时40分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[10时40分 ~ 23时42分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -30,6 +30,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时09分 ~ 10时41分]"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 23时42分]"
         },
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -63,21 +78,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时40分 ~ 18时57分]"
-        },
-        {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 22时48分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -114,6 +114,20 @@
           "time_info": "[17时01分 ~ 21时12分]"
         },
         {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时01分 ~ 23时42分]"
+        },
+        {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
           "url": "https://www.cls.cn/detail/2334086",
           "source": "财联社热门",
@@ -125,20 +139,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时39分 ~ 15时16分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时01分 ~ 22时48分]"
         },
         {
           "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
@@ -217,15 +217,15 @@
           "time_info": "[13时09分 ~ 18时01分]"
         },
         {
-          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
-          "url": "https://wallstreetcn.com/livenews/3082255",
+          "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
+          "url": "https://wallstreetcn.com/livenews/3082267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普：美国司法部长帕姆·邦迪将转任一份在私营部门非常需要且重要的新工作，具体日期将于近期公布，副司法部长托德·布兰奇将接任代理司法部长一职。",
@@ -245,7 +245,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -261,13 +261,24 @@
           "time_info": "21时12分"
         },
         {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时42分]"
+        },
+        {
           "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
           "url": "https://flash.jin10.com/detail/20260403223119763800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -284,6 +295,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时18分 ~ 06时37分]"
+        },
+        {
+          "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
+          "url": "https://flash.jin10.com/detail/20260403233021951800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普解职美国司法部长邦迪",
@@ -314,9 +336,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
+        },
+        {
+          "title": "北约方面表示，北约秘书长将于4月8日至12日访美，会见美国总统特朗普、国务卿鲁比奥和国防部长赫格塞思。",
+          "url": "https://flash.jin10.com/detail/20260403232929062800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普2027财年预算案拟为美国政府部门拨款将近2.2万亿美元",
@@ -325,7 +358,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -361,7 +394,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -390,15 +423,16 @@
           "time_info": "[06时37分 ~ 07时39分]"
         },
         {
-          "title": "特朗普又又又临阵退缩了？",
-          "url": "https://news.ifeng.com/c/8s1rQuxF293",
-          "source": "凤凰网",
+          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
+          "url": "https://wallstreetcn.com/livenews/3082255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时42分]"
         },
         {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
@@ -513,7 +547,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -535,7 +569,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -560,6 +594,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "据CNN援引白宫新闻秘书莱维特表示，美国总统特朗普已获知伊朗击落一架无人机的事件。",
+          "url": "https://flash.jin10.com/detail/20260403231509128800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
+          "url": "https://wallstreetcn.com/livenews/3082250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "石破茂公开评价特朗普喜欢被奉承",
@@ -612,7 +668,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -672,6 +728,17 @@
           "time_info": "21时12分"
         },
         {
+          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
+          "url": "https://flash.jin10.com/detail/20260403224906129800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
           "url": "https://wallstreetcn.com/livenews/3081713",
           "source": "华尔街见闻-快讯",
@@ -716,6 +783,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
+          "url": "https://flash.jin10.com/detail/20260403224401371800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美国总统特朗普的预算案提议终止对国家民主基金会 3.15亿美元的资助。",
           "url": "https://flash.jin10.com/detail/20260403204913621800",
           "source": "金十数据",
@@ -725,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260403223912210800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
@@ -914,7 +1003,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
@@ -1006,11 +1095,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时12分 ~ 22时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 23时42分]"
         }
       ]
     },
@@ -1018,6 +1108,21 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            5,
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时01分 ~ 23时42分]"
+        },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
@@ -1030,20 +1135,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            5,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时01分 ~ 22时48分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -1075,7 +1166,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
@@ -1101,11 +1192,12 @@
           "url": "https://wallstreetcn.com/livenews/3082252",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时42分]"
         },
         {
           "title": "美元指数2日上涨",
@@ -1189,6 +1281,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Gemma4与Qwen3.6有哪些升级",
+          "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 23时42分]"
+        },
+        {
           "title": "如何评价 qwen 3.6 转向闭源？",
           "url": "https://www.zhihu.com/question/2022382258535809067",
           "source": "知乎",
@@ -1201,19 +1306,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 04时40分]"
-        },
-        {
-          "title": "Gemma4与Qwen3.6有哪些升级",
-          "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 22时48分]"
         }
       ]
     }
