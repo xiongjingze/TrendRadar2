@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T04:42:25.713070+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-04-04T05:38:53.219899+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时38分]"
         },
         {
           "title": "特朗普又又又临阵退缩了？",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时38分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -47,20 +47,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "特朗普：美军机被击落不会影响与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3082320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时38分]"
         },
         {
           "title": "马克龙回怼特朗普",
@@ -72,8 +61,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时38分]"
         },
         {
           "title": "据NBC新闻：美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。",
@@ -82,20 +71,58 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时38分]"
         },
         {
-          "title": "美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。（NBC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3082318",
+          "title": "特朗普：美军机被击落不会影响与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3082320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
+          "url": "https://flash.jin10.com/detail/20260404032437560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时38分]"
+        },
+        {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时38分]"
+        },
+        {
+          "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
+          "url": "https://wallstreetcn.com/livenews/3082306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 05时38分]"
         },
         {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
@@ -111,52 +138,17 @@
           "time_info": "[00时47分 ~ 02时54分]"
         },
         {
-          "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
-          "url": "https://flash.jin10.com/detail/20260404032437560800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时42分]"
-        },
-        {
-          "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
-          "url": "https://wallstreetcn.com/livenews/3082306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时42分]"
-        },
-        {
-          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
-          "url": "https://wallstreetcn.com/articles/3769139",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
           "url": "https://wallstreetcn.com/livenews/3082313",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时38分]"
         },
         {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
@@ -167,8 +159,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 05时38分]"
         },
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -179,8 +171,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。（NBC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3082318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时38分]"
         },
         {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
@@ -253,11 +257,12 @@
             24,
             18,
             15,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时38分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -266,11 +271,12 @@
           "ranks": [
             6,
             12,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 05时38分]"
         }
       ]
     },
@@ -288,8 +294,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时38分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -319,8 +325,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 05时38分]"
         }
       ]
     },
