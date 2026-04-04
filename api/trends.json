@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T21:04:45.866759+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-04-04T22:37:42.037919+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -58,6 +58,19 @@
           "time_info": "[14时01分 ~ 18时38分]"
         },
         {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时47分 ~ 22时37分]"
+        },
+        {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
           "url": "https://www.zhihu.com/question/2023328039937786913",
           "source": "知乎",
@@ -72,17 +85,15 @@
           "time_info": "[02时54分 ~ 12时54分]"
         },
         {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时47分 ~ 21时04分]"
+          "time_info": "[17时42分 ~ 22时37分]"
         },
         {
           "title": "马克龙回怼特朗普",
@@ -98,15 +109,19 @@
           "time_info": "[00时47分 ~ 07时39分]"
         },
         {
-          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
-          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
-          "source": "凤凰网",
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            17,
+            16,
+            15,
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[16时47分 ~ 22时37分]"
         },
         {
           "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
@@ -146,18 +161,15 @@
           "time_info": "[03时41分 ~ 07时39分]"
         },
         {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
+          "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3082457",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            16,
-            15,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时47分 ~ 21时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "特朗普：美军机被击落不会影响与伊朗谈判",
@@ -275,6 +287,17 @@
           "time_info": "[03时41分 ~ 06时38分]"
         },
         {
+          "title": "美国总统特朗普：昨天不仅就业数据非常好，新增了17.8万个工作岗位，而且贸易逆差下降了55%，创下历史最大降幅。感谢关税先生！与此同时，我们还在消除一个拥有核武的伊朗。",
+          "url": "https://flash.jin10.com/detail/20260404213415488800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "据华尔街日报：美国法官驳回总统特朗普政府恢复针对鲍威尔的传票申请。",
           "url": "https://wallstreetcn.com/livenews/3082306",
           "source": "华尔街见闻-快讯",
@@ -287,17 +310,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时54分 ~ 05时38分]"
-        },
-        {
-          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
-          "url": "https://flash.jin10.com/detail/20260404202353358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         },
         {
           "title": "美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。（NBC新闻）",
@@ -325,6 +337,17 @@
           "time_info": "16时47分"
         },
         {
+          "title": "特朗普：纽约时报信誉扫地 把北约称为“北美条约组织”",
+          "url": "https://flash.jin10.com/detail/20260404212809199800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
           "url": "https://wallstreetcn.com/livenews/3082282",
           "source": "华尔街见闻-快讯",
@@ -350,15 +373,17 @@
           "time_info": "[18时38分 ~ 19时33分]"
         },
         {
-          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
-          "url": "https://flash.jin10.com/detail/20260404201515638800",
-          "source": "金十数据",
+          "title": "奥地利副总理：不想卷入特朗普发动的战争",
+          "url": "https://wallstreetcn.com/livenews/3082429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6,
+            17,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 22时37分]"
         },
         {
           "title": "特朗普称伊朗“新政权”更温和 专家称伊朗政权未更迭且更强硬",
@@ -373,18 +398,6 @@
           "time_info": "[18时38分 ~ 19时33分]"
         },
         {
-          "title": "奥地利副总理：不想卷入特朗普发动的战争",
-          "url": "https://wallstreetcn.com/livenews/3082429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时04分]"
-        },
-        {
           "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260404123540502800",
           "source": "金十数据",
@@ -395,6 +408,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 15时14分]"
+        },
+        {
+          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
+          "url": "https://flash.jin10.com/detail/20260404202353358800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时37分]"
+        },
+        {
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260404201515638800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时37分]"
         },
         {
           "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
@@ -529,11 +566,12 @@
             6,
             5,
             8,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 22时37分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
