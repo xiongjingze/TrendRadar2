@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T14:01:45.847799+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-04-04T15:14:12.078044+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时54分 ~ 14时01分]"
+          "appearance_count": 12,
+          "time_info": "[02时54分 ~ 15时14分]"
         },
         {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
@@ -84,6 +84,17 @@
           "time_info": "[00时47分 ~ 02时54分]"
         },
         {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时14分]"
+        },
+        {
           "title": "特朗普发文吹嘘自己创造了一个强大的经济增长引擎",
           "url": "https://flash.jin10.com/detail/20260404060440038800",
           "source": "金十数据",
@@ -122,6 +133,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 07时39分]"
+        },
+        {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://wallstreetcn.com/livenews/3082385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。 特朗普鼓吹道：特别是18.6万名在三月份获得私营部门工作的美国人！ 我的经济政策创造了一个强大的经济增长引擎，没有什么能减缓它的速度。 由于快速的本土化和激增的投资，工厂建设岗位大幅增加，而贸易逆差在一年内缩小了52%！",
@@ -172,17 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 07时39分]"
-        },
-        {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://wallstreetcn.com/livenews/3082385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
         },
         {
           "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
@@ -237,17 +249,6 @@
           "time_info": "[02时54分 ~ 05时38分]"
         },
         {
-          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260404123540502800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
           "title": "美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。（NBC新闻）",
           "url": "https://wallstreetcn.com/livenews/3082318",
           "source": "华尔街见闻-快讯",
@@ -262,17 +263,6 @@
           "time_info": "[04时42分 ~ 07时39分]"
         },
         {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
           "title": "特朗普计划拨款1.52亿美元，重启“恶魔岛”监狱",
           "url": "https://wallstreetcn.com/livenews/3082282",
           "source": "华尔街见闻-快讯",
@@ -284,6 +274,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260404123540502800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普：3月新增非农就业人口17.8万人，失业率下降。各方都认为这是个好数字，连那些假新闻媒体也如此。让美国再次伟大！",
@@ -381,7 +383,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -399,6 +401,28 @@
           "time_info": "[00时47分 ~ 12时54分]"
         },
         {
+          "title": "Claude禁止OpenClaw接入",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
+          "url": "https://www.zhihu.com/question/2023715723785061711",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
           "url": "https://wallstreetcn.com/livenews/3082355",
           "source": "华尔街见闻-快讯",
@@ -409,6 +433,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 12时54分]"
+        },
+        {
+          "title": "如何解读 claude code 代码？",
+          "url": "https://www.zhihu.com/question/2022418574258520852",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -448,11 +483,12 @@
             15,
             19,
             17,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 15时14分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
