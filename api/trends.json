@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T10:40:44.751905+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-04-09T13:14:03.532252+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -20,22 +20,23 @@
           "time_info": "[01时09分 ~ 10时40分]"
         },
         {
+          "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
+          "url": "https://news.ifeng.com/c/8sAEfxVEMqZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 13时14分]"
+        },
+        {
           "title": "特朗普提议与伊朗联合管理霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8sADQbyVMoK",
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 10时40分]"
-        },
-        {
-          "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
-          "url": "https://news.ifeng.com/c/8sAEfxVEMqZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -52,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 10时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 13时14分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -112,6 +113,18 @@
           "time_info": "[01时09分 ~ 06时44分]"
         },
         {
+          "title": "特朗普宣布对伊朗武器供应国加征 50% 关税，如何看待这一表态？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025299647992709378",
+          "source": "知乎",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 13时14分]"
+        },
+        {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
           "url": "https://wallstreetcn.com/articles/3769420",
           "source": "华尔街见闻",
@@ -123,28 +136,40 @@
           "time_info": "[01时09分 ~ 05时57分]"
         },
         {
-          "title": "特朗普宣布对伊朗武器供应国加征 50% 关税，如何看待这一表态？可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2025299647992709378",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 07时42分]"
-        },
-        {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
           "url": "https://wallstreetcn.com/articles/3769466",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 10时40分]"
+          "appearance_count": 6,
+          "time_info": "[06时44分 ~ 13时14分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 13时14分]"
+        },
+        {
+          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
+          "url": "https://news.ifeng.com/c/8sB098ZojvN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
@@ -157,6 +182,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时41分 ~ 10时40分]"
+        },
+        {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 13时14分]"
+        },
+        {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
+          "url": "https://news.ifeng.com/c/8sBBnRWw3el",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 13时14分]"
         },
         {
           "title": "美媒：石油行业抵制特朗普的伊朗和平计划",
@@ -181,15 +250,37 @@
           "time_info": "07时42分"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普：美军驻留伊朗，违约就“开火”，规模将前所未有",
+          "url": "https://flash.jin10.com/detail/20260409130825168800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "13时14分"
         },
         {
           "title": "北约秘书长吕特与特朗普的会晤结束。",
@@ -209,7 +300,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -223,28 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美媒：特朗普考虑部分撤出在北约盟国的美军",
@@ -316,17 +385,6 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "美国总统特朗普：我们将与伊朗通过闭门会议讨论停火协议的条款。",
           "url": "https://wallstreetcn.com/livenews/3084477",
           "source": "华尔街见闻-快讯",
@@ -349,6 +407,29 @@
           "time_info": "07时42分"
         },
         {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 13时14分]"
+        },
+        {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
           "title": "美国总统特朗普考虑惩罚特定的北约成员国。 特朗普的打算还处于早期阶段。 白宫在惩罚北约方面有好几个计划。 美国可能会（在北约）关闭至少一个军事基地，可能是在西班牙的、也可能是在德国的。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3084562",
           "source": "华尔街见闻-快讯",
@@ -361,6 +442,18 @@
           "time_info": "[04时51分 ~ 05时57分]"
         },
         {
+          "title": "以色列议员公开辱骂特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E5%91%98%E5%85%AC%E5%BC%80%E8%BE%B1%E9%AA%82%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
           "title": "美媒：明尼阿波利斯联储顾问菲兰有望成为特朗普的首席经济顾问",
           "url": "https://flash.jin10.com/detail/20260409025634698800",
           "source": "金十数据",
@@ -370,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
         },
         {
           "title": "美国法官阻止特朗普政府终止对5000多名埃塞俄比亚人的法律保护的请求。",
@@ -455,7 +537,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -466,7 +548,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -524,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
+          "url": "https://wallstreetcn.com/livenews/3084759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "特朗普：考虑与伊朗“合资经营”霍尔木兹海峡",
@@ -584,7 +677,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -624,17 +717,6 @@
           "time_info": "[01时09分 ~ 05时57分]"
         },
         {
-          "title": "美股三大指数大幅高开 纳指涨3.65%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 07时42分]"
-        },
-        {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
           "url": "https://www.cls.cn/detail/2338535",
           "source": "财联社热门",
@@ -644,8 +726,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 10时40分]"
+          "appearance_count": 6,
+          "time_info": "[06时44分 ~ 13时14分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -655,8 +737,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 10时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 13时14分]"
+        },
+        {
+          "title": "美股三大指数大幅高开 纳指涨3.65%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 07时42分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -728,6 +821,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时44分]"
+        },
+        {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
@@ -946,8 +1050,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 10时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 13时14分]"
         }
       ]
     }
