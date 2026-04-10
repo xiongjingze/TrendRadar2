@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T17:15:40.834032+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-04-10T19:01:40.803687+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -59,6 +59,18 @@
           "time_info": "[01时12分 ~ 07时41分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 19时01分]"
+        },
+        {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
           "source": "澎湃新闻",
@@ -89,18 +101,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 17时15分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -189,6 +189,17 @@
           "time_info": "[13时29分 ~ 15时48分]"
         },
         {
+          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
+        },
+        {
           "title": "拜登儿子约战特朗普儿子",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%BA%A6%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -235,13 +246,24 @@
           "time_info": "[07时40分 ~ 15时48分]"
         },
         {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
+        },
+        {
           "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
           "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -285,9 +307,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 19时01分]"
         },
         {
           "title": "特朗普，对鲤鱼宣战？",
@@ -310,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "七国集团峰会后，法国总统马克龙邀请美国总统特朗普于六月赴凡尔赛宫。",
+          "url": "https://flash.jin10.com/detail/20260410184726706800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "据消息人士称，俄罗斯总统特使德米特里耶夫正在美国，与美国总统特朗普政府的成员会晤，讨论乌克兰问题和经济合作。德米特里耶夫的此次访问正值美国对俄罗斯石油的制裁豁免将于4月11日到期之际。",
@@ -419,15 +463,15 @@
           "time_info": "[06时47分 ~ 07时41分]"
         },
         {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时48分]"
+          "appearance_count": 2,
+          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "特朗普：伊朗最好不要对霍尔木兹海峡收通行费",
@@ -448,7 +492,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -503,7 +547,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -547,7 +591,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -572,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩、北约秘书长吕特预计将讨论美国总统特朗普的访问。",
+          "url": "https://flash.jin10.com/detail/20260410182424349800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "美国总统特朗普：我和内政部长伯古姆很荣幸能够修复华盛顿纪念碑和林肯纪念堂之间曾经美丽的倒影池。我们之前被告知这项工程需要数年时间，但现在只需很短的时间，花费也少得多——而且修复后的倒影池将比建成之时更加美丽。",
@@ -946,8 +1001,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时52分 ~ 19时01分]"
         }
       ]
     }
