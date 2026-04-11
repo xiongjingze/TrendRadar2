@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T04:39:08.064522+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-04-12T05:37:52.584226+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
           "url": "https://www.cls.cn/detail/2341151",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -48,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -59,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -70,8 +71,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
+          "url": "https://flash.jin10.com/detail/20260412022331554800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 05时37分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -85,17 +100,70 @@
           "time_info": "00时42分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
-          "url": "https://flash.jin10.com/detail/20260412022331554800",
+          "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
+          "url": "https://flash.jin10.com/detail/20260412045259857800",
           "source": "金十数据",
           "ranks": [
-            4,
-            6,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们有扫雷舰在那片海域，我们正在清扫海峡。",
+          "url": "https://flash.jin10.com/detail/20260412045245496800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：（霍尔木兹海峡）水里可能有几枚水雷。",
+          "url": "https://flash.jin10.com/detail/20260412045228541800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：无论发生什么，我们都会赢。",
+          "url": "https://flash.jin10.com/detail/20260412045158825800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：（伊朗）他们也许会达成协议，也许不会。",
+          "url": "https://flash.jin10.com/detail/20260412045150895800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们正与伊朗进行非常深入的谈判。",
+          "url": "https://flash.jin10.com/detail/20260412045127860800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
@@ -156,8 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -168,8 +236,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         }
       ]
     },
@@ -186,8 +254,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -196,11 +264,12 @@
           "ranks": [
             15,
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         }
       ]
     }
