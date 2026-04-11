@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T00:42:31.000096+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-12T01:36:15.389204+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -26,8 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
+          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -41,17 +52,6 @@
           "time_info": "00时42分"
         },
         {
-          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
-          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
           "url": "https://www.cls.cn/detail/2341106",
           "source": "财联社热门",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -70,8 +70,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -81,24 +81,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "特朗普再次发文抨击媒体",
-          "url": "https://flash.jin10.com/detail/20260411232157423800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
           "url": "https://wallstreetcn.com/livenews/3086245",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时36分]"
+        },
+        {
+          "title": "特朗普再次发文抨击媒体",
+          "url": "https://flash.jin10.com/detail/20260411232157423800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
@@ -142,8 +143,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -153,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         }
       ]
     },
@@ -170,19 +171,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         }
       ]
     }
