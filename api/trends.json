@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:56:20.114064+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-04-16T23:44:02.510866+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -109,6 +109,33 @@
           "time_info": "[01时09分 ~ 07时47分]"
         },
         {
+          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
+          "url": "https://www.cls.cn/detail/2346178",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 23时44分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 23时44分]"
+        },
+        {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
           "source": "澎湃新闻",
@@ -134,24 +161,24 @@
           "time_info": "[01时09分 ~ 06时50分]"
         },
         {
+          "title": "特朗普就访华明确表态，中方回应",
+          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 23时44分]"
+        },
+        {
           "title": "伊朗战争丨特朗普将制裁购买伊朗石油国家？中方回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 21时56分]"
-        },
-        {
-          "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
-          "url": "https://www.cls.cn/detail/2346178",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -170,30 +197,26 @@
           "time_info": "[10时57分 ~ 15时54分]"
         },
         {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普就访华明确表态，中方回应",
-          "url": "https://news.ifeng.com/c/8sN67BgzZcR",
+          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
+          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
           "source": "凤凰网",
           "ranks": [
-            9,
-            10,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 21时56分]"
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时44分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时44分]"
         },
         {
           "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
@@ -205,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "特朗普：黎巴嫩与以色列同意停火10天",
+          "url": "https://wallstreetcn.com/livenews/3089466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "据AXIOS网站：一名美国高级官员称，特朗普欢迎将结束战斗纳入以色列与黎巴嫩之间达成的协议的一部分。",
@@ -239,28 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
-        },
-        {
-          "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
-          "url": "https://news.ifeng.com/c/8sNNVO5nsfP",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
@@ -298,6 +310,17 @@
           "time_info": "[06时50分 ~ 07时47分]"
         },
         {
+          "title": "中方回应特朗普称访华不受影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E4%B8%8D%E5%8F%97%E5%BD%B1%E5%93%8D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
+        },
+        {
           "title": "美国封锁伊朗是否视作中美高层会晤潜在风险？外交部：中美就特朗普访华保持沟通",
           "url": "https://wallstreetcn.com/livenews/3089095",
           "source": "华尔街见闻-快讯",
@@ -307,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "黎巴嫩总统与特朗普通电话",
+          "url": "https://wallstreetcn.com/livenews/3089451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
@@ -419,6 +453,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美国总统特朗普与黎巴嫩总统Aoun通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3089438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "特朗普不满美英“特殊关系”，斯塔默说不会妥协",
           "url": "https://wallstreetcn.com/livenews/3088656",
           "source": "华尔街见闻-快讯",
@@ -466,7 +511,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -518,6 +563,28 @@
           "time_info": "[06时50分 ~ 10时57分]"
         },
         {
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时44分]"
+        },
+        {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
+        },
+        {
           "title": "台积电美股夜盘涨近2%，第一季度净利润超市场预期。",
           "url": "https://wallstreetcn.com/livenews/3089023",
           "source": "华尔街见闻-快讯",
@@ -546,20 +613,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
         {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
+          "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
+          "url": "https://wallstreetcn.com/livenews/3089460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "23时44分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览",
@@ -568,7 +635,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -579,7 +646,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -643,6 +710,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时57分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
         },
         {
           "title": "存储巨头定档今夏美股上市！最多募资100亿美元",
@@ -718,7 +796,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
@@ -803,7 +881,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         }
@@ -820,7 +898,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -902,11 +980,12 @@
           "url": "https://www.douyin.com/hot/2468481",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时44分]"
         }
       ]
     },
@@ -933,6 +1012,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时09分 ~ 19时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【阿里通义实验室开源Qwen3.6-35B-A3B模型】4月16日，阿里通义实验室宣布Qwen3.6-35B-A3B开源。据介绍，这是一款采用稀疏混合专家（MoE）架构的高效模型：总参数350亿，每次推理仅激活30亿参数。在智能体编程上，Qwen3.6-35B-A3B大幅超越前代Qwen3.5-35B-A3B，并可与Qwen3.5-27B、Gemma-31B等体量更大的稠密模型一较高下，同时可兼容OpenClaw、Claude Code、Qwen Code等主流编程助手。",
+          "url": "https://wallstreetcn.com/livenews/3089467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     }
