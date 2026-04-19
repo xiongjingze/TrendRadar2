@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T18:49:18.446071+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-19T19:39:14.858751+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时47分 ~ 18时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时47分 ~ 19时39分]"
         },
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -66,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时18分 ~ 18时49分]"
+          "appearance_count": 13,
+          "time_info": "[11时18分 ~ 19时39分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时47分 ~ 07时40分]"
+        },
+        {
+          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 19时39分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -100,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时18分 ~ 18时49分]"
+          "appearance_count": 13,
+          "time_info": "[11时18分 ~ 19时39分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -133,19 +144,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 18时49分]"
-        },
-        {
-          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 19时39分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
@@ -158,8 +158,41 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时47分 ~ 18时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时47分 ~ 19时39分]"
+        },
+        {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 19时39分]"
+        },
+        {
+          "title": "美媒说特朗普召开会议讨论与伊朗谈判的问题",
+          "url": "https://wallstreetcn.com/livenews/3090538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            8,
+            10,
+            12,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 19时39分]"
         },
         {
           "title": "记者还没问完，就被特朗普打断：你出去",
@@ -172,37 +205,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时01分 ~ 18时49分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 18时49分]"
-        },
-        {
-          "title": "美媒说特朗普召开会议讨论与伊朗谈判的问题",
-          "url": "https://wallstreetcn.com/livenews/3090538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            8,
-            10,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 18时49分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -263,6 +265,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 00时48分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗“严重违反”停火。 仍然认为可以与伊朗达成协议。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3090587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
@@ -379,6 +392,17 @@
           "time_info": "[02时58分 ~ 04时42分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-19）",
+          "url": "https://flash.jin10.com/detail/20260419183339689800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "也门胡塞武装威胁称，如果特朗普阻挠和平进程，他们将关闭曼德海峡。",
           "url": "https://flash.jin10.com/detail/20260419115241854800",
           "source": "金十数据",
@@ -484,6 +508,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 19时39分]"
+        },
+        {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
           "url": "https://wallstreetcn.com/articles/3770310",
           "source": "华尔街见闻",
@@ -509,18 +545,6 @@
           "time_info": "[11时18分 ~ 17时57分]"
         },
         {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 18时49分]"
-        },
-        {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
           "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
           "source": "澎湃新闻",
@@ -533,8 +557,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时18分 ~ 18时49分]"
+          "appearance_count": 13,
+          "time_info": "[11时18分 ~ 19时39分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -556,11 +580,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 18时49分]"
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 19时39分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -591,6 +616,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3770342",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 19时39分]"
+        },
+        {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
@@ -605,18 +642,6 @@
           "time_info": "[00时47分 ~ 15时44分]"
         },
         {
-          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3770342",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 18时49分]"
-        },
-        {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
           "url": "https://wallstreetcn.com/articles/3770345",
           "source": "华尔街见闻",
@@ -625,8 +650,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时59分 ~ 18时49分]"
+          "appearance_count": 7,
+          "time_info": "[16时59分 ~ 19时39分]"
         }
       ]
     },
