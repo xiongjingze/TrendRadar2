@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T10:54:38.236940+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-04-21T13:32:16.476413+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 10时54分]"
+          "appearance_count": 12,
+          "time_info": "[01时08分 ~ 13时32分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -51,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 10时54分]"
+          "appearance_count": 7,
+          "time_info": "[06时50分 ~ 13时32分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -66,6 +67,64 @@
           "time_info": "[01时08分 ~ 03时12分]"
         },
         {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时32分]"
+        },
+        {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
           "url": "https://news.ifeng.com/c/8sUi19J5Hpg",
           "source": "凤凰网",
@@ -77,26 +136,15 @@
           "time_info": "[07时48分 ~ 07时49分]"
         },
         {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
           "source": "财联社热门",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -110,17 +158,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
           "url": "https://flash.jin10.com/detail/20260421065026687800",
           "source": "金十数据",
@@ -132,15 +169,15 @@
           "time_info": "07时49分"
         },
         {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
+          "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
+          "url": "https://wallstreetcn.com/livenews/3091534",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "13时32分"
         },
         {
           "title": "特朗普称正在赢得战争 在达成“协议”前不会解除对伊朗的封锁",
@@ -274,13 +311,24 @@
           "time_info": "[05时52分 ~ 06时51分]"
         },
         {
+          "title": "伊朗用特朗普方式对付特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B9%E5%BC%8F%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "顶流对冲基金感叹：特朗普频频发帖令石油交易员无所适从",
           "url": "https://www.cls.cn/detail/2350010",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -346,7 +394,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -412,7 +460,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -431,8 +479,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时50分 ~ 13时32分]"
+        },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2349767",
@@ -448,6 +507,19 @@
           "time_info": "[01时08分 ~ 07时49分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时50分 ~ 13时32分]"
+        },
+        {
           "title": "高盛交易员：美股已经做好本周回调的准备",
           "url": "https://wallstreetcn.com/articles/3770364",
           "source": "华尔街见闻",
@@ -458,17 +530,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时12分 ~ 07时49分]"
-        },
-        {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 10时54分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -482,17 +543,15 @@
           "time_info": "[01时08分 ~ 05时52分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
-          "source": "财联社热门",
+          "title": "汇丰策略师力挺美股：遇冷就买，动作要快！",
+          "url": "https://flash.jin10.com/detail/20260421130754080800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            4,
-            2
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 10时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -709,7 +768,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
