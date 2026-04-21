@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:48:40.198070+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-04-21T19:12:56.608871+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时08分 ~ 17时48分]"
+          "appearance_count": 15,
+          "time_info": "[01时08分 ~ 19时12分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -43,6 +43,32 @@
           "time_info": "[01时08分 ~ 07时49分]"
         },
         {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://www.cls.cn/detail/2350029",
           "source": "财联社热门",
@@ -56,30 +82,18 @@
           "time_info": "[06时50分 ~ 13时32分]"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 17时48分]"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
+            8,
             5,
-            8
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时54分 ~ 17时48分]"
+          "time_info": "[13时31分 ~ 19时12分]"
         },
         {
           "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
@@ -99,19 +113,6 @@
           "ranks": [
             5,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 17时48分]"
-        },
-        {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -158,7 +159,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -172,6 +173,52 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 07时49分]"
+        },
+        {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
+          "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "特朗普敦促弗吉尼亚州选民在重新划分选区问题上投“反对票”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3091774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 19时12分]"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -194,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "特朗普盛赞库克：是其忠实粉丝、职业生涯无可比拟",
+          "url": "https://flash.jin10.com/detail/20260421185529346800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
@@ -224,20 +282,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
         {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
+          "title": "美国总统特朗普呼吁弗吉尼亚州选民在重划选区时选择“否”。",
+          "url": "https://flash.jin10.com/detail/20260421185315625800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "19时12分"
+        },
+        {
+          "title": "特朗普：我一直是蒂姆·库克的超级粉丝。 库克将继续为苹果公司做出杰出的贡献。",
+          "url": "https://wallstreetcn.com/livenews/3091767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "欧洲央行行长拉加德：央行将根据形势的需要而采取行动。 （欧元区）经济形势仍然高度不确定。 欧元区还没有陷入恶劣的假设场景。 （美国总统特朗普造成的）伊朗战争的“停止-启动”本性让人难以评估战争所构成的影响。 恢复至战争爆发之前的水平谈何容易。 迄今，供应链所受干扰有限。 在（对伊朗战争）得出结论之前，央行需要掌握更多信息。",
@@ -357,18 +426,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时12分 ~ 07时49分]"
-        },
-        {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时48分]"
         },
         {
           "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
@@ -499,7 +556,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -513,6 +570,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：库克将继续为苹果做出卓越贡献。",
+          "url": "https://flash.jin10.com/detail/20260421184344200800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "美国总统特朗普：非常支持蒂姆·库克。我一直是库克的忠实支持者。",
+          "url": "https://flash.jin10.com/detail/20260421184334923800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美媒：特朗普不打算延长美伊停火期限",
@@ -573,7 +652,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -584,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时50分 ~ 17时48分]"
+          "appearance_count": 10,
+          "time_info": "[06时50分 ~ 19时12分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -649,13 +728,24 @@
           "time_info": "13时32分"
         },
         {
+          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -850,7 +940,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         }
