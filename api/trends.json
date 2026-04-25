@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T04:44:02.598887+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-26T05:41:01.040428+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         },
         {
           "title": "特朗普，已经压不住油价了",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         },
         {
           "title": "“淡化”特朗普 美共和党调整中期选举策略",
@@ -38,19 +38,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时44分]"
-        },
-        {
-          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
-          "url": "https://flash.jin10.com/detail/20260426034614966800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时41分]"
         },
         {
           "title": "美国总统特朗普：而且，我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了。",
@@ -100,6 +89,19 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
+          "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
+          "url": "https://flash.jin10.com/detail/20260426031349509800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时41分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）：特朗普称，不派美国代表团去巴基斯坦“并不意味着要与伊朗开战。",
           "url": "https://flash.jin10.com/detail/20260426000633509800",
           "source": "金十数据",
@@ -109,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "美国总统特朗普表示，尚未考虑恢复战争。",
@@ -135,18 +148,6 @@
           "time_info": "[00时51分 ~ 01时41分]"
         },
         {
-          "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
-          "url": "https://flash.jin10.com/detail/20260426031349509800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时44分]"
-        },
-        {
           "title": "美国总统特朗普：不通过《拯救美国法案》将导致美国参议院历史上政党最糟糕的结果。",
           "url": "https://flash.jin10.com/detail/20260426001239377800",
           "source": "金十数据",
@@ -157,6 +158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时41分]"
+        },
+        {
+          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
+          "url": "https://flash.jin10.com/detail/20260426034614966800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时41分]"
         },
         {
           "title": "美国总统特朗普：“我们掌握着所有筹码。他们随时可以给我们打电话。”",
@@ -217,6 +230,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时44分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
+          "url": "https://flash.jin10.com/detail/20260426033155583800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时41分]"
         },
         {
           "title": "美国总统特朗普：我从未考虑过放弃停火。",
@@ -290,17 +315,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
-          "url": "https://flash.jin10.com/detail/20260426033155583800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
           "title": "特朗普称已取消威特科夫和库什纳前往巴基斯坦的行程",
           "url": "https://flash.jin10.com/detail/20260425235634361800",
           "source": "金十数据",
@@ -348,8 +362,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -359,8 +373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -372,8 +386,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -400,8 +414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -413,8 +427,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 04时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 05时41分]"
         }
       ]
     },
@@ -431,8 +445,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         }
       ]
     },
@@ -449,8 +463,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时41分]"
         }
       ]
     }
