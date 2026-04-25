@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:47:34.278132+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-04-25T23:44:23.559299+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时43分 ~ 22时47分]"
+          "appearance_count": 13,
+          "time_info": "[07时43分 ~ 23时44分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -75,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时46分 ~ 22时47分]"
+          "appearance_count": 12,
+          "time_info": "[10时46分 ~ 23时44分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -375,6 +375,18 @@
           "time_info": "[19时42分 ~ 21时13分]"
         },
         {
+          "title": "“淡化”特朗普 美共和党调整中期选举策略",
+          "url": "https://wallstreetcn.com/livenews/3094397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时44分]"
+        },
+        {
           "title": "卡塔尔埃米尔与美国总统特朗普讨论了华盛顿和德黑兰的停火协议。",
           "url": "https://flash.jin10.com/detail/20260425022215400800",
           "source": "金十数据",
@@ -384,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "“淡化”特朗普 美共和党调整中期选举策略",
-          "url": "https://wallstreetcn.com/livenews/3094397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -576,7 +577,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -898,6 +899,17 @@
           "time_info": "[07时43分 ~ 10时46分]"
         },
         {
+          "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
+          "url": "https://wallstreetcn.com/livenews/3094410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
           "url": "https://flash.jin10.com/detail/20260425121506864800",
           "source": "金十数据",
@@ -907,6 +919,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 23时44分]"
         },
         {
           "title": "百度智能云上线DeepSeek-V4",
@@ -920,18 +945,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时58分 ~ 18时56分]"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时47分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -1006,8 +1019,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时43分 ~ 22时47分]"
+          "appearance_count": 14,
+          "time_info": "[06时43分 ~ 23时44分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1137,8 +1150,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 22时47分]"
+          "appearance_count": 11,
+          "time_info": "[13时16分 ~ 23时44分]"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -1295,8 +1308,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时46分 ~ 22时47分]"
+          "appearance_count": 12,
+          "time_info": "[10时46分 ~ 23时44分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
