@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T02:06:50.522542+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-04-28T04:11:26.733578+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "美国白宫：特朗普关于伊朗问题的底线没有改变",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -113,7 +113,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -138,8 +138,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "白宫新闻秘书莱维特：沃什获确认后，特朗普将感到满意。",
@@ -148,7 +148,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -159,7 +159,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -170,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -181,9 +181,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "特朗普寻求为移民执法工作拨款 要求共和党人齐心支持",
+          "url": "https://flash.jin10.com/detail/20260428030503481800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         },
         {
           "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
@@ -192,7 +203,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -203,9 +214,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国总统特朗普：我已要求在6月1日之前将最终法案放在我的桌上。",
+          "url": "https://flash.jin10.com/detail/20260428025817004800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美国总统特朗普：我们需要所有共和党人团结一致，支持这一预算蓝图，为我们移民和海关执法局（ICE）和边境巡逻人员获得全面资金。",
+          "url": "https://flash.jin10.com/detail/20260428025757261800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         },
         {
           "title": "美国白宫：美国总统特朗普认为新闻晚宴的安全措施有效。",
@@ -214,15 +247,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
+          "url": "https://wallstreetcn.com/livenews/3095180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌DeepMind将与韩国合作推进“登月”级AI项目",
@@ -231,9 +275,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3095208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         },
         {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
@@ -242,7 +297,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -310,7 +365,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -340,7 +395,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -350,8 +405,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -361,8 +416,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -385,6 +440,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "美股三大指数集体低开 高通涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3095167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20260428034651678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
+          "url": "https://wallstreetcn.com/livenews/3095207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
+          "url": "https://wallstreetcn.com/livenews/3095150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         }
       ]
     },
@@ -393,6 +509,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
+        },
+        {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
           "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
@@ -400,20 +529,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
-        },
-        {
-          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
-          "url": "https://www.zhihu.com/question/2030445160417510538",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -429,34 +546,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3095167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.81%，暂报2646.68点。 MarketVectorTM数字资产100中盘指数跌2.67%，报2840.14点。 MarketVector数字资产100指数跌1.88%，报15109.57点。 目前，Solana跌2.99%，狗狗币跌1.90%，XRP跌3.13%。 比特币跌2.08%，暂报76615.68美元；以太坊跌3.81%，暂报2277.61美元。",
-          "url": "https://wallstreetcn.com/livenews/3095150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -465,11 +554,12 @@
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时11分]"
         }
       ]
     }
