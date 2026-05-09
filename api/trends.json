@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:02:19.768366+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-09T19:58:32.058670+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时23分 ~ 08时05分]"
+        },
+        {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 19时58分]"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -43,18 +55,6 @@
           "time_info": "[01时23分 ~ 15时12分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 19时02分]"
-        },
-        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时11分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时58分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -80,15 +92,15 @@
           "time_info": "[01时23分 ~ 07时01分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 19时58分]"
         },
         {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 19时02分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -313,8 +314,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时58分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
+          "url": "https://flash.jin10.com/detail/20260509182305293800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时58分]"
         },
         {
           "title": "美国总统特朗普：我们有一个问题，因为墨西哥由毒贩们经营。",
@@ -327,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时24分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
-          "url": "https://flash.jin10.com/detail/20260509182305293800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
@@ -467,7 +469,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -530,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时05分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时05分 ~ 19时58分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -543,8 +545,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时05分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时05分 ~ 19时58分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -687,8 +689,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 19时58分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -696,11 +698,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时58分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -710,22 +713,12 @@
             6,
             4,
             11,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 19时02分]"
-        },
-        {
-          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
-          "url": "https://flash.jin10.com/detail/20260509183702634800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 19时58分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -738,6 +731,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时26分 ~ 15时12分]"
+        },
+        {
+          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
+          "url": "https://flash.jin10.com/detail/20260509183702634800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时58分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
@@ -839,8 +844,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时58分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -850,8 +855,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 19时58分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -859,11 +864,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 19时58分]"
         }
       ]
     }
