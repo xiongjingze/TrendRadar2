@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:20:50.685969+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-05-10T19:56:05.607303+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 19时56分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 06时51分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 18时20分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -97,6 +97,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时51分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
@@ -167,11 +189,12 @@
             11,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 19时56分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -289,6 +312,20 @@
           "time_info": "[01时02分 ~ 06时51分]"
         },
         {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 19时56分]"
+        },
+        {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
           "url": "https://www.cls.cn/detail/2366633",
           "source": "财联社热门",
@@ -298,19 +335,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 04时51分]"
-        },
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 18时20分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
