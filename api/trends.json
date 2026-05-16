@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T04:54:44.286822+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-17T05:54:44.248431+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "特朗普警告台独",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -47,11 +47,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -61,19 +62,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
           "url": "https://flash.jin10.com/detail/20260517042429937800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时54分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -83,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -95,8 +97,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -106,8 +108,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -117,8 +119,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -126,11 +128,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时54分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -203,8 +206,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -214,8 +217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -223,11 +226,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -236,11 +240,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 05时54分]"
         }
       ]
     },
@@ -258,8 +263,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         }
       ]
     },
@@ -276,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时54分]"
         }
       ]
     },
@@ -295,8 +300,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时54分]"
         }
       ]
     }
