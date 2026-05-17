@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T19:11:13.532737+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-05-17T21:28:39.986530+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 21时28分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 21时28分]"
         },
         {
           "title": "特朗普警告台独",
@@ -75,11 +75,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 19时11分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 21时28分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -142,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[17时08分 ~ 21时28分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -172,6 +173,18 @@
           "time_info": "[11时59分 ~ 17时09分]"
         },
         {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -186,71 +199,51 @@
           "time_info": "[03时18分 ~ 07时57分]"
         },
         {
+          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
+          "url": "https://flash.jin10.com/detail/20260517200041857800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
           "url": "https://flash.jin10.com/detail/20260517183041756800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 21时28分]"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
           "url": "https://flash.jin10.com/detail/20260517183017817800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 21时28分]"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
           "url": "https://flash.jin10.com/detail/20260517181926076800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
-          "url": "https://flash.jin10.com/detail/20260517181846468800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 19时11分]"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
-          "url": "https://flash.jin10.com/detail/20260517181500544800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 21时28分]"
         },
         {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
@@ -266,6 +259,42 @@
           "time_info": "[11时59分 ~ 17时09分]"
         },
         {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 21时28分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 21时28分]"
+        },
+        {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时28分]"
+        },
+        {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
           "url": "https://flash.jin10.com/detail/20260517010131045800",
           "source": "金十数据",
@@ -276,17 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时18分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -329,7 +347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -384,7 +402,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -395,7 +413,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -433,6 +451,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517185935987800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "国民党副主席回应特朗普涉台表态",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -468,11 +497,12 @@
             5,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时04分 ~ 19时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 21时28分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -503,6 +533,18 @@
           "time_info": "[01时58分 ~ 14时50分]"
         },
         {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 21时28分]"
+        },
+        {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
@@ -515,18 +557,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时04分 ~ 14时50分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 19时11分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -544,6 +574,36 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 07时57分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -555,25 +615,6 @@
             12,
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
