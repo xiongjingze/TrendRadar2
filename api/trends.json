@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T21:28:39.986530+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-05-17T23:02:36.544854+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -76,11 +76,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 23时02分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -123,6 +124,18 @@
           "time_info": "[00时04分 ~ 17时09分]"
         },
         {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时08分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
           "url": "https://www.toutiao.com/trending/7639309598792663066/",
           "source": "今日头条",
@@ -135,16 +148,17 @@
           "time_info": "[00时04分 ~ 07时57分]"
         },
         {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            10
+            14,
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时08分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 23时02分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -173,18 +187,6 @@
           "time_info": "[11时59分 ~ 17时09分]"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时50分 ~ 21时28分]"
-        },
-        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -199,17 +201,6 @@
           "time_info": "[03时18分 ~ 07时57分]"
         },
         {
-          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
-          "url": "https://flash.jin10.com/detail/20260517200041857800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
           "url": "https://flash.jin10.com/detail/20260517183041756800",
           "source": "金十数据",
@@ -220,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时11分 ~ 21时28分]"
+        },
+        {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
@@ -271,6 +273,18 @@
           "time_info": "[19时11分 ~ 21时28分]"
         },
         {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 23时02分]"
+        },
+        {
           "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
           "url": "https://flash.jin10.com/detail/20260517181500544800",
           "source": "金十数据",
@@ -283,16 +297,16 @@
           "time_info": "[19时11分 ~ 21时28分]"
         },
         {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
+          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
+          "url": "https://flash.jin10.com/detail/20260517200041857800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            21
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时28分]"
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时02分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -372,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
@@ -457,7 +482,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -516,6 +541,18 @@
           "time_info": "[00时04分 ~ 06时52分]"
         },
         {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 23时02分]"
+        },
+        {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
           "url": "https://www.zhihu.com/question/2038931746901710643",
           "source": "知乎",
@@ -531,18 +568,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时58分 ~ 14时50分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 21时28分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -595,11 +620,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时02分]"
         }
       ]
     },
