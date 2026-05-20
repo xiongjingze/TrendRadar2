@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T07:06:24.891792+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-20T11:55:21.629373+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -18,6 +18,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 07时06分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 11时55分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -40,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
@@ -87,15 +132,15 @@
           "time_info": "[05时23分 ~ 07时06分]"
         },
         {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时04分"
+          "time_info": "11时55分"
         },
         {
           "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
@@ -118,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
@@ -148,7 +204,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -277,7 +333,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -291,6 +347,18 @@
           "time_info": "[00时24分 ~ 07时06分]"
         },
         {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 11时55分]"
+        },
+        {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
           "url": "https://news.ifeng.com/c/8tG27n1FK2V",
           "source": "凤凰网",
@@ -302,15 +370,15 @@
           "time_info": "[00时24分 ~ 07时06分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 07时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国副总统万斯：无论美国总统特朗普对伊朗做出什么决定，这种情况不会永远持续。",
@@ -335,13 +403,24 @@
           "time_info": "03时04分"
         },
         {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
           "url": "https://flash.jin10.com/detail/20260520060344604800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -431,7 +510,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -453,7 +532,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -508,7 +587,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -519,9 +598,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "三个月3700多笔交易，特朗普一边骂议员炒股，一边自己狂买？万斯这样回应",
+          "url": "https://flash.jin10.com/detail/20260520105844135800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
@@ -533,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "美禁止审计特朗普过往纳税申报表",
+          "url": "https://www.toutiao.com/trending/7641650868902887474/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普称美方可能不得不对伊朗“再予以一击”",
@@ -549,7 +650,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -575,26 +676,28 @@
           "time_info": "[00时24分 ~ 05时23分]"
         },
         {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
           "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
           "url": "https://wallstreetcn.com/articles/3772622",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 11时55分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时23分 ~ 07时06分]"
+          "time_info": "[07时06分 ~ 11时55分]"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -606,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -660,7 +774,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -682,7 +796,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -715,7 +829,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -770,6 +884,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 07时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里千问模型Qwen3.7-MaX发布",
+          "url": "https://flash.jin10.com/detail/20260520111248442800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "千问旗舰模型Qwen3.7-Max上线",
+          "url": "https://wallstreetcn.com/livenews/3106422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
