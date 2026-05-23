@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T17:04:50.005041+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-23T19:16:28.584363+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -24,11 +24,47 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时35分 ~ 17时04分]"
+          "time_info": "[11时35分 ~ 19时16分]"
+        },
+        {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普变卦前，接到电话警告“会输给中国”",
+          "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -42,15 +78,16 @@
           "time_info": "[01时56分 ~ 07时05分]"
         },
         {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "time_info": "[17时04分 ~ 19时16分]"
         },
         {
           "title": "特朗普周末坐镇白宫：若谈判破裂，或对伊朗发动“决定性打击”",
@@ -59,20 +96,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
         {
-          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
-          "url": "https://wallstreetcn.com/articles/3772968",
-          "source": "华尔街见闻",
+          "title": "美国驻印度大使塞尔吉奥·戈尔：美国国务卿鲁比奥代表特朗普总统邀请印度总理莫迪在不久的将来访问白宫。",
+          "url": "https://flash.jin10.com/detail/20260523184255800800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-23）",
+          "url": "https://flash.jin10.com/detail/20260523184146091800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "19时16分"
         },
         {
           "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
@@ -97,15 +145,15 @@
           "time_info": "05时16分"
         },
         {
-          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
-          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
-          "source": "凤凰网",
+          "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
+          "url": "https://wallstreetcn.com/articles/3772936",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "19时16分"
         },
         {
           "title": "特朗普向沃什施压",
@@ -168,6 +216,30 @@
           "time_info": "[11时36分 ~ 17时04分]"
         },
         {
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时16分]"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时16分]"
+        },
+        {
           "title": "特朗普发文称无法参加儿子婚礼",
           "url": "https://flash.jin10.com/detail/20260523011457636800",
           "source": "金十数据",
@@ -221,28 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
         },
         {
           "title": "特朗普政府宣布：外国人必须回本国才能申请绿卡",
@@ -306,7 +356,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -325,18 +375,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -347,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 19时16分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -361,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 07时05分]"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时16分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -396,15 +459,15 @@
           "time_info": "[05时16分 ~ 07时05分]"
         },
         {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
+          "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2041150006099501503",
+          "source": "知乎",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "19时16分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -485,22 +548,24 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 19时16分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
           "url": "https://www.zhihu.com/question/2041154123677126717",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -509,7 +574,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
@@ -555,8 +620,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 19时16分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
