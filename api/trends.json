@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-26T05:14:12.338039+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-26T07:09:10.681436+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时09分]"
+        },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773010",
@@ -19,15 +30,15 @@
           "time_info": "[01时09分 ~ 05时14分]"
         },
         {
-          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
-          "url": "https://v.ifeng.com/c/8tPourOxMbK",
-          "source": "凤凰网",
+          "title": "特朗普提出伊朗浓缩铀两种处理方法",
+          "url": "https://flash.jin10.com/detail/20260526064730179800",
+          "source": "金十数据",
           "ranks": [
-            4
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -78,6 +89,39 @@
           "time_info": "[03时46分 ~ 05时14分]"
         },
         {
+          "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要么移交浓缩铀给美国，要么销毁。",
+          "url": "https://wallstreetcn.com/livenews/3109041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
+          "url": "https://flash.jin10.com/detail/20260526060746668800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
           "url": "https://wallstreetcn.com/livenews/3108956",
           "source": "华尔街见闻-快讯",
@@ -100,6 +144,50 @@
           "time_info": "03时46分"
         },
         {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://wallstreetcn.com/livenews/3109035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
+          "url": "https://flash.jin10.com/detail/20260526054700468800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://flash.jin10.com/detail/20260526051929396800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
           "url": "https://wallstreetcn.com/livenews/3108943",
           "source": "华尔街见闻-快讯",
@@ -114,7 +202,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
@@ -149,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 03时46分]"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克期货上涨1.3%，标普500指数期货涨0.9%，道指期货涨0.87%。",
+          "url": "https://flash.jin10.com/detail/20260526060620011800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     },
@@ -163,7 +262,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -174,7 +273,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -188,6 +287,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟计划对谷歌处以高达数亿欧元的罚款",
+          "url": "https://wallstreetcn.com/livenews/3109054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     }
