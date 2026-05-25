@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:23:58.505929+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-05-25T18:15:54.625138+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -66,6 +66,17 @@
           "time_info": "[01时06分 ~ 03时22分]"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗问题）与伊朗达成的协议要么是伟大且有意义的，要么就不会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260525181117122800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普一季度做了3711笔证券交易",
           "url": "https://www.toutiao.com/trending/7643303101427879430/",
           "source": "今日头条",
@@ -78,6 +89,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 08时04分]"
+        },
+        {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -118,17 +151,6 @@
           "time_info": "[05时01分 ~ 08时04分]"
         },
         {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
           "url": "https://flash.jin10.com/detail/20260525025220703800",
           "source": "金十数据",
@@ -141,6 +163,17 @@
           "time_info": "[03时22分 ~ 05时01分]"
         },
         {
+          "title": "“白宫股神”推了“最火的存储”！特朗普公开大赞美光",
+          "url": "https://wallstreetcn.com/articles/3773000",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普称美伊协议“未谈妥”",
           "url": "https://www.douyin.com/hot/2511044",
           "source": "抖音",
@@ -150,6 +183,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 18时15分]"
         },
         {
           "title": "特朗普告诉美方代表：不要急于达成协议",
@@ -189,24 +234,13 @@
           "time_info": "[05时01分 ~ 06时05分]"
         },
         {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
           "url": "https://wallstreetcn.com/livenews/3108666",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -302,11 +336,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 13时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 18时15分]"
         }
       ]
     },
@@ -332,7 +367,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
