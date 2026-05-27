@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T13:20:10.848965+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-05-27T17:59:32.248641+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             16,
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时30分 ~ 13时20分]"
+          "appearance_count": 9,
+          "time_info": "[02时30分 ~ 17时59分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -29,19 +30,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 17时59分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 17时59分]"
         },
         {
           "title": "美国贸易代表格里尔：特朗普10%全球关税7月到期后或重新征收",
@@ -468,6 +470,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时10分 ~ 08时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：ELEMENTAL IMPACT与亚马逊、谷歌、Meta公司和微软共同启动数据中心创新计划。",
+          "url": "https://flash.jin10.com/detail/20260527173132501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     }
