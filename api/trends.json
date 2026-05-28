@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T13:11:29.359698+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-05-28T18:09:26.972025+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -27,8 +27,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 18时09分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时02分 ~ 13时11分]"
+          "time_info": "[13时11分 ~ 18时09分]"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 18时09分]"
         },
         {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
@@ -114,18 +138,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
-          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -152,17 +165,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "美国总统特朗普：协议必须完美。",
           "url": "https://flash.jin10.com/detail/20260528011153851800",
           "source": "金十数据",
@@ -172,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国法官允许特朗普收紧邮寄投票 民主党遭遇挫败",
+          "url": "https://flash.jin10.com/detail/20260528174251429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普威胁阿曼：老实点，否则会轰炸",
@@ -316,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "美媒：特朗普逐步加码“绞杀”古巴",
+          "url": "https://flash.jin10.com/detail/20260528173529978800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普倾向于与伊朗谈判。 相信一直都朝着达成协议取得进展。 我们将紧盯未来数小时、未来数日。",
@@ -508,7 +532,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -538,11 +562,12 @@
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 18时09分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
@@ -590,6 +615,28 @@
           "time_info": "04时23分"
         },
         {
+          "title": "当AI愈发相信“光”的力量！美股光通信龙头大幅上调营收预期",
+          "url": "https://www.cls.cn/detail/2383585",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
           "url": "https://flash.jin10.com/detail/20260528011006984800",
           "source": "金十数据",
@@ -610,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "微博第一季度净营收4.213亿美元，预估4.176亿美元。 第一季度调整后每股收益0.34美元，预估0.36美元。 第一季度调整后息税折旧及摊销前利润1.268亿美元，同比下降9.3%，预估1.158亿美元。 第一季度月活跃用户5.6亿，同比下降4.9%，预估5.8亿。 第一季度日活跃用户2.5亿，同比下降2.7%，预估2.6亿。 微博美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3110639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
@@ -647,6 +705,17 @@
           "time_info": "[01时21分 ~ 04时23分]"
         },
         {
+          "title": "小鹏集团第一季度营收130.3亿元人民币，预估131.6亿元人民币。 第一季度经营亏损18.7亿元人民币。 小鹏集团预计第二季度交付量100000至106000辆，市场预估96923辆。 小鹏集团预计第二季度营收196.0亿元人民币至208.0亿元人民币。 小鹏集团美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3110636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "现货黄金跌约1.2%，美股盘前逼近4400美元",
           "url": "https://wallstreetcn.com/livenews/3110264",
           "source": "华尔街见闻-快讯",
@@ -669,6 +738,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "理想汽车美股盘前跌近5%，公司一季度营收及二季度业绩指引低于预期。",
+          "url": "https://wallstreetcn.com/livenews/3110612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
           "url": "https://wallstreetcn.com/livenews/3110256",
           "source": "华尔街见闻-快讯",
@@ -678,12 +758,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "Snowflake美股盘前涨近35%，公司与AWS签订60亿美元采购协议。",
+          "url": "https://wallstreetcn.com/livenews/3110604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek网页及API服务中断",
@@ -692,9 +783,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "报道：国家大基金领投DeepSeek，投前估值450亿美元",
@@ -703,7 +805,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -714,7 +816,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
