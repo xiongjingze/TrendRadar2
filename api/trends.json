@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T14:49:59.140897+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-05-30T17:22:00.809233+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时54分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[05时54分 ~ 17时22分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -32,6 +32,53 @@
           "time_info": "[00时43分 ~ 07时17分]"
         },
         {
+          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
+          "url": "https://v.ifeng.com/c/8tXkQpz5ynL",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 17时22分]"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 17时22分]"
+        },
+        {
           "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
           "url": "https://wallstreetcn.com/livenews/3111606",
           "source": "华尔街见闻-快讯",
@@ -41,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
-          "url": "https://news.ifeng.com/c/8tXUU39QqQh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普明确寻求霍尔木兹海峡的自由开放通行。",
@@ -74,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
-        },
-        {
-          "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
-          "url": "https://v.ifeng.com/c/8tXkQpz5ynL",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
         },
         {
           "title": "特朗普肖像纪念钞能流通吗",
@@ -164,15 +189,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
+          "title": "美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”",
+          "url": "https://wallstreetcn.com/livenews/3111766",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "17时22分"
         },
         {
           "title": "据纽约邮报：美国官员称，特朗普在战情室关于伊朗谅解备忘录的会议已经结束。",
@@ -244,18 +269,6 @@
           "time_info": "[11时43分 ~ 14时49分]"
         },
         {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 14时49分]"
-        },
-        {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
           "url": "https://flash.jin10.com/detail/20260530033635502800",
           "source": "金十数据",
@@ -265,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普名字被判从肯尼迪中心移除",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8D%E5%AD%97%E8%A2%AB%E5%88%A4%E4%BB%8E%E8%82%AF%E5%B0%BC%E8%BF%AA%E4%B8%AD%E5%BF%83%E7%A7%BB%E9%99%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "美国内政部长Burgum：即将会见总统特朗普。 此次会面可能将有重大消息。 石油市场可以相信，特朗普会达成一份很棒的协议。",
@@ -380,8 +404,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 17时22分]"
+        },
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
@@ -394,17 +432,16 @@
           "time_info": "[00时43分 ~ 07时17分]"
         },
         {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            12
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 17时22分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -453,17 +490,6 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 14时49分]"
-        },
-        {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260530003722971800",
           "source": "金十数据",
@@ -473,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美股商业航天股全线重挫",
+          "url": "https://www.douyin.com/hot/2517641",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -619,11 +656,12 @@
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 17时22分]"
         }
       ]
     },
