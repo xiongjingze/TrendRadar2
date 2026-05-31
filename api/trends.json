@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T16:17:45.234059+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-05-31T19:02:25.308898+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 16时17分]"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 19时02分]"
         },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -77,17 +89,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
           "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
           "source": "澎湃新闻",
@@ -112,6 +113,19 @@
         },
         {
           "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://wallstreetcn.com/livenews/3111873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
           "url": "https://flash.jin10.com/detail/20260531103926927800",
           "source": "金十数据",
           "ranks": [
@@ -132,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
-          "url": "https://wallstreetcn.com/livenews/3111873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 16时17分]"
         },
         {
           "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
@@ -198,7 +200,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -209,9 +211,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "多名艺人辞演 特朗普要当国庆开场秀主角",
+          "url": "https://flash.jin10.com/detail/20260531165738443800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
@@ -220,7 +233,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -231,7 +244,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -242,9 +255,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 07时02分]"
         }
       ]
     },
@@ -277,24 +319,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 16时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
-          "url": "https://www.zhihu.com/question/2040472846393161206",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 07时02分]"
         }
       ]
     },
