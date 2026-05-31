@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T12:10:12.065638+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-05-31T16:17:45.234059+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
@@ -20,6 +20,18 @@
           "time_info": "[01时12分 ~ 12时10分]"
         },
         {
+          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
+          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 16时17分]"
+        },
+        {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
           "url": "https://wallstreetcn.com/articles/3773469",
           "source": "华尔街见闻",
@@ -29,28 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
-          "url": "https://wallstreetcn.com/livenews/3111873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
-          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
@@ -87,6 +77,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
           "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
           "source": "澎湃新闻",
@@ -110,24 +111,13 @@
           "time_info": "[01时12分 ~ 07时02分]"
         },
         {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
           "url": "https://flash.jin10.com/detail/20260531103926927800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -142,6 +132,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://wallstreetcn.com/livenews/3111873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 16时17分]"
+        },
+        {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 16时17分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -176,6 +190,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时22分]"
+        },
+        {
+          "title": "30年前的“摧毁飞机谋杀案”，特朗普给翻出来了",
+          "url": "https://news.ifeng.com/c/8tZclGoODbk",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "特朗普要求修改特使谈成的伊朗协议，美国封杀霍尔木兹“买路钱”",
+          "url": "https://flash.jin10.com/detail/20260531145730531800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
+          "url": "https://flash.jin10.com/detail/20260531123650502800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
+          "url": "https://flash.jin10.com/detail/20260531123639729800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美国总统特朗普：与其他美国总统不同，他们从未接受过批准的高难度认知测试，我的得分是30分满分，被认为是“极高智力”。",
+          "url": "https://flash.jin10.com/detail/20260531123628014800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -206,8 +275,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 12时10分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 16时17分]"
         }
       ]
     },
