@@ -1,683 +1,132 @@
 {
-  "generated_at": "2026-06-02T22:07:26.225361+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-06-03T02:42:54.407761+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普：美伊暂停谈判？假新闻！",
+          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
+          "url": "https://flash.jin10.com/detail/20260603023318280800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "特朗普，开掉“不听话的情报头子”",
+          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普将于7月24日出席改期的记者晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3113229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
           "url": "https://wallstreetcn.com/articles/3773609",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 22时07分]"
-        },
-        {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 17时10分]"
-        },
-        {
-          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
-          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时04分 ~ 12时18分]"
-        },
-        {
-          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
-          "url": "https://www.cls.cn/detail/2387782",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 17时10分]"
-        },
-        {
-          "title": "特朗普：以黎将立即停火",
-          "url": "https://news.ifeng.com/c/8tc5U5rmZoF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 04时57分]"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时04分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普再发5张照片回味中国",
-          "url": "https://news.ifeng.com/c/8td32CwSj89",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "美国总统特朗普向NBC新闻记者表示，我们将继续在霍尔木兹海峡维持封锁。",
-          "url": "https://flash.jin10.com/detail/20260602001529932800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美国总统特朗普表示，他尚未收到伊朗关于暂停谈判的消息。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3112570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "特朗普称与伊朗一周内达成协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E4%B8%80%E5%91%A8%E5%86%85%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "美国总统特朗普在接受NBC新闻记者采访时表示，关于伊朗“说实话，我觉得我们谈得太多了。我认为保持沉默会非常好。”",
-          "url": "https://flash.jin10.com/detail/20260602001431129800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美国总统特朗普在接受NBC新闻记者采访时表示，他尚未收到伊朗关于暂停谈判的消息。",
-          "url": "https://flash.jin10.com/detail/20260602001302121800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "曝特朗普私下多次质疑万斯实力",
-          "url": "https://www.toutiao.com/trending/7645850304593313834/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
-          "url": "https://news.ifeng.com/c/8td32CwSj89",
-          "source": "凤凰网",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
-          "url": "https://www.cls.cn/detail/2387700",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时56分 ~ 12时18分]"
+          "time_info": "02时42分"
         },
         {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "02时42分"
         },
         {
-          "title": "据半岛电视台：一位卡塔尔外交消息人士透露，美国已告知卡塔尔，在特朗普与内塔尼亚胡通电话后，以色列此前扬言要对贝鲁特南郊发动的袭击已取消。",
-          "url": "https://flash.jin10.com/detail/20260602041109428800",
+          "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260603022637217800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
-          "url": "https://www.cls.cn/detail/2387742",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
-          "url": "https://news.ifeng.com/c/8tcn1AFVlOS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3112663",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "02时42分"
         },
         {
-          "title": "特朗普用F开头词汇怒斥内塔尼亚胡",
-          "url": "https://flash.jin10.com/detail/20260602062637245800",
+          "title": "美国总统特朗普：我们国家金融系统的使用权限必须仅限于那些拥有合法居留权、从事合法正当商业活动的人。",
+          "url": "https://flash.jin10.com/detail/20260603022625519800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国总统特朗普：非法移民和外国诈骗者每年从美国纳税人那里窃取数十亿美元。作为我政府历史性努力的一部分，以结束欺诈和扭转大规模非法移民，我最近签署了一项强有力的新行政命令，由财政部主导，旨在阻止银行、信用卡和金融机构被用于促进人口走私、毒品贩运、非法移民以及策划这些活动的犯罪集团。",
+          "url": "https://flash.jin10.com/detail/20260603022601524800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "02时42分"
         },
         {
-          "title": "黎巴嫩议会议长告诉特朗普政府，真主党已准备好与以色列全面停火，并承诺保证停火协议的执行。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3112554",
+          "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
+          "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "02时42分"
         },
         {
-          "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。 在谅解备忘录（MoU）上还需要再敲定几点，将在下周完成。（ABC）",
-          "url": "https://wallstreetcn.com/livenews/3112661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "据Politico：得克萨斯州总检察长、刚刚获得共和党联邦参议员候选人提名的肯·帕克斯顿计划于当地时间周二晚在白宫与特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20260602215812014800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "美国财经媒体Semafor：联合太平洋公司高管私下否认曾就15%股权与特朗普进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260602061754781800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "以总理告诉特朗普：以军将继续按计划在黎南部开展行动",
-          "url": "https://wallstreetcn.com/livenews/3112638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我今晚与特朗普总统通了电话，并告诉他，如果真主党不停止袭击我们的城市和公民，以色列将对贝鲁特的目标发动打击。我们的立场依然坚定不变。与此同时，以色列国防军将继续按计划在黎巴嫩南部开展行动。",
-          "url": "https://flash.jin10.com/detail/20260602033426312800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普任命普尔特为代理国家情报总监",
-          "url": "https://wallstreetcn.com/livenews/3113113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "美国总统特朗普：今天我与内塔尼亚胡进行了交谈，要求他不要对黎巴嫩首都贝鲁特发动大规模突袭。他随即下令部队撤回。谢谢你，内塔尼亚胡！我还与真主党领导人的代表进行了对话，他们同意停止向以色列及其士兵开火。同样，以色列也同意停止向他们开火。让我们拭目以待，看看这种停火能持续多久，但愿它能持续到永远！",
-          "url": "https://flash.jin10.com/detail/20260602054949735800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "美国参议院多数党领袖图恩：白宫尚未就总统特朗普的基金发布任何官方声明。",
-          "url": "https://flash.jin10.com/detail/20260602032044587800",
+          "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
+          "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
-          "url": "https://flash.jin10.com/detail/20260602054717157800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "美国总统特朗普：任命美国联邦住房金融局局长、房利美/房地美董事长普尔特担任国家情报局代理局长。 在此期间，他将继续担任联邦住房金融局局长和房利美/房地美董事长。",
-          "url": "https://wallstreetcn.com/livenews/3113107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "美国参议院多数党领袖图恩：希望将美国总统特朗普的“武器化”基金从移民执法支出法案中删除。",
-          "url": "https://flash.jin10.com/detail/20260602031957054800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 12时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时04分 ~ 12时18分]"
-        },
-        {
-          "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时57分]"
-        },
-        {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "金十图示：2026年06月01日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260602041613894800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3112639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
-          "url": "https://wallstreetcn.com/livenews/3112635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3112642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 07时04分]"
-        },
-        {
-          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3112640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 07时04分]"
-        },
-        {
-          "title": "金十图示：2026年06月01日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260602040518051800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
-          "url": "https://flash.jin10.com/detail/20260602040120884800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股盘初，北美科技软件股指数ETF跌2.18%。 个股中，HubSpot跌7.77%，RingCentral跌5.71%，Zscaler跌4.91%，Cloudflare跌2.52%，Palantir跌2.47%，Crowdstrike跌1.55%，Datadog跌1.53%，Palo Alto Networks跌0.77%，ServiceNow跌3.49%。",
-          "url": "https://wallstreetcn.com/livenews/3113117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "美股散户疯买看涨期权！力度已达2022年入熊前夜水平",
-          "url": "https://flash.jin10.com/detail/20260602115025145800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "美股三大指数集体低开，Marvell盘初涨15%",
-          "url": "https://wallstreetcn.com/livenews/3113115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3112654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
-          "url": "https://wallstreetcn.com/livenews/3112653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "迈威尔科技(MRVL.O)美股夜盘直线拉升，一度涨超16%，现涨幅收窄至11.5%。此前英伟达CEO黄仁勋称迈威尔科技将成为下一个万亿美元公司。",
-          "url": "https://flash.jin10.com/detail/20260602114105402800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3113105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "迈威尔科技美股盘前涨超25%，黄仁勋表示Marvell可能会成为“下一家万亿美元公司”。",
-          "url": "https://wallstreetcn.com/livenews/3112927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
-          "url": "https://wallstreetcn.com/livenews/3112665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
-          "url": "https://wallstreetcn.com/livenews/3112620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
-          "url": "https://flash.jin10.com/detail/20260602032624584800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "02时42分"
         }
       ]
     },
@@ -690,91 +139,95 @@
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 22时07分]"
-        },
-        {
-          "title": "伯克希尔将对谷歌母公司投资100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3112644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "02时42分"
         },
         {
-          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
-          "url": "https://wallstreetcn.com/livenews/3112644",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：从6月2日起，将更新美国预测市场政策，禁止在俄亥俄州投放预测市场合约及相关产品的广告。",
+          "url": "https://flash.jin10.com/detail/20260603022348534800",
+          "source": "金十数据",
           "ranks": [
-            26
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
+          "url": "https://wallstreetcn.com/livenews/3113224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
-          "url": "https://wallstreetcn.com/livenews/3112923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时10分"
+          "time_info": "02时42分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "Claude",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美元指数1日上涨",
-          "url": "https://flash.jin10.com/detail/20260602034131741800",
-          "source": "金十数据",
+          "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
+          "url": "https://wallstreetcn.com/livenews/3113215",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "周一（6月1日）纽约尾盘，ICE美元指数上涨0.25%，报99.186点，日内交投区间为98.919-99.385点，北京时间21:03之前维持微幅上涨状态、持稳于99关口附近，之后短线加速上涨，22:03刷新日高。 彭博美元指数涨0.25%，报1201.78点，日内交投区间为1199.26-1203.83点。 美元兑日元涨0.26%，报159.68日元，日内交投区间为159.24-159.76日元。",
-          "url": "https://wallstreetcn.com/livenews/3112622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "02时42分"
         }
       ]
     }
