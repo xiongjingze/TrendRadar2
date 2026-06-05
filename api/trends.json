@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:58:33.713636+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-06-05T20:44:59.175692+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -281,6 +281,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
           "url": "https://flash.jin10.com/detail/20260605043321294800",
           "source": "金十数据",
@@ -408,7 +419,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -537,7 +548,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -615,6 +626,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3114624",
           "source": "华尔街见闻-快讯",
@@ -651,7 +673,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -664,6 +686,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时22分 ~ 06时41分]"
+        },
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
@@ -712,47 +745,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
-          "url": "https://wallstreetcn.com/livenews/3114670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数4日下跌",
@@ -766,6 +760,28 @@
           "time_info": "06时41分"
         },
         {
+          "title": "美国非农数据公布后，美国国债收益率直线拉升，10年期国债收益率上行逾4bp，现报4.520%；现货黄金短线下挫，现报4447.73美元/盎司。标普500和纳斯达克100期货跌幅扩大。新兴市场货币指数下跌。",
+          "url": "https://wallstreetcn.com/livenews/3115138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "非农就业远超预期，美元指数DXY短线走高15点，现报99.36。",
+          "url": "https://flash.jin10.com/detail/20260605203046176800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
           "url": "https://wallstreetcn.com/livenews/3114603",
           "source": "华尔街见闻-快讯",
@@ -775,6 +791,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时44分]"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         }
       ]
     }
