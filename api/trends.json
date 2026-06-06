@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T15:49:13.250058+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-06-06T18:08:45.059892+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
@@ -177,6 +188,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "据阿拉比亚电视台：阿拉伯消息人士称，特朗普告知调解人员，他不会进行超过60天的谈判，并要求伊朗迅速作出回应。",
+          "url": "https://flash.jin10.com/detail/20260606173931503800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "美国总统特朗普对伊朗局势“进展良好”未提供更多细节。",
           "url": "https://flash.jin10.com/detail/20260606032504676800",
           "source": "金十数据",
@@ -186,6 +208,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 18时08分]"
         },
         {
           "title": "美国总统特朗普：伊朗还剩下21%-22%的导弹。 伊朗还剩下一些导弹，还剩下一些无人机，我们知道在哪里。 （谈伊朗为何不达成协议）这对他们来说非常艰难。 （除了达成协议）伊朗别无选择，这需要一些时间。",
@@ -221,18 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 08时11分]"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 15时49分]"
         },
         {
           "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
@@ -545,7 +568,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -568,8 +591,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时11分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时11分 ~ 18时08分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -579,8 +602,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时11分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时11分 ~ 18时08分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -590,8 +613,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时08分]"
         },
         {
           "title": "美股三大指数缘何齐跌",
@@ -614,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
@@ -647,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
@@ -805,8 +850,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时08分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -865,11 +910,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时08分]"
         }
       ]
     }
