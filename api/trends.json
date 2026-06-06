@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-06T20:08:11.116758+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-06T22:45:14.753610+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时08分 ~ 22时45分]"
+        },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 08时11分]"
-        },
-        {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 20时08分]"
         },
         {
           "title": "特朗普：将迅速结束伊朗战事",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
@@ -378,6 +390,17 @@
           "time_info": "[12时56分 ~ 15时49分]"
         },
         {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "美国总统特朗普：今天的就业数据非常出色。",
           "url": "https://flash.jin10.com/detail/20260606032500669800",
           "source": "金十数据",
@@ -428,7 +451,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -579,7 +602,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -589,19 +612,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时11分 ~ 20时08分]"
+          "appearance_count": 9,
+          "time_info": "[08时11分 ~ 22时45分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时11分 ~ 20时08分]"
+          "appearance_count": 9,
+          "time_info": "[08时11分 ~ 22时45分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -626,6 +650,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时56分 ~ 20时08分]"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时08分 ~ 22时45分]"
         },
         {
           "title": "如何看待美股一夜蒸发2万亿",
@@ -661,16 +698,15 @@
           "time_info": "08时11分"
         },
         {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 20时08分]"
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "美股一夜蒸发超万亿美元市值",
@@ -873,8 +909,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 20时08分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 22时45分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -917,17 +953,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 08时11分]"
-        },
-        {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
@@ -938,8 +963,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 20时08分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 22时45分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 08时11分]"
         }
       ]
     }
