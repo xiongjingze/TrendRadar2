@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-08T17:26:42.950030+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-06-08T22:13:16.315233+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 22时13分]"
+        },
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
           "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
@@ -20,16 +32,40 @@
           "time_info": "[07时10分 ~ 17时26分]"
         },
         {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 22时13分]"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 22时13分]"
+        },
+        {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 22时13分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -54,18 +90,6 @@
           "time_info": "07时10分"
         },
         {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 17时26分]"
-        },
-        {
           "title": "伊朗导弹直击以色列空军基地，特朗普紧急喊停以军：所有事我做主，内塔尼亚胡别无选择",
           "url": "https://flash.jin10.com/detail/20260608064132856800",
           "source": "金十数据",
@@ -88,15 +112,15 @@
           "time_info": "05时18分"
         },
         {
-          "title": "特朗普：伊朗最高领袖伤得很重",
-          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
-          "source": "凤凰网",
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "美国总统特朗普：一切进展顺利。",
@@ -110,6 +134,18 @@
           "time_info": "05时18分"
         },
         {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普力压内塔尼亚胡：美伊协议“我说了算”，他必须接受",
           "url": "https://flash.jin10.com/detail/20260608061944614800",
           "source": "金十数据",
@@ -119,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        },
-        {
-          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
-          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -188,17 +213,6 @@
           "time_info": "12时20分"
         },
         {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "美国总统特朗普：我们与伊朗非常接近达成最终协议，我不希望因为现在发生的事情而让协议破裂。",
           "url": "https://flash.jin10.com/detail/20260608042036369800",
           "source": "金十数据",
@@ -249,7 +263,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -474,6 +488,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "美媒爆料：伊朗宣布停止对以色列军事行动前，特朗普和内塔尼亚胡进行通话",
+          "url": "https://wallstreetcn.com/livenews/3116188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "学者：特朗普外交抑制了两极化阵营化",
           "url": "https://www.toutiao.com/trending/7647971110792757299/",
           "source": "今日头条",
@@ -499,7 +524,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -539,6 +564,17 @@
           "time_info": "[01时23分 ~ 07时10分]"
         },
         {
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "如何看待美股黑色星期五？如何影响A股？",
           "url": "https://www.cls.cn/detail/2392886",
           "source": "财联社热门",
@@ -558,9 +594,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260608214939969800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔大涨超11%",
+          "url": "https://wallstreetcn.com/livenews/3116209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "现货黄金、美股股指期货小幅拉升，WTI原油小幅下挫。",
@@ -574,6 +632,28 @@
           "time_info": "07时10分"
         },
         {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3115648",
           "source": "华尔街见闻-快讯",
@@ -583,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3116200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "美股股指期货周一低开，纳指期货跌0.6%，标普500指数期货跌0.4%。",
@@ -607,6 +698,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美股盘前特朗普快速摁灭战火，伊朗借黎巴嫩议题撬动美以矛盾",
+          "url": "https://flash.jin10.com/detail/20260608212906749800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美股IPO后续怎么看",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1IPO%E5%90%8E%E7%BB%AD%E6%80%8E%E4%B9%88%E7%9C%8B",
           "source": "bilibili 热搜",
@@ -624,7 +726,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -694,6 +796,46 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 12时20分]"
+        },
+        {
+          "title": "英特尔美股盘前涨超9%，报道称，谷歌和英伟达考虑将英特尔列为备用芯片制造合作伙伴，谷歌向英特尔下单采购超过300万枚TPU芯片。",
+          "url": "https://wallstreetcn.com/livenews/3116197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美股开盘，道指涨0.26%，标普500指数涨0.79%，纳指涨1.39%。英特尔(INTC.O)涨11.5%，谷歌向其下单逾300万颗TPU。美国电池技术公司(ABAT.O)涨25.5%，此前公司赢得上诉、美国能源部为其项目恢复拨款。迈威尔科技(MRVL.O)涨9.6%。纳斯达克中国金龙指数涨0.53%。",
+          "url": "https://flash.jin10.com/detail/20260608213033883800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -707,24 +849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 12时20分]"
         }
       ]
     },
