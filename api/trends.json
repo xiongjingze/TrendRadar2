@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T17:53:09.727213+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-06-09T20:42:17.243429+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -44,6 +44,18 @@
           "time_info": "[04时29分 ~ 13时10分]"
         },
         {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普：伊朗最高领袖伤得很重",
           "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
           "source": "凤凰网",
@@ -79,16 +91,27 @@
           "time_info": "[01时58分 ~ 08时10分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时09分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 20时42分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 20时42分]"
         },
         {
           "title": "特朗普：内塔尼亚胡，你最好小心点！",
@@ -126,17 +149,6 @@
           "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及尼克斯球迷对他的反应时）我认为大多数是欢呼声。声音很大，气氛非常热烈。",
           "url": "https://flash.jin10.com/detail/20260609125116958800",
           "source": "金十数据",
@@ -157,17 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "特朗普曾警告以总理勿再攻伊朗，否则将遭孤立",
@@ -458,6 +459,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "一场可预见的“反水”：沃什注定会让特朗普失望？",
+          "url": "https://flash.jin10.com/detail/20260609200428106800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "路透社/益普索调查显示，特朗普的支持率仍徘徊在其政治生涯的最低水平附近，且大多数美国人预计汽油价格将会上涨。",
           "url": "https://flash.jin10.com/detail/20260609034826274800",
           "source": "金十数据",
@@ -519,7 +531,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -538,7 +550,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -546,11 +558,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时42分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[06时42分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
@@ -564,6 +577,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时42分 ~ 13时10分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 20时42分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -589,18 +614,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时09分 ~ 13时10分]"
-        },
-        {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 17时53分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -668,7 +681,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -682,6 +695,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "美股存储芯片股全线杀跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E6%9D%80%E8%B7%8C&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
@@ -742,8 +766,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 20时42分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -881,8 +905,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 20时42分]"
         },
         {
           "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
