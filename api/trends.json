@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T13:52:37.718770+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-06-11T18:43:48.495396+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 18时43分]"
         },
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -38,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -71,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -126,7 +127,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -137,7 +138,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -448,7 +449,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -555,8 +556,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时20分 ~ 18时43分]"
+        },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
@@ -571,16 +584,15 @@
           "time_info": "[06时06分 ~ 13时52分]"
         },
         {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时43分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -594,15 +606,26 @@
           "time_info": "[00时37分 ~ 03时36分]"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
+          "title": "英特尔美股盘前涨超5%，此前美银将英特尔评级从“跑输大盘”上调至“买入”，目标价设为135美元。",
+          "url": "https://wallstreetcn.com/livenews/3118091",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "18时43分"
+        },
+        {
+          "title": "SpaceX上市在即，美股航天概念股盘前反弹，“SpaceX概念基金”Destiny Tech100涨近12%，Rocket Lab、ASTS涨超4%，回声星通信涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3118075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "美股泡沫为何逐渐得到认同",
@@ -676,11 +699,12 @@
           "url": "https://www.cls.cn/detail/2396831",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时43分]"
         },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
@@ -703,6 +727,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         }
       ]
     },
