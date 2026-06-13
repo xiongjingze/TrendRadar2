@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T12:07:02.916935+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-06-13T16:23:56.000888+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -50,7 +50,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -66,15 +66,27 @@
           "time_info": "[00时22分 ~ 07时21分]"
         },
         {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
           "url": "https://wallstreetcn.com/livenews/3119112",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时23分]"
         },
         {
           "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
@@ -84,8 +96,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 16时23分]"
         },
         {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
@@ -127,7 +139,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -149,7 +161,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -160,9 +172,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
+          "url": "https://flash.jin10.com/detail/20260613135132785800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普：在我的指示下，美国南方司令部发动了一次迅速而致命的打击，成功击毙了“阿拉瓜火车”这一地球上最残暴的恐怖组织之一的臭名昭著的头目“尼诺·格雷罗”（Niño Guerrero）。",
@@ -171,7 +194,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -223,8 +246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 16时23分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -235,8 +258,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时07分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 16时23分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -245,11 +268,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时50分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[05时50分 ~ 16时23分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -373,9 +397,50 @@
           "url": "https://wallstreetcn.com/livenews/3119107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 Claude Fable 5 全球暂停访问？",
+          "url": "https://www.zhihu.com/question/2049072203191342205",
+          "source": "知乎",
+          "ranks": [
+            1
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://wallstreetcn.com/livenews/3119114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时23分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://flash.jin10.com/detail/20260613093036412800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -410,34 +475,6 @@
       ]
     },
     {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://wallstreetcn.com/livenews/3119114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
-          "url": "https://flash.jin10.com/detail/20260613093036412800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -464,11 +501,12 @@
           "url": "https://wallstreetcn.com/livenews/3119103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 16时23分]"
         }
       ]
     }
