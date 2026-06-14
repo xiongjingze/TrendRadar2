@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T17:40:58.648974+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-06-14T20:02:35.938252+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -38,11 +38,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时11分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时11分 ~ 20时02分]"
         },
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 20时02分]"
         },
         {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
@@ -103,6 +105,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 13时53分]"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 20时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-14）",
+          "url": "https://flash.jin10.com/detail/20260614192509763800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
@@ -164,18 +190,6 @@
           "time_info": "[02时11分 ~ 04时18分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 17时40分]"
-        },
-        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
           "url": "https://flash.jin10.com/detail/20260614005805979800",
           "source": "金十数据",
@@ -186,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 04时18分]"
+        },
+        {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 20时02分]"
         },
         {
           "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
@@ -209,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -272,7 +286,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -321,6 +335,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
+          "url": "https://flash.jin10.com/detail/20260614180317033800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "特朗普称14日签署美伊协议 伊朗否认",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B014%E6%97%A5%E7%AD%BE%E7%BD%B2%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE+%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4",
           "source": "百度热搜",
@@ -366,11 +391,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 17时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 20时02分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -429,8 +455,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 20时02分]"
         }
       ]
     },
@@ -459,6 +485,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
