@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T02:41:46.758066+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T05:46:58.332480+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -15,8 +15,42 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
+        },
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们与美国总统特朗普是平等伙伴关系。",
@@ -30,15 +64,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
-          "url": "https://www.cls.cn/detail/2400017",
-          "source": "财联社热门",
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
         },
         {
           "title": "美国加州州长Newsom：总统特朗普命令司法部调查我和我的妻子，但他们并没有找到犯罪（证据）。 特朗普针对我，是因为我考虑竞选总统。",
@@ -52,44 +86,11 @@
           "time_info": "02时41分"
         },
         {
-          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
-          "url": "https://www.cls.cn/detail/2400213",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
           "title": "特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动”",
           "url": "https://wallstreetcn.com/livenews/3119829",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,6 +119,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "美加州州长称特朗普指示司法部对其展开调查",
+          "url": "https://wallstreetcn.com/livenews/3119871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
           "title": "特朗普：霍尔木兹海峡恢复通航“不需要太多帮助”",
           "url": "https://wallstreetcn.com/livenews/3119816",
           "source": "华尔街见闻-快讯",
@@ -138,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美加州州长称特朗普指示司法部对其展开调查",
+          "url": "https://flash.jin10.com/detail/20260616042216487800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         },
         {
           "title": "谁为特朗普白宫格斗赛买单",
@@ -209,7 +232,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -219,19 +242,108 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
         },
         {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2400410",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时46分]"
+        },
+        {
+          "title": "美伊协议落地，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3119879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3119873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3119872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
+          "url": "https://wallstreetcn.com/livenews/3119870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近3.3%，领跑美股大类资产类ETF，布油基金跌3.7%",
+          "url": "https://wallstreetcn.com/livenews/3119867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3119863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "SpaceX美股IPO第二天收涨19.60%，报192.50美元，市值增长4120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     },
