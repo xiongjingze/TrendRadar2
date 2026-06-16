@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T12:45:06.337143+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-16T18:12:07.196595+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 45,
       "titles": [
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 18时11分]"
         },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 07时49分]"
+        },
+        {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -77,6 +89,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美国总统特朗普：我的伊朗协议与奥巴马时期的《联合全面行动计划》（JCPOA）不同。",
+          "url": "https://flash.jin10.com/detail/20260616180045576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
           "url": "https://www.cls.cn/detail/2400664",
           "source": "财联社热门",
@@ -86,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议进入第二阶段。 我们认为这是一份公平的协议。 我们不会在伊朗投入任何资金。 伊朗永远无法拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3120218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
@@ -121,6 +155,17 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "特朗普称伊朗协议明确禁止伊朗拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260616175911500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动”",
           "url": "https://wallstreetcn.com/livenews/3119829",
           "source": "华尔街见闻-快讯",
@@ -132,6 +177,39 @@
           "time_info": "02时41分"
         },
         {
+          "title": "美国总统特朗普：没有我就没有以色列。",
+          "url": "https://flash.jin10.com/detail/20260616175852810800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美国总统特朗普：内塔尼亚胡在对待黎巴嫩问题上需要更负责任。",
+          "url": "https://flash.jin10.com/detail/20260616175836921800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：有时美国总统特朗普和我意见不合。",
           "url": "https://flash.jin10.com/detail/20260616021216984800",
           "source": "金十数据",
@@ -141,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：我对内塔尼亚胡并不感到沮丧。",
+          "url": "https://flash.jin10.com/detail/20260616175813258800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
@@ -155,6 +244,17 @@
           "time_info": "[07时49分 ~ 12时45分]"
         },
         {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
           "title": "曝特朗普预计获准打破世界杯颁奖惯例",
           "url": "https://www.toutiao.com/trending/7651429943464820763/",
           "source": "今日头条",
@@ -164,6 +264,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢在签署伊朗协议前以色列对贝鲁特的攻击。",
+          "url": "https://flash.jin10.com/detail/20260616175759268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美国总统特朗普：如果以色列无法在不伤及其他所有人的情况下完成任务，那就应该由叙利亚来完成。",
+          "url": "https://flash.jin10.com/detail/20260616175737605800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美国石油储备创最近43年新低，恰逢特朗普试图遏制汽油价格",
@@ -188,6 +310,28 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美国总统特朗普：以色列与真主党的战斗持续时间太长了。",
+          "url": "https://flash.jin10.com/detail/20260616175722716800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "美国总统特朗普：已告知以色列，对该国针对贝鲁特的袭击感到不满。",
+          "url": "https://flash.jin10.com/detail/20260616175710148800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3119898",
           "source": "华尔街见闻-快讯",
@@ -199,6 +343,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美国总统特朗普表示，他曾向以色列建议由叙利亚来对付黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20260616175654731800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
           "url": "https://wallstreetcn.com/livenews/3119871",
           "source": "华尔街见闻-快讯",
@@ -208,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "美国总统特朗普：即便以色列袭击黎巴嫩，该协议仍能维持。",
+          "url": "https://flash.jin10.com/detail/20260616175547859800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "特朗普：霍尔木兹海峡恢复通航“不需要太多帮助”",
@@ -254,6 +420,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "美国总统特朗普：从心理层面讲，我们想要获取伊朗的浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260616175425352800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美国总统特朗普谈伊朗核协议：不解除制裁。",
           "url": "https://wallstreetcn.com/livenews/3119812",
           "source": "华尔街见闻-快讯",
@@ -263,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：我们要获取伊朗的核材料。",
+          "url": "https://flash.jin10.com/detail/20260616175345506800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美国总统特朗普声称：我认为“很快”就会披露谅解备忘录（MoU）。 MoU的文本将于周五之后公布。 霍尔木兹海峡免费通行。",
@@ -285,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在已成往事。",
+          "url": "https://flash.jin10.com/detail/20260616175151946800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美国总统特朗普声称：与法国总统马克龙关系“好极了”。",
@@ -319,11 +518,12 @@
           "url": "https://wallstreetcn.com/articles/3774633",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 18时12分]"
         },
         {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
@@ -463,6 +663,45 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek完成500亿融资",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
+          "title": "腾讯云 DeepSeek-V3.2 模型下线及切换升级",
+          "url": "https://wallstreetcn.com/livenews/3120209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
@@ -473,7 +712,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         }
