@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T18:12:07.196595+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-06-16T23:59:13.070118+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时41分 ~ 18时11分]"
+        },
+        {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 23时59分]"
         },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -45,15 +56,16 @@
           "time_info": "[02时41分 ~ 07时49分]"
         },
         {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
           "ranks": [
-            1
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 23时59分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -95,7 +107,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -111,13 +123,24 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "据Politico：两位知情人士透露，2028年洛杉矶奥运会的组织者正与特朗普政府合作，计划在夏季奥运会前夕于洛杉矶特朗普国家高尔夫俱乐部举办一场锦标赛。这凸显了组织者认为与白宫保持良好关系对于成功举办奥运会至关重要。",
+          "url": "https://flash.jin10.com/detail/20260616234446839800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "美国总统特朗普：伊朗协议进入第二阶段。 我们认为这是一份公平的协议。 我们不会在伊朗投入任何资金。 伊朗永远无法拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3120218",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -131,6 +154,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 23时59分]"
         },
         {
           "title": "美国加州州长Newsom：总统特朗普命令司法部调查我和我的妻子，但他们并没有找到犯罪（证据）。 特朗普针对我，是因为我考虑竞选总统。",
@@ -161,7 +196,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -177,24 +212,24 @@
           "time_info": "02时41分"
         },
         {
+          "title": "美国联邦登记处公布总统特朗普6月11日的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3120410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "美国总统特朗普：没有我就没有以色列。",
           "url": "https://flash.jin10.com/detail/20260616175852810800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -205,7 +240,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -227,7 +262,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -244,15 +279,15 @@
           "time_info": "[07时49分 ~ 12时45分]"
         },
         {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
+          "title": "特朗普和马克龙为何为一瓶红酒较劲",
+          "url": "https://www.toutiao.com/trending/7651982793936735807/",
+          "source": "今日头条",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 18时12分]"
+          "time_info": "[23时58分 ~ 23时59分]"
         },
         {
           "title": "曝特朗普预计获准打破世界杯颁奖惯例",
@@ -272,7 +307,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -283,7 +318,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -316,7 +351,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -327,7 +362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -349,9 +384,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "总统备忘录显示，特朗普以生产能力有限及供应链脆弱为由，启动《国防生产法》。",
+          "url": "https://flash.jin10.com/detail/20260616232616140800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
@@ -365,13 +411,24 @@
           "time_info": "05时46分"
         },
         {
+          "title": "总统备忘录显示，针对弹药行业的“系统性制约”，美国总统特朗普启用《国防生产法》。",
+          "url": "https://flash.jin10.com/detail/20260616232539315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "美国总统特朗普：即便以色列袭击黎巴嫩，该协议仍能维持。",
           "url": "https://flash.jin10.com/detail/20260616175547859800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -426,7 +483,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -448,7 +505,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -481,7 +538,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -511,7 +568,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -519,11 +576,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 23时59分]"
         },
         {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
@@ -572,6 +630,28 @@
           "time_info": "[02时41分 ~ 07时49分]"
         },
         {
+          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2401513",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
+          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "美伊协议落地，拉美股汇走势分化",
           "url": "https://wallstreetcn.com/livenews/3119879",
           "source": "华尔街见闻-快讯",
@@ -582,6 +662,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 07时49分]"
+        },
+        {
+          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
+          "url": "https://www.zhihu.com/question/2049776018660103123",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
         },
         {
           "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
@@ -664,8 +755,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
         {
           "title": "DeepSeek完成500亿融资",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
@@ -695,9 +797,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
         }
       ]
     },
@@ -732,6 +845,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒天然：6月16日全球乳品贸易（GDT）拍卖价格指数下滑2.8%，奶粉各合同期FAS拍卖均价3,979美元/吨。 批发奶粉价格指数下降3.1%，报3,589美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3120404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     }
