@@ -1,615 +1,529 @@
 {
-  "generated_at": "2026-06-17T19:52:22.620872+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-06-18T00:32:15.728289+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 08时21分]"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 08时21分]"
-        },
-        {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普和马克龙为何为一瓶红酒较劲",
-          "url": "https://www.toutiao.com/trending/7651982793936735807/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 19时52分]"
-        },
-        {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 14时17分]"
-        },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 19时52分]"
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
+          "url": "https://flash.jin10.com/detail/20260618002537588800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：将讨论弹道导弹和恐怖主义代理人问题。",
+          "url": "https://flash.jin10.com/detail/20260618002457357800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
+          "url": "https://wallstreetcn.com/livenews/3121146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
           "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
           "source": "凤凰网",
           "ranks": [
-            4
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国总统特朗普：与海湾国家并行努力。",
+          "url": "https://flash.jin10.com/detail/20260618002345717800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
-          "url": "https://wallstreetcn.com/livenews/3120506",
+          "title": "美国总统特朗普：不会给伊朗钱。",
+          "url": "https://wallstreetcn.com/livenews/3121145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
           "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国总统特朗普：与海湾国家讨论非核问题。",
+          "url": "https://flash.jin10.com/detail/20260618002341090800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
           "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
           "source": "凤凰网",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国总统特朗普称赞伊朗人聪明，是优秀的谈判者。",
+          "url": "https://flash.jin10.com/detail/20260618002316301800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：可能会在周四、或周五与伊朗签署协议。 将发布与伊朗相关的谅解备忘录（MoU），从而让你们可以了解情况。 如果没能在60天内搞定伊朗协议，美军将重新轰炸。 不想再轰炸伊朗，但可能不得不那样做。 向以色列发送了一份伊朗协议的副本。",
+          "url": "https://wallstreetcn.com/livenews/3121143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "“特朗普这么干，又给中国打广告”",
+          "url": "https://news.ifeng.com/c/8u2Dv7mxUaG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
+          "url": "https://flash.jin10.com/detail/20260618002256528800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡有时候激动了一点。 他没必要每次都炸掉（对方的）建筑物。 我们俩在黎巴嫩问题上存在意见分歧。 但我俩关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3121142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：在资金和投资方面，我们不会给伊朗任何东西。",
+          "url": "https://flash.jin10.com/detail/20260618002136446800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
-          "url": "https://v.ifeng.com/c/8u1lYy22fhi",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：波音757是一款不错的飞机。",
+          "url": "https://wallstreetcn.com/livenews/3121140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：关于核库存的技术性讨论将会立即开始。",
+          "url": "https://flash.jin10.com/detail/20260618002104915800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的行为非常得体。",
+          "url": "https://flash.jin10.com/detail/20260618001939110800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普：美方或恢复对俄石油制裁",
-          "url": "https://www.toutiao.com/trending/7652117439001477139/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：股市比任何人都聪明。",
+          "url": "https://wallstreetcn.com/livenews/3121138",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "特朗普称美伊协议已签署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "特朗普G7峰会迟到后宣告我是老大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AEG7%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%90%8E%E5%AE%A3%E5%91%8A%E6%88%91%E6%98%AF%E8%80%81%E5%A4%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "德国总理默茨：在七国集团峰会上与特朗普的对话富有建设性。",
-          "url": "https://wallstreetcn.com/livenews/3120969",
+          "title": "美国总统特朗普：我对黎巴嫩感到非常难过。",
+          "url": "https://flash.jin10.com/detail/20260618001917273800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：以色列在处理黎巴嫩真主党方面可以做得更好。",
+          "url": "https://flash.jin10.com/detail/20260618001858539800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：过去两天向盟友们提供了讨论伊朗问题的机会。 我们讨论了伊朗协议的细节。",
+          "url": "https://wallstreetcn.com/livenews/3121136",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
-          "url": "https://wallstreetcn.com/livenews/3120964",
+          "title": "美国总统特朗普：伊朗同意不生产或采购核武器。",
+          "url": "https://flash.jin10.com/detail/20260618001841690800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普重申与伊朗的协议将让霍尔木兹海峡重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3121135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：已向以色列发送谅解备忘录副本。",
+          "url": "https://flash.jin10.com/detail/20260618001833167800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗达成的协议将于明天或后天签署。可能在周五（签署）。",
+          "url": "https://flash.jin10.com/detail/20260618001805206800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普将因“取消海上风电租赁协议”而向Ivenergy支付赔偿金。",
+          "url": "https://wallstreetcn.com/livenews/3121133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普赞扬马克龙，称法国做得非常出色。",
-          "url": "https://wallstreetcn.com/livenews/3120963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://wallstreetcn.com/livenews/3120550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "特朗普：油价回落将对民众购买力产生积极影响",
-          "url": "https://wallstreetcn.com/livenews/3120960",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：如果伊朗协议在60天内未达成，将恢复轰炸。不想再次轰炸伊朗，但可能不得不这样做。",
+          "url": "https://flash.jin10.com/detail/20260618001405101800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普：昨晚在七国集团晚宴上很开心。 七国集团之行非常成功。 市场对伊朗协议非常满意。 将在今天的新闻发布会上讨论伊朗协议的细节。 油价正在下跌。 霍尔木兹海峡将在未来一两天内开放。 海峡已部分开放，将全面开放。 没有什么比市场更聪明。",
-          "url": "https://wallstreetcn.com/livenews/3120957",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：会将谅解备忘录公布出来，以供你们阅读。",
+          "url": "https://flash.jin10.com/detail/20260618001326073800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普称赞与埃及的关系。",
-          "url": "https://wallstreetcn.com/livenews/3120956",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我和内塔尼亚胡的合作关系非常棒。",
+          "url": "https://flash.jin10.com/detail/20260618001232344800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "title": "美国总统特朗普：内塔尼亚胡没必要每次都把整栋楼炸毁。",
+          "url": "https://flash.jin10.com/detail/20260618001126460800",
           "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普：伊朗几乎不可能拥有核武器 市场对伊朗协议“非常满意”",
-          "url": "https://flash.jin10.com/detail/20260617191908755800",
+          "title": "美国总统特朗普：内塔尼亚胡和我就黎巴嫩问题存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260618001112899800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特朗普：美国不会向伊朗投资",
-          "url": "https://flash.jin10.com/detail/20260617191833745800",
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡有时会显得有些激动。",
+          "url": "https://flash.jin10.com/detail/20260618001052281800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         },
         {
-          "title": "据福克斯新闻：美国总统特朗普指责奥巴马在达成2015年伊核协议期间“贿赂”伊朗，称其用飞机向德黑兰运送了17亿美元的“美元现金”。",
-          "url": "https://flash.jin10.com/detail/20260617191109851800",
+          "title": "美国总统特朗普：波音757是一架很棒的飞机。",
+          "url": "https://flash.jin10.com/detail/20260618001043670800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普赞扬法国总统马克龙。",
+          "url": "https://flash.jin10.com/detail/20260618000704604800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：股市比任何人都看得明白。",
+          "url": "https://flash.jin10.com/detail/20260618000551419800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时15分 ~ 19时52分]"
-        },
-        {
-          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2401513",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 08时21分]"
-        },
-        {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 14时17分]"
-        },
-        {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 14时17分]"
-        },
-        {
-          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
-          "url": "https://wallstreetcn.com/articles/3774774",
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
-          "url": "https://wallstreetcn.com/articles/3774752",
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 08时21分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
-        },
-        {
-          "title": "投资者权衡美伊协议，拉美股汇走势分化",
-          "url": "https://wallstreetcn.com/livenews/3120500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
-          "url": "https://wallstreetcn.com/livenews/3120490",
+          "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
+          "url": "https://wallstreetcn.com/livenews/3121128",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
-          "url": "https://wallstreetcn.com/livenews/3120489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 08时21分]"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 08时21分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 19时52分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 19时52分]"
-        },
-        {
-          "title": "DeepSeek为什么此时融资",
-          "url": "https://www.toutiao.com/trending/7652171876302605843/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
-          "url": "https://wallstreetcn.com/livenews/3120560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
-          "url": "https://flash.jin10.com/detail/20260617072915805800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3120568",
-          "source": "华尔街见闻-快讯",
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
-          "url": "https://wallstreetcn.com/livenews/3120501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
-          "url": "https://wallstreetcn.com/livenews/3120751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
-          "url": "https://wallstreetcn.com/livenews/3120470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌3.34%，暂报2380.03点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌3.40%，报2730.06点，出现一波V形走势之后转跌、在北京时间22:33刷新期内最低位至2712.52点。 MarketVector数字资产100指数跌2.53%，报13051.20点，22:33也刷新期内最低位至12983.30点。 目前，Solana跌2.87%，狗狗币跌2.86%，XRP跌4.97%。 比特币跌1.42%，暂报65665.81美元；以太坊跌2.52%，暂报1777.06美元。",
-          "url": "https://wallstreetcn.com/livenews/3120444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
