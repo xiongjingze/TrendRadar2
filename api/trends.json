@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-06-18T00:32:15.728289+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-18T03:21:31.775384+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
+          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
+          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
+        },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
@@ -19,13 +52,24 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
+          "title": "“特朗普这么干，又给中国打广告”",
+          "url": "https://news.ifeng.com/c/8u2Dv7mxUaG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
+        },
+        {
           "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
           "url": "https://flash.jin10.com/detail/20260618002537588800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -36,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -47,20 +91,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
-          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "美国总统特朗普：与海湾国家并行努力。",
@@ -69,7 +102,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -80,20 +113,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "美国总统特朗普：与海湾国家讨论非核问题。",
@@ -102,20 +124,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
-          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "美国总统特朗普称赞伊朗人聪明，是优秀的谈判者。",
@@ -124,7 +135,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -135,20 +146,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "“特朗普这么干，又给中国打广告”",
-          "url": "https://news.ifeng.com/c/8u2Dv7mxUaG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
@@ -157,7 +157,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -168,7 +168,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -179,7 +179,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -190,7 +190,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -201,7 +201,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -212,7 +212,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -223,7 +223,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -232,11 +232,12 @@
           "url": "https://www.cls.cn/detail/2402714",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -246,8 +247,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
@@ -257,8 +258,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "特朗普G7峰会迟到后宣告我是老大",
@@ -278,7 +279,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -289,7 +290,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -300,7 +301,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -311,7 +312,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -322,7 +323,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -333,7 +334,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -344,7 +345,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -355,7 +356,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -366,7 +367,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -377,7 +378,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -388,7 +389,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -399,7 +400,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -410,7 +411,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -421,7 +422,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -432,7 +433,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -443,7 +444,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -454,9 +455,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "邵永灵：泽连斯基和欧洲向特朗普低头",
+          "url": "https://www.toutiao.com/trending/7652352370063445558/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -469,11 +481,24 @@
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -483,19 +508,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
@@ -504,7 +518,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
@@ -519,11 +533,29 @@
           "url": "https://www.cls.cn/detail/2402553",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储决议声明发布后，标普跌超0.3%，纳指跌超0.2%。 美元指数5分钟内上涨0.3327，报99.9866。 现货黄金从日高4382.28美元附近跳水至4278美元下方，瞬间转而跌超1%。 美国两年期国债收益率从4.05%附近瞬间飙升，涨穿4.14%刷新日高。 在美联储点阵图调整后，交易员押注美联储将更大幅度收紧政策。",
+          "url": "https://wallstreetcn.com/livenews/3121187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     }
