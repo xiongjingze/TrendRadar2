@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T15:12:03.410859+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-06-19T20:10:26.162530+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -137,6 +137,28 @@
           "time_info": "00时41分"
         },
         {
+          "title": "市场消息：意大利总理梅洛尼发布了一段视频批评特朗普，称希望他在对抗“西方的敌人”时也能表现出同样的决心。此前，特朗普声称梅洛尼在G7峰会上“乞求”与他合影。特朗普和梅洛尼过去关系非常友好。",
+          "url": "https://flash.jin10.com/detail/20260619194948454800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "特朗普称意大利总理在G7峰会上“求着”合影 后者否认称完全捏造",
+          "url": "https://wallstreetcn.com/livenews/3122086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "美国副总统万斯：（谈批评特朗普达成的协议的以色列人士）或许不应攻击盟友。",
           "url": "https://flash.jin10.com/detail/20260619001318728800",
           "source": "金十数据",
@@ -146,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "特朗普被曝挪用特勤局资金建宴会厅",
+          "url": "https://news.ifeng.com/c/8u5UjkO0mtO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "特朗普在G7记者会说了什么",
@@ -193,6 +226,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "特朗普称预计“所有战线都将实现全面停火”",
           "url": "https://wallstreetcn.com/livenews/3121859",
           "source": "华尔街见闻-快讯",
@@ -226,6 +270,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "特朗普对LA7表示：意大利总理梅洛尼在七国集团峰会上求我跟她合影。",
+          "url": "https://wallstreetcn.com/livenews/3122070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "美国总统特朗普：任何不想废除冗长辩论机制的人都是蠢货，而且是极度愚蠢的蠢货！那些“笨蛋民主党人”（Dumocrats）一旦上台，几分钟内就会废除这一规则，随后迅速着手摧毁我们的国家。",
           "url": "https://flash.jin10.com/detail/20260619022549692800",
           "source": "金十数据",
@@ -257,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "说好“纳税人零出资”，特朗普被曝挪用特勤局资金建宴会厅",
+          "url": "https://wallstreetcn.com/livenews/3122057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "美国总统特朗普：石油价格正在下跌。",
@@ -302,6 +368,18 @@
           "time_info": "[00时40分 ~ 06时53分]"
         },
         {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 20时10分]"
+        },
+        {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
@@ -311,17 +389,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时49分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 15时12分]"
         },
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
@@ -382,7 +449,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -393,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时53分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 20时10分]"
         },
         {
           "title": "美伊瑞士会谈生变，日韩股市盘中跳水，纳指期货跌1%，印度IT股大跌，美元指数站上101关口",
@@ -417,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "美元指数DXY日内涨超0.50%，现报100.89。",
@@ -448,8 +526,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 15时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 20时10分]"
         },
         {
           "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
@@ -458,7 +536,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -517,11 +595,12 @@
             12,
             13,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 15时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 20时10分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
