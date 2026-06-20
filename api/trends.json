@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T02:16:25.565164+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-21T04:18:43.856077+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：今年将再次访问中国",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
           "url": "https://wallstreetcn.com/articles/3775098",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -59,19 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
-        },
-        {
-          "title": "学者：伊朗效仿特朗普采取“周末战略”",
-          "url": "https://flash.jin10.com/detail/20260621012943584800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "特朗普高市早苗当众吵起来了",
@@ -79,11 +69,23 @@
           "source": "微博",
           "ranks": [
             21,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
+          "url": "https://flash.jin10.com/detail/20260621031735328800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "特朗普指责意大利总理“拒绝美国”",
@@ -121,13 +123,25 @@
           "time_info": "[00时23分 ~ 02时16分]"
         },
         {
+          "title": "学者：伊朗效仿特朗普采取“周末战略”",
+          "url": "https://flash.jin10.com/detail/20260621012943584800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 04时18分]"
+        },
+        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
         },
@@ -138,7 +152,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
         }
@@ -153,22 +167,24 @@
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -179,8 +195,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         }
       ]
     },
