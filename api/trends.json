@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:59:38.992303+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-06-20T22:25:25.451011+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
@@ -51,11 +51,12 @@
           "ranks": [
             5,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 22时25分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -65,8 +66,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 22时25分]"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 22时25分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -115,18 +128,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 08时13分]"
-        },
-        {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时59分]"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -228,7 +229,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -315,6 +316,17 @@
           "time_info": "[04时41分 ~ 08时13分]"
         },
         {
+          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普表示，古巴非常希望进行对话。",
           "url": "https://flash.jin10.com/detail/20260620021043624800",
           "source": "金十数据",
@@ -369,7 +381,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -431,7 +443,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -608,7 +620,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -633,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
+          "url": "https://www.zhihu.com/question/2051222502768992382",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
@@ -663,8 +686,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 19时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 22时25分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -676,8 +699,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时12分 ~ 19时59分]"
+          "appearance_count": 7,
+          "time_info": "[08时12分 ~ 22时25分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -688,8 +711,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 22时25分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -781,9 +804,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时25分]"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
