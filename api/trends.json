@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:10:48.765804+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-06-23T13:05:36.579281+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -51,6 +51,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "芝加哥周末枪击致多人死伤，特朗普借机再推联邦派兵",
+          "url": "https://flash.jin10.com/detail/20260623122219001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "特朗普签署两项行政令，推动2028年部署用于科学研究的量子计算机",
@@ -210,8 +243,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时05分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时05分]"
+        },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -235,26 +291,15 @@
           "time_info": "[03时33分 ~ 08时10分]"
         },
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "13时05分"
         },
         {
           "title": "美股：纳指跌1.32% SpaceX跌超16%",
@@ -263,7 +308,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -324,7 +369,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -333,11 +378,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时05分]"
         },
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
