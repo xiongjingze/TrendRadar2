@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T16:32:43.467591+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-06-26T19:46:56.312106+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -66,6 +66,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "白宫：特朗普签署了一项与农业相关的行政命令。",
           "url": "https://flash.jin10.com/detail/20260626070338375800",
           "source": "金十数据",
@@ -120,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普据悉悄然续签行政令，巩固对伊拉克石油收入的控制权",
+          "url": "https://flash.jin10.com/detail/20260626190559441800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
@@ -259,7 +281,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -297,6 +319,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
@@ -351,7 +384,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -384,7 +417,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -628,8 +661,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek大规模招聘",
