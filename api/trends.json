@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T17:50:47.665066+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-29T22:08:10.792918+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -53,6 +53,18 @@
           "time_info": "[01时17分 ~ 07时07分]"
         },
         {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 22时08分]"
+        },
+        {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
           "url": "https://www.zhihu.com/question/2054471851032539301",
           "source": "知乎",
@@ -65,6 +77,17 @@
           "time_info": "[01时17分 ~ 07时07分]"
         },
         {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
           "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
           "url": "https://www.cls.cn/detail/2411269",
           "source": "财联社热门",
@@ -74,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
-        },
-        {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
         },
         {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
@@ -154,7 +166,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -173,7 +185,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -188,6 +200,61 @@
           "time_info": "[01时17分 ~ 12时15分]"
         },
         {
+          "title": "韩国重磅芯片计划支撑市场，美股三大指数集体高开，美光跌超2%，油价回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
+          "title": "美股太空股ETF涨幅一度高达4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
+          "url": "https://wallstreetcn.com/livenews/3126202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
+          "url": "https://wallstreetcn.com/livenews/3126200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "美股三大指数高开 西部数据涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
           "url": "https://flash.jin10.com/detail/20260629060352549800",
           "source": "金十数据",
@@ -199,6 +266,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3126188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260629060021389800",
           "source": "金十数据",
@@ -208,12 +286,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260629214150348800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -227,6 +316,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时17分 ~ 07时07分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
+          "title": "多位DeepSeek API用户确认已收到调价邮件：V4正式版高峰期价格将翻倍",
+          "url": "https://wallstreetcn.com/livenews/3126184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -256,6 +367,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta Platforms因担心模型蒸馏风险，而限制工程师对Claude和Codex的使用。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3126193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         }
       ]
     }
