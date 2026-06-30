@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-30T08:08:48.482417+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-30T13:07:52.129640+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
           "url": "https://www.cls.cn/detail/2412084",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 08时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 13时07分]"
         },
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
@@ -58,7 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -102,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -124,9 +125,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
@@ -179,11 +191,23 @@
           "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
           "source": "凤凰网",
           "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时07分]"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "13时07分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -192,7 +216,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -203,7 +227,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -225,7 +249,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -236,7 +260,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -247,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -269,7 +293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -335,6 +359,30 @@
           "time_info": "[01时40分 ~ 04时03分]"
         },
         {
+          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
+          "url": "https://www.cls.cn/detail/2412290",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时07分]"
+        },
+        {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时07分]"
+        },
+        {
           "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
@@ -344,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
-          "url": "https://www.cls.cn/detail/2412290",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
         },
         {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股盘中）",
@@ -368,15 +405,16 @@
           "time_info": "01时41分"
         },
         {
-          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
-          "url": "https://www.cls.cn/detail/2412265",
-          "source": "财联社热门",
+          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
+          "url": "https://wallstreetcn.com/articles/3775756",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时07分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）热门中概股行情一览（美股盘中）",
@@ -422,17 +460,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 08时08分]"
-        },
-        {
-          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
-          "url": "https://wallstreetcn.com/articles/3775756",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至3.2%。",
@@ -487,7 +514,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
@@ -495,7 +522,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -508,6 +535,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 04时03分]"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -526,11 +564,12 @@
           "url": "https://www.cls.cn/detail/2412167",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时07分]"
         }
       ]
     },
@@ -586,9 +625,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时07分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -597,7 +636,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
