@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:07:52.129640+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-30T17:43:30.054511+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -136,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -150,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
@@ -173,6 +184,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 06时11分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
@@ -203,11 +225,12 @@
           "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时43分]"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -345,7 +368,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -439,6 +462,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美股出现罕见信号，“入熊”概率高达67%！",
+          "url": "https://www.cls.cn/detail/2412465",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3126312",
           "source": "华尔街见闻-快讯",
@@ -522,7 +556,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -537,15 +571,27 @@
           "time_info": "[01时40分 ~ 04时03分]"
         },
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
           "url": "https://wallstreetcn.com/articles/3775761",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 17时43分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -626,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 17时43分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
