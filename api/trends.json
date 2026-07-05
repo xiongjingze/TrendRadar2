@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T19:07:27.666400+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-07-05T21:47:28.573103+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -47,11 +47,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 19时07分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 21时47分]"
         },
         {
           "title": "普京与特朗普通话85分钟，细节公布",
@@ -60,11 +61,25 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 21时47分]"
+        },
+        {
+          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
+          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 21时47分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -90,18 +105,6 @@
           "time_info": "[12时59分 ~ 19时07分]"
         },
         {
-          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
-          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时07分]"
-        },
-        {
           "title": "普京与特朗普通话85分钟",
           "url": "https://www.toutiao.com/trending/7657794287316664371/",
           "source": "今日头条",
@@ -111,6 +114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 21时47分]"
         },
         {
           "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
@@ -123,6 +138,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 21时47分]"
         },
         {
           "title": "克里姆林宫：普京在通话中邀请了特朗普访问俄罗斯。",
@@ -149,15 +176,18 @@
           "time_info": "[06时02分 ~ 08时05分]"
         },
         {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
-          "source": "凤凰网",
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            15,
+            17,
+            16,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 21时47分]"
         },
         {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
@@ -227,19 +257,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 19时07分]"
-        },
-        {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
           "url": "https://wallstreetcn.com/livenews/3128926",
           "source": "华尔街见闻-快讯",
@@ -249,17 +266,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 08时05分]"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
         },
         {
           "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
@@ -317,6 +323,19 @@
           "time_info": "13时01分"
         },
         {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 21时47分]"
+        },
+        {
           "title": "普京与特朗普通话85分钟",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D85%E5%88%86%E9%92%9F",
           "source": "百度热搜",
@@ -362,18 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 08时05分]"
-        },
-        {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 19时07分]"
         },
         {
           "title": "特朗普：内塔尼亚胡知道“谁是老大”",
@@ -538,6 +545,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普并没有要求以色列停止对真主党隧道的行动。",
+          "url": "https://flash.jin10.com/detail/20260705192324103800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "特朗普称已抵达华盛顿国家广场，参加向美国致敬的庆祝活动。",
           "url": "https://flash.jin10.com/detail/20260705104554358800",
           "source": "金十数据",
@@ -577,7 +595,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -591,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-05）",
+          "url": "https://flash.jin10.com/detail/20260705184446232800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "特朗普政府拟再废除702项联邦法规 加码放松监管",
@@ -640,7 +669,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -664,11 +693,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 19时07分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 21时47分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -692,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -733,11 +774,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 19时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 21时47分]"
         }
       ]
     }
