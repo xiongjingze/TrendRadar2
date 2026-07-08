@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T16:37:40.096748+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-07-08T19:09:12.010456+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 49,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -56,6 +56,28 @@
           "time_info": "[04时01分 ~ 07时06分]"
         },
         {
+          "title": "特朗普称美伊谅解备忘录已经终结",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
+          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
           "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
           "url": "https://www.cls.cn/detail/2419821",
           "source": "财联社热门",
@@ -67,6 +89,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时57分 ~ 16时37分]"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "波兰总统：我昨天简短地与美国总统特朗普交谈，像往常一样，我们的讨论集中在美国军方在波兰的永久存在上。",
@@ -86,7 +119,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -97,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -108,20 +141,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "黎巴嫩总统：预计此次华盛顿之行及与特朗普的会晤将为黎巴嫩带来积极成果。",
+          "url": "https://flash.jin10.com/detail/20260708184731307800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "特朗普：美伊谅解备忘录“已终结”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 19时09分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -153,7 +209,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -164,7 +220,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -175,7 +231,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -197,9 +253,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
+          "url": "https://www.cls.cn/detail/2420505",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普认为美伊谅解备忘录已终结",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "特朗普承认与意女总理关系“变糟”：她人不错，但犯了个错误",
@@ -219,7 +308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -230,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -252,7 +341,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -318,7 +407,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -329,7 +418,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -340,7 +429,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -351,7 +440,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -362,7 +451,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -384,9 +473,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们举行了一些非常好的会议，特别是与土耳其的会议。",
+          "url": "https://flash.jin10.com/detail/20260708182412135800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "德国防长：（就特朗普批评德国未支持伊朗战争一事）此事在北约峰会谈判中完全未被提及。",
@@ -406,9 +506,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们昨晚与埃尔多安总统共进晚餐。我会给这次晚餐打10分，也可以打12分。",
+          "url": "https://flash.jin10.com/detail/20260708182325318800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
@@ -428,7 +539,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -447,7 +558,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -503,7 +614,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -514,9 +625,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -593,7 +715,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -629,12 +751,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "博通美股盘前转涨，此前一度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3130594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -684,6 +817,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://www.toutiao.com/trending/7658530038409969718/",
           "source": "今日头条",
@@ -702,7 +846,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -770,6 +914,58 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【工信部：防范AI编程工具Claude Code安全后门隐患】近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，AI编程工具Claude Code存在安全后门隐患，危害严重。Claude Code是美国Anthropic公司开发的AI编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影响的Claude Code为2.1.91至2.1.196版本。建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载或升级至已清除相关后门代码的最新安全版本；加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
+          "url": "https://wallstreetcn.com/livenews/3130409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "阿里 全员卸载Claude",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 16时37分]"
+        },
+        {
+          "title": "工信部发布ClaudeCode风险提示",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83ClaudeCode%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
+          "url": "https://wallstreetcn.com/livenews/3130092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -807,47 +1003,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【工信部：防范AI编程工具Claude Code安全后门隐患】近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，AI编程工具Claude Code存在安全后门隐患，危害严重。Claude Code是美国Anthropic公司开发的AI编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影响的Claude Code为2.1.91至2.1.196版本。建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载或升级至已清除相关后门代码的最新安全版本；加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
-          "url": "https://wallstreetcn.com/livenews/3130409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "阿里 全员卸载Claude",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 16时37分]"
-        },
-        {
-          "title": "Anthropic：Claude CoWork投放到移动端和网页。",
-          "url": "https://wallstreetcn.com/livenews/3130092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
         }
       ]
     },
