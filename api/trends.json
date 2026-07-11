@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:26:42.965599+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-07-11T22:58:18.217394+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 22时58分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 22时58分]"
         },
         {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
@@ -65,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "披露特朗普新专机安全缺陷的美国记者收到传票",
-          "url": "https://flash.jin10.com/detail/20260711210033072800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "土耳其外交部长：土方认为特朗普此前关于“停火结束”的表态，并不意味着停火协议真的终止，而是针对伊美之间近期发生事件的回应。",
@@ -98,6 +87,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "披露特朗普新专机安全缺陷的美国记者收到传票",
+          "url": "https://flash.jin10.com/detail/20260711210033072800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时58分]"
         },
         {
           "title": "特朗普改口：美加跨国大桥将于27日通车",
@@ -212,7 +213,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -278,6 +279,21 @@
       "match_count": 19,
       "titles": [
         {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时07分 ~ 22时58分]"
+        },
+        {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
           "url": "https://www.cls.cn/detail/2423160",
           "source": "财联社热门",
@@ -293,21 +309,6 @@
           "time_info": "[00时59分 ~ 21时26分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时07分 ~ 21时26分]"
-        },
-        {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
@@ -318,8 +319,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时02分 ~ 21时26分]"
+          "appearance_count": 9,
+          "time_info": "[08时02分 ~ 22时58分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -347,20 +348,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 21时26分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 08时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 22时58分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -373,8 +362,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 22时58分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时13分 ~ 21时26分]"
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
