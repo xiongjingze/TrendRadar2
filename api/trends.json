@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T11:45:37.471046+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-07-12T14:37:04.393202+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时54分 ~ 11时45分]"
+          "appearance_count": 7,
+          "time_info": "[05时54分 ~ 14时37分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -70,6 +70,17 @@
           "time_info": "[05时54分 ~ 07时59分]"
         },
         {
+          "title": "曝光特朗普临时换专机，美媒吃传票了",
+          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 14时37分]"
+        },
+        {
           "title": "两党住房法案未经特朗普签署自动生效",
           "url": "https://flash.jin10.com/detail/20260712054924358800",
           "source": "金十数据",
@@ -87,18 +98,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "曝光特朗普临时换专机，美媒吃传票了",
-          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
+          "url": "https://flash.jin10.com/detail/20260712120342300800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
@@ -151,11 +162,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 11时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 14时37分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -219,7 +231,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
