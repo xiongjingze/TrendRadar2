@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:54:47.291722+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-07-13T07:59:26.700792+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 07时59分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 07时59分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -55,6 +55,18 @@
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
+          "url": "https://wallstreetcn.com/livenews/3132448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
           "ranks": [
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
-          "url": "https://wallstreetcn.com/livenews/3132448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
         },
         {
           "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
@@ -111,36 +112,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -151,8 +124,48 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 07时59分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+          "url": "https://wallstreetcn.com/livenews/3132438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时59分]"
+        },
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     },
