@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T18:50:54.945152+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-07-14T20:18:23.938823+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 20时18分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -28,11 +28,25 @@
             18,
             16,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 20时18分]"
+        },
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 20时18分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -46,19 +60,6 @@
           "time_info": "[00时37分 ~ 07时06分]"
         },
         {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时50分]"
-        },
-        {
           "title": "特朗普点名中东六国",
           "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
           "source": "凤凰网",
@@ -68,6 +69,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 13时34分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 20时18分]"
         },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -134,18 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 18时50分]"
         },
         {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
@@ -272,6 +273,18 @@
           "time_info": "[02时46分 ~ 04时19分]"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 20时18分]"
+        },
+        {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
           "url": "https://www.cls.cn/detail/2425302",
           "source": "财联社热门",
@@ -312,18 +325,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -504,6 +506,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "不到一个月鲁比奥被特朗普“打脸”",
+          "url": "https://www.toutiao.com/trending/7661932781331660863/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "白宫官员：特朗普将支持格雷厄姆主导的对俄制裁法案",
           "url": "https://flash.jin10.com/detail/20260714041841055800",
           "source": "金十数据",
@@ -554,7 +567,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
@@ -562,7 +575,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -570,11 +583,25 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 20时18分]"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 20时18分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -612,19 +639,6 @@
           "time_info": "[10时44分 ~ 16时12分]"
         },
         {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时50分]"
-        },
-        {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -634,6 +648,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 07时06分]"
+        },
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时18分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -681,27 +708,37 @@
           "time_info": "16时12分"
         },
         {
+          "title": "花旗集团第二季度营收为247.7亿美元，每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "富国银行第二季度营收为226.2亿美元，预期为218亿美元。 第二季度每股收益为2.00美元。 第二季度净利息收入为123.2亿美元，预期为123.2亿美元。 富国银行美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3133590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 18时50分]"
         },
         {
           "title": "周一（7月13日），彭博电动汽车价格回报指数跌2.12%，报3363.74点，亚太盘初曾短暂地微幅冲高回落，北京时间10:00前后跌幅显著，11:00以来持稳于3380点附近，美股开盘后略微地持续扩大跌幅。",
@@ -713,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "IBM美股盘前跌幅扩大至逾20%，公司第二财季初步营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3133637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
@@ -749,6 +797,17 @@
           "time_info": "[00时37分 ~ 06时01分]"
         },
         {
+          "title": "美银“牛熊指标”发出预警！美股或进入调整期？",
+          "url": "https://flash.jin10.com/detail/20260714195907546800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2424933",
           "source": "财联社热门",
@@ -758,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "高盛第二季度净营收203.4亿美元。 第二季度每股收益20.98美元。 第二季度股票销售和交易业务营收74.2亿美元，预估50.2亿美元。 第二季度FICC业务销售和交易营收45.9亿美元，预估37.6亿美元。 第二季度净利息收入39.5亿美元，预估35.3亿美元。 第二季度投资银行业务营收34.0亿美元，预估28.8亿美元。 第二季度贷款2,610亿美元，预估2,554.4亿美元。 第二季度坏账拨备1.02亿美元，预估1.712亿美元。 第二季度管理资产4.04万亿美元，预估3.79万亿美元。 高盛美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3133630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美股盘前，存储概念股走高，闪迪(SNDK.O)涨4.3%、美光科技(MU.O)涨3%、西部数据(WDC.O)和希捷科技涨超2.6%。",
@@ -780,6 +850,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "IBM美股盘前跌超14%，公司第二财季初步营收不及预期",
+          "url": "https://wallstreetcn.com/livenews/3133624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "七大情景看懂今晚CPI的逻辑推演：美元黄金美股将如何反应？",
+          "url": "https://flash.jin10.com/detail/20260714194837039800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "SK海力士ADR(SKHY.O)美股盘前涨超6%。",
@@ -832,6 +924,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时18分]"
+        },
+        {
           "title": "软银推出基于OpenAI技术的网络安全服务。",
           "url": "https://wallstreetcn.com/livenews/3133244",
           "source": "华尔街见闻-快讯",
@@ -841,18 +946,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 18时50分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -877,11 +970,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 20时18分]"
         },
         {
           "title": "DeepSeek首轮融资完成仅一个月后考虑启动新一轮融资",
@@ -890,7 +984,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
