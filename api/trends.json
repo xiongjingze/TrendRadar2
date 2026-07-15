@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T10:43:26.862428+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-07-15T13:36:03.873912+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -42,8 +42,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时16分 ~ 10时43分]"
+          "appearance_count": 7,
+          "time_info": "[04时16分 ~ 13时36分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时01分 ~ 13时36分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -86,17 +99,40 @@
           "time_info": "[04时16分 ~ 10时43分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
+            1,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时01分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 13时36分]"
+        },
+        {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 13时36分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时16分 ~ 13时36分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -111,17 +147,6 @@
           "time_info": "[00时19分 ~ 02时07分]"
         },
         {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
           "url": "https://flash.jin10.com/detail/20260715064314727800",
           "source": "金十数据",
@@ -133,27 +158,27 @@
           "time_info": "07时08分"
         },
         {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时16分 ~ 10时43分]"
+          "time_info": "[07时07分 ~ 13时36分]"
         },
         {
           "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
@@ -165,6 +190,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2426568",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 13时36分]"
         },
         {
           "title": "特朗普称与伊朗方面举行了会谈 威胁打击电厂",
@@ -189,17 +226,6 @@
           "time_info": "07时08分"
         },
         {
-          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2426568",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
           "url": "https://flash.jin10.com/detail/20260715062230575800",
           "source": "金十数据",
@@ -211,15 +237,16 @@
           "time_info": "07时08分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时07分 ~ 10时43分]"
+          "time_info": "[10时43分 ~ 13时36分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -289,6 +316,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
+          "url": "https://wallstreetcn.com/livenews/3134087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "美国总统特朗普：美国于周二与伊朗进行了对话。",
           "url": "https://flash.jin10.com/detail/20260715061629798800",
           "source": "金十数据",
@@ -309,17 +347,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -438,6 +465,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 13时36分]"
+        },
+        {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -473,27 +512,15 @@
           "time_info": "[06时01分 ~ 07时08分]"
         },
         {
-          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2426541",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时07分 ~ 10时43分]"
-        },
-        {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 13时36分]"
         },
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -502,9 +529,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 13时36分]"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -547,7 +574,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -591,7 +618,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -708,7 +735,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -733,6 +760,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时08分]"
+        },
+        {
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        },
+        {
+          "title": "The Information：DeepSeek正寻求新一轮融资，目标金额为74亿美元，公司估值达740亿美元。",
+          "url": "https://flash.jin10.com/detail/20260715131749291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "The Information：DeepSeek年化收入达到4亿至5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260715131552111800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -776,30 +864,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "keyword_group": "Qwen",
+      "match_count": 1,
       "titles": [
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
+          "title": "阿里发布实时语音交互对话模型Qwen-Audio-3.0-Realtime",
+          "url": "https://wallstreetcn.com/livenews/3134059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            30
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 07时08分]"
-        },
-        {
-          "title": "DeepSeek估值或达4814亿",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
