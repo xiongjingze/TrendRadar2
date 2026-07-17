@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:03:04.495328+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-17T20:12:49.136852+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 20时12分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时12分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -150,7 +150,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -257,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时08分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时08分 ~ 20时12分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -669,11 +669,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 20时12分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
