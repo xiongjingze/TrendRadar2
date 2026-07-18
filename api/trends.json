@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:07:47.630999+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-18T21:23:10.146591+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 21时23分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时07分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时23分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -89,6 +89,20 @@
           "time_info": "04时08分"
         },
         {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时23分]"
+        },
+        {
           "title": "美国总统特朗普：6月通胀数据传来“重大好消息”，美国正迎来“黄金时代”。",
           "url": "https://flash.jin10.com/detail/20260718033729701800",
           "source": "金十数据",
@@ -117,7 +131,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -226,19 +240,6 @@
           "time_info": "[05时57分 ~ 07时56分]"
         },
         {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时07分]"
-        },
-        {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
           "url": "https://www.douyin.com/hot/2575839",
           "source": "抖音",
@@ -249,6 +250,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时57分 ~ 17时39分]"
+        },
+        {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
+        },
+        {
+          "title": "委方回应特朗普“美国第51州”提议",
+          "url": "https://www.toutiao.com/trending/7662771387178172435/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普：要求加拿大对其森林维护不当的事实承担责任。",
@@ -306,6 +340,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
           "url": "https://flash.jin10.com/detail/20260718004214447800",
           "source": "金十数据",
@@ -320,7 +365,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -332,8 +377,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 19时07分]"
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 21时23分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -368,6 +413,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 13时31分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
         },
         {
           "title": "美股芯片股，距熊市仅一步之遥",
@@ -548,7 +604,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
