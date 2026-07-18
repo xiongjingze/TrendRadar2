@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T17:39:28.675541+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-07-18T19:07:47.630999+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -32,17 +32,6 @@
           "time_info": "[00时18分 ~ 06时54分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 04时08分]"
-        },
-        {
           "title": "白宫声称特朗普并非针对中国",
           "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
           "source": "凤凰网",
@@ -51,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 19时07分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -63,8 +52,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时07分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时39分]"
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
+          "url": "https://flash.jin10.com/detail/20260718182916461800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -224,8 +235,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 19时07分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -312,17 +323,6 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时54分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
@@ -332,8 +332,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 19时07分]"
+        },
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时54分 ~ 17时39分]"
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -377,7 +388,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -445,6 +456,18 @@
           "time_info": "[05时57分 ~ 07时56分]"
         },
         {
+          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 19时07分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
           "url": "https://wallstreetcn.com/livenews/3135852",
           "source": "华尔街见闻-快讯",
@@ -454,17 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
-        },
-        {
-          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
-          "url": "https://wallstreetcn.com/livenews/3135984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -514,7 +526,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -526,8 +538,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 17时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 19时07分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
