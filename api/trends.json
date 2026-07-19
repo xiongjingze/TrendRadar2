@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T07:57:43.999785+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-07-19T11:26:52.132219+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -51,8 +51,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时54分 ~ 07时57分]"
+          "appearance_count": 6,
+          "time_info": "[04时54分 ~ 11时26分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 11时26分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -71,17 +84,18 @@
           "time_info": "[00时03分 ~ 07时57分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            11,
-            10
+            20,
+            19,
+            18,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 11时26分]"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -133,17 +147,26 @@
           "time_info": "[04时54分 ~ 07时57分]"
         },
         {
-          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
-          "source": "澎湃新闻",
+          "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
+          "url": "https://flash.jin10.com/detail/20260719112308290800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19,
-            18
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "国际足联主席盛赞特朗普",
+          "url": "https://www.toutiao.com/trending/7662740721690640447/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
@@ -204,6 +227,17 @@
           "time_info": "[01时58分 ~ 03时15分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "特朗普点评英格兰队战术",
           "url": "https://www.douyin.com/hot/2575689",
           "source": "抖音",
@@ -227,13 +261,24 @@
           "time_info": "01时58分"
         },
         {
+          "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
+          "url": "https://flash.jin10.com/detail/20260719101247637800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "特朗普威胁对加拿大收“空气税”",
           "url": "https://www.douyin.com/hot/2575543",
           "source": "抖音",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
@@ -248,11 +293,12 @@
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 11时26分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
