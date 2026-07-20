@@ -1,363 +1,94 @@
 {
-  "generated_at": "2026-07-20T22:12:44.969037+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-07-21T00:26:46.905579+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 08时02分]"
-        },
-        {
-          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
-          "url": "https://news.ifeng.com/c/8utCDuus6XE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 08时02分]"
-        },
-        {
-          "title": "大罗把大力神杯递给特朗普",
-          "url": "https://www.toutiao.com/trending/7663818959565602859/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时54分 ~ 06时57分]"
-        },
-        {
-          "title": "FIFA将大力神杯送入特朗普包厢",
-          "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时54分 ~ 06时57分]"
-        },
-        {
-          "title": "特朗普现身世界杯决赛看台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时54分 ~ 06时57分]"
-        },
-        {
-          "title": "特朗普摸大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时54分 ~ 08时02分]"
-        },
-        {
-          "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
-          "url": "https://wallstreetcn.com/livenews/3136305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 16时09分]"
-        },
-        {
-          "title": "以媒：特朗普倾向进一步升级对伊行动",
-          "url": "https://flash.jin10.com/detail/20260720014155367800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时55分]"
-        },
-        {
-          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
-          "url": "https://wallstreetcn.com/livenews/3136355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 08时02分]"
-        },
         {
           "title": "如何看特朗普不愿离开颁奖台",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3137012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "特朗普向共和党施压：本周必须投票支持预算决议",
+          "url": "https://flash.jin10.com/detail/20260720234326387800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 22时12分]"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 06时57分]"
-        },
-        {
-          "title": "特朗普摸大力神杯",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "00时26分"
         },
         {
-          "title": "美媒：美国增派战机赴中东 特朗普权衡扩大对伊军事行动",
-          "url": "https://flash.jin10.com/detail/20260720220524435800",
+          "title": "美国总统特朗普：敦促众议院共和党本周投票支持预算法案。",
+          "url": "https://flash.jin10.com/detail/20260720234012581800",
           "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "00时26分"
         },
         {
-          "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
-          "url": "https://flash.jin10.com/detail/20260720024355556800",
-          "source": "金十数据",
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
           "ranks": [
-            3,
-            13,
-            24
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时57分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
-          "url": "https://flash.jin10.com/detail/20260720022026593800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时57分]"
-        },
-        {
-          "title": "以媒：特朗普警告海湾国家 本周若不停火局势将显著升级",
-          "url": "https://flash.jin10.com/detail/20260720012242848800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
-          "url": "https://wallstreetcn.com/livenews/3136290",
+          "title": "美国总统特朗普的AI安全部门主管离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137001",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时19分]"
-        },
-        {
-          "title": "大V谈特朗普颁奖后赖着不走",
-          "url": "https://www.toutiao.com/trending/7664551205074374187/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 22时12分]"
-        },
-        {
-          "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
-          "url": "https://flash.jin10.com/detail/20260720065512528800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "特朗普为西班牙颁奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：在世界杯上与美国总统特朗普、加拿大总理卡尼简短交谈。",
-          "url": "https://flash.jin10.com/detail/20260720215422935800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
-          "url": "https://flash.jin10.com/detail/20260719220841809800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
-          "url": "https://flash.jin10.com/detail/20260719220832968800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
-          "url": "https://flash.jin10.com/detail/20260719220803871800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
-          "url": "https://flash.jin10.com/detail/20260719220736369800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国总统特朗普将大力神杯颁给西班牙队。",
-          "url": "https://flash.jin10.com/detail/20260720064454811800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
-          "url": "https://flash.jin10.com/detail/20260719220638278800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 4,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -366,332 +97,70 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美股盘前，中概股普涨，百度涨约4%，携程网涨约5%，阿里巴巴涨约4%。",
-          "url": "https://wallstreetcn.com/livenews/3136713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%。 布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶。 WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。 现货黄金5分钟内上涨12.21美元/盎司，报4034.4美元/盎司。 路透援引伊朗高级消息人士的话称，调停方已提议双方停止打击行动10天，以寻求恢复伊朗与美国临时协议的途径。",
-          "url": "https://wallstreetcn.com/livenews/3136884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨2.6%，科技行业ETF涨1.5%，区域银行业ETF、银行业ETF微跌。",
-          "url": "https://wallstreetcn.com/livenews/3136940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.57%，道指期货涨0.43%。",
-          "url": "https://flash.jin10.com/detail/20260720193452727800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.85%，费城半导体指数涨2.5%，存储芯片股普涨，AMD涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3136936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "00时26分"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "高盛策略师建议目光投向AI以外投资主题 关注消费体验类股等美股板块",
-          "url": "https://wallstreetcn.com/livenews/3136705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时09分"
+          "time_info": "00时26分"
         },
         {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
+          "title": "美股存储芯片反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 16时09分]"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "00时26分"
         },
         {
-          "title": "AMD美股盘前涨近6%，报道：微软将部署AMD Helios机架级解决方案",
-          "url": "https://wallstreetcn.com/livenews/3136929",
+          "title": "汇丰策略师称，目前很难判断亚洲市场的降杠杆和散户抛售何时结束，尽管芯片股的技术面信号正进一步接近超卖区间，但尚未跌至极低水平。 在配置上，更看好欧洲股票、标普500等权重指数成份股以及美股科技七巨头，而非美国芯片股。",
+          "url": "https://wallstreetcn.com/livenews/3137005",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美股高位拉锯战背后空头押注飙至历史新高，AI投资将换玩法？",
-          "url": "https://flash.jin10.com/detail/20260720215916403800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3136924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3136836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "Tempus AI美股盘前跌近4%，报道称医疗科技公司Tempus AI将以每股16.25美元的价格收购Personalis。",
-          "url": "https://wallstreetcn.com/livenews/3136909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 08时02分]"
-        },
-        {
-          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
-          "url": "https://www.zhihu.com/question/2062188301013071138",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 05时57分]"
-        },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 22时12分]"
-        },
-        {
-          "title": "DeepSeekV4能超越KimiK3吗",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E8%83%BD%E8%B6%85%E8%B6%8AKimiK3%E5%90%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "用Deepseek生成战地游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 06时57分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 16时09分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "报道：谷歌研发新芯片以提升AI模型效率",
-          "url": "https://wallstreetcn.com/livenews/3136931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
-          "url": "https://www.zhihu.com/question/2062166923002090163",
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
           "ranks": [
-            11,
-            8,
-            5,
-            9,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 08时02分]"
-        },
-        {
-          "title": "OpenAI称Kimi开源是减速主义",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
-          "url": "https://www.zhihu.com/question/2062219946885657098",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "time_info": "00时26分"
         }
       ]
     }
