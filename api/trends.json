@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T19:48:44.498217+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-07-20T22:12:44.969037+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -133,6 +133,30 @@
           "time_info": "[05时57分 ~ 08时02分]"
         },
         {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 22时12分]"
+        },
+        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -155,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美媒：美国增派战机赴中东 特朗普权衡扩大对伊军事行动",
+          "url": "https://flash.jin10.com/detail/20260720220524435800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
@@ -196,18 +231,6 @@
           "time_info": "[02时02分 ~ 04时55分]"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 19时48分]"
-        },
-        {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
           "url": "https://wallstreetcn.com/livenews/3136290",
           "source": "华尔街见闻-快讯",
@@ -224,11 +247,12 @@
           "url": "https://www.toutiao.com/trending/7664551205074374187/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 22时12分]"
         },
         {
           "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
@@ -251,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：在世界杯上与美国总统特朗普、加拿大总理卡尼简短交谈。",
+          "url": "https://flash.jin10.com/detail/20260720215422935800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
@@ -322,8 +357,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
         {
           "title": "美股盘前，中概股普涨，百度涨约4%，携程网涨约5%，阿里巴巴涨约4%。",
           "url": "https://wallstreetcn.com/livenews/3136713",
@@ -342,9 +388,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨2.6%，科技行业ETF涨1.5%，区域银行业ETF、银行业ETF微跌。",
+          "url": "https://wallstreetcn.com/livenews/3136940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
@@ -353,7 +410,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -364,9 +421,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.85%，费城半导体指数涨2.5%，存储芯片股普涨，AMD涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3136936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "高盛策略师建议目光投向AI以外投资主题 关注消费体验类股等美股板块",
@@ -403,15 +482,59 @@
           "time_info": "06时57分"
         },
         {
+          "title": "AMD美股盘前涨近6%，报道：微软将部署AMD Helios机架级解决方案",
+          "url": "https://wallstreetcn.com/livenews/3136929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股高位拉锯战背后空头押注飙至历史新高，AI投资将换玩法？",
+          "url": "https://flash.jin10.com/detail/20260720215916403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3136924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。",
           "url": "https://wallstreetcn.com/livenews/3136836",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "Tempus AI美股盘前跌近4%，报道称医疗科技公司Tempus AI将以每股16.25美元的价格收购Personalis。",
+          "url": "https://wallstreetcn.com/livenews/3136909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -451,9 +574,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 22时12分]"
         },
         {
           "title": "DeepSeekV4能超越KimiK3吗",
@@ -481,7 +604,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -505,6 +628,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 16时09分]"
+        },
+        {
+          "title": "报道：谷歌研发新芯片以提升AI模型效率",
+          "url": "https://wallstreetcn.com/livenews/3136931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
