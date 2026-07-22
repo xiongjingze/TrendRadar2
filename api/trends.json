@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T08:03:26.025219+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-07-22T12:20:19.363044+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 08时03分]"
+        },
+        {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时20分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -72,9 +85,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
@@ -88,16 +112,26 @@
           "time_info": "07时01分"
         },
         {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
+          "title": "特朗普或打击伊朗核设施",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
@@ -109,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "特朗普称很快重击伊朗镐山核设施",
@@ -123,6 +168,18 @@
           "time_info": "[01时24分 ~ 03时29分]"
         },
         {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时20分]"
+        },
+        {
           "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3137781",
           "source": "华尔街见闻-快讯",
@@ -133,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时03分]"
-        },
-        {
-          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2433256",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -163,7 +209,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -185,7 +231,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -234,6 +280,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "据阿拉比亚电视台：以色列官员表示，是否扩大对伊朗的战争完全取决于特朗普自己。尚未确定内塔尼亚胡访问华盛顿的日期。",
+          "url": "https://flash.jin10.com/detail/20260722114601678800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
           "url": "https://wallstreetcn.com/livenews/3137768",
           "source": "华尔街见闻-快讯",
@@ -262,7 +319,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -273,7 +330,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -287,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：国土安全部刚刚公布的新泽西州登记投票的非公民人数为35,152人。这些只是被查出来的。实际数字将是这个数字的许多倍。他们都是“蠢民主党人”！共和党人，清醒一点，整顿我们那充满猫腻的选举！通过《拯救美国法案》！",
+          "url": "https://flash.jin10.com/detail/20260722113445151800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
@@ -325,7 +393,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -363,6 +431,42 @@
           "time_info": "[03时28分 ~ 05时14分]"
         },
         {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时20分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时20分]"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时20分]"
+        },
+        {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -372,29 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
-          "url": "https://www.cls.cn/detail/2433220",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时03分]"
         },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -408,15 +489,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时20分"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -428,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
@@ -499,18 +591,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 12时20分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
@@ -611,11 +715,12 @@
           "url": "https://wallstreetcn.com/articles/3777555",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时20分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
