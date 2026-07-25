@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T04:57:24.574707+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-26T06:01:35.993530+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时01分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时01分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -38,8 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时01分]"
+        },
+        {
+          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260726031504146800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -54,26 +66,16 @@
           "time_info": "[03时12分 ~ 04时57分]"
         },
         {
-          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260726031504146800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
           "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
           "url": "https://flash.jin10.com/detail/20260726031254710800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -122,8 +124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时01分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -133,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时01分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -144,8 +146,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时01分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -163,18 +165,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         }
       ]
     }
