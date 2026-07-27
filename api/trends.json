@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:34:14.816825+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-07-27T20:27:42.536764+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -42,6 +42,19 @@
           "time_info": "[01时05分 ~ 08时10分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 20时27分]"
+        },
+        {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
           "url": "https://www.cls.cn/detail/2437057",
           "source": "财联社热门",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 08时10分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 16时34分]"
         },
         {
           "title": "特朗普是不是美国最好总统？泽连斯基回应",
@@ -99,6 +100,17 @@
           "time_info": "[01时06分 ~ 05时04分]"
         },
         {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
@@ -111,6 +123,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 08时10分]"
+        },
+        {
+          "title": "克里姆林宫发言人佩斯科夫：普京即将举行的会谈不会涉及特朗普，但仍具有重要意义。",
+          "url": "https://flash.jin10.com/detail/20260727194347581800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
@@ -228,6 +251,28 @@
           "time_info": "[01时06分 ~ 05时04分]"
         },
         {
+          "title": "据以色列第12频道援引消息人士称，内塔尼亚胡将请求特朗普不要向土耳其出售武器系统和F-35战斗机。",
+          "url": "https://flash.jin10.com/detail/20260727194215895800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "据以色列第12频道援引消息来人士称，内塔尼亚胡将向特朗普提供有关伊朗迈向拥有核武器进程的最新情报信息。",
+          "url": "https://flash.jin10.com/detail/20260727194108715800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
           "url": "https://flash.jin10.com/detail/20260727010619989800",
           "source": "金十数据",
@@ -259,12 +304,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：在与特朗普的会议中，将讨论议程上的所有问题，其中伊朗是重中之重。我们的目标明确——确保以色列的安全，增强以色列实力，扩大周围的和平圈。",
+          "url": "https://flash.jin10.com/detail/20260727192920582800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
@@ -273,18 +329,6 @@
           "ranks": [
             4,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 16时34分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -301,6 +345,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时39分 ~ 16时34分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 20时27分]"
         },
         {
           "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
@@ -367,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
+          "url": "https://flash.jin10.com/detail/20260727192930998800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -416,7 +484,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -438,7 +506,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -449,7 +517,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         }
@@ -469,6 +537,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
