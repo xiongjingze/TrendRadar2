@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T18:28:25.808104+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-07-30T20:47:51.239096+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[01时19分 ~ 08时04分]"
         },
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 20时47分]"
+        },
+        {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
@@ -82,18 +94,6 @@
           "time_info": "[04时59分 ~ 08时04分]"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 18时28分]"
-        },
-        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
           "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
           "source": "凤凰网",
@@ -105,6 +105,18 @@
           "time_info": "[01时19分 ~ 08时04分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 20时47分]"
+        },
+        {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
@@ -114,18 +126,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时21分 ~ 12时08分]"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 18时28分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
@@ -232,11 +232,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 20时47分]"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -267,7 +268,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -333,7 +334,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -407,7 +408,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -478,6 +479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳指期货日内涨约1.5%，明星科技股盘前普涨，SK海力士盘前涨近4%，美光科技盘前涨超4%，SpaceX盘前涨超3%，英伟达盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3142448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
@@ -582,6 +594,17 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
+          "title": "美股存储板块盘前走强，美光科技、SK海力士涨超3%，闪迪涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3142442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "美股三大指数集体收跌",
           "url": "https://www.douyin.com/hot/2590070",
           "source": "抖音",
@@ -602,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-30）",
+          "url": "https://flash.jin10.com/detail/20260730201539836800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
@@ -651,7 +685,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -660,11 +694,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 20时47分]"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -676,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
