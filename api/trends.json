@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T11:19:03.793556+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-07-31T14:47:38.514004+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -52,6 +52,17 @@
           "time_info": "[01时38分 ~ 07时12分]"
         },
         {
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "特朗普宣布哈马斯同意全面解除武装，以色列将撤军",
           "url": "https://flash.jin10.com/detail/20260731063227689800",
           "source": "金十数据",
@@ -89,11 +100,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时47分]"
         },
         {
           "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
@@ -105,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "特朗普：与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://www.cls.cn/detail/2442029",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
@@ -124,7 +147,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -193,6 +216,18 @@
           "time_info": "[07时12分 ~ 11时19分]"
         },
         {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时47分]"
+        },
+        {
           "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
           "url": "https://wallstreetcn.com/livenews/3142689",
           "source": "华尔街见闻-快讯",
@@ -202,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
         },
         {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
@@ -314,11 +338,12 @@
           "url": "https://www.cls.cn/detail/2442077",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时47分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -423,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 14时47分]"
         },
         {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
@@ -459,6 +484,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
+          "url": "https://wallstreetcn.com/livenews/3142950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "DeepSeek：DeepSeek-V4-Flash 正式版 API 上线公测 DeepSeek-V4-Pro 正式版将会尽快发布",
+          "url": "https://flash.jin10.com/detail/20260731140200419800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
