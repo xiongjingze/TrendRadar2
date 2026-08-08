@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-08T13:51:46.125171+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-08-08T14:59:16.606416+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 05时42分]"
-        },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
           "url": "https://news.ifeng.com/c/8vP8prEgTBk",
@@ -27,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时59分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -42,8 +31,44 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时44分 ~ 13时51分]"
+          "appearance_count": 10,
+          "time_info": "[04时44分 ~ 14时59分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 14时59分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 14时59分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -66,18 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时51分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -145,18 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 13时51分]"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -241,6 +242,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 01时02分]"
+        },
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "特朗普让检察官重新审视倒影池案",
+          "url": "https://www.toutiao.com/trending/7670687634763120678/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
         },
         {
           "title": "黎巴嫩总统：我与特朗普会面期间，在媒体之外进行的交流是积极的。特朗普对黎巴嫩的处境表示理解，并打开了许多大门。与特朗普会晤的成果已体现为解除对美国航空公司运营飞往黎巴嫩航线的限制。",
@@ -358,8 +381,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 14时59分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时39分 ~ 14时59分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -373,6 +409,19 @@
           "time_info": "[00时00分 ~ 06时39分]"
         },
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时59分]"
+        },
+        {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
           "url": "https://wallstreetcn.com/articles/3778924",
           "source": "华尔街见闻",
@@ -382,18 +431,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时00分 ~ 05时42分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时39分 ~ 13时51分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -420,18 +457,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时00分 ~ 03时02分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时51分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -552,11 +577,12 @@
             1,
             11,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 14时59分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -661,8 +687,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时59分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -676,8 +702,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时44分 ~ 13时51分]"
+          "appearance_count": 10,
+          "time_info": "[04时44分 ~ 14时59分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -709,8 +735,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 14时59分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
