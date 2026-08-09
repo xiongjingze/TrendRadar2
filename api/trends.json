@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T16:55:45.436582+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-08-09T17:43:15.342953+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时43分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -69,8 +69,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 16时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 17时43分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -88,8 +88,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 16时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 17时43分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 17时43分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时38分 ~ 03时33分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 16时55分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -154,6 +154,17 @@
           "time_info": "[03时32分 ~ 06时33分]"
         },
         {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260809002354192800",
           "source": "金十数据",
@@ -183,6 +194,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 17时43分]"
+        },
+        {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
@@ -191,8 +215,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时43分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -205,8 +229,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时43分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -221,19 +245,6 @@
           "time_info": "[00时38分 ~ 07时33分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 16时55分]"
-        },
-        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -243,8 +254,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 16时55分]"
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 17时43分]"
         }
       ]
     },
@@ -298,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 17时43分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
