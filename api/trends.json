@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:59:01.400457+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-08-09T16:55:45.436582+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 15时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时38分 ~ 16时55分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -65,11 +65,12 @@
             15,
             18,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 16时55分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -83,11 +84,12 @@
             20,
             23,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 16时55分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -109,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 15时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时55分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -127,6 +129,19 @@
           "time_info": "[11时47分 ~ 15时59分]"
         },
         {
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时55分]"
+        },
+        {
           "title": "舒默怒斥特朗普：你在哪个星球",
           "url": "https://www.toutiao.com/trending/7671480510048452651/",
           "source": "今日头条",
@@ -137,18 +152,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 06时33分]"
-        },
-        {
-          "title": "泰勒·斯威夫特下架特朗普团队音频",
-          "url": "https://flash.jin10.com/detail/20260809135228907800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时59分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -188,8 +191,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 15时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时38分 ~ 16时55分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -198,11 +201,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 15时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时38分 ~ 16时55分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -226,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 15时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时55分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -235,11 +239,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 15时59分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时55分]"
         }
       ]
     },
@@ -293,8 +298,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 15时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时38分 ~ 16时55分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
