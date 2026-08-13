@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T07:45:16.022593+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-08-13T10:12:27.696728+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -41,6 +41,20 @@
           "time_info": "[00时06分 ~ 07时45分]"
         },
         {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 10时12分]"
+        },
+        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
@@ -55,19 +69,6 @@
           "time_info": "[00时06分 ~ 07时45分]"
         },
         {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 07时45分]"
-        },
-        {
           "title": "特朗普躲避暗杀更多细节曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时14分 ~ 07时45分]"
+        },
+        {
+          "title": "每月最高10万美元卖“时间差”，特朗普被诉违宪！",
+          "url": "https://flash.jin10.com/detail/20260813100116657800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -206,7 +218,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -302,18 +314,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 07时45分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 10时12分]"
         },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -334,8 +347,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时12分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -376,6 +389,17 @@
           "time_info": "[05时50分 ~ 07时45分]"
         },
         {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版API上线",
           "url": "https://www.toutiao.com/trending/7673284418319945259/",
           "source": "今日头条",
@@ -385,6 +409,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
@@ -401,6 +436,17 @@
           "time_info": "[03时14分 ~ 06时45分]"
         },
         {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
           "url": "https://wallstreetcn.com/livenews/3148708",
           "source": "华尔街见闻-快讯",
@@ -411,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 03时14分]"
+        },
+        {
+          "title": "DeepSeek最新版本藏了一个大招",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -431,28 +488,17 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 05时50分]"
-        },
-        {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
           "url": "https://wallstreetcn.com/articles/3779257",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 10时12分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -463,8 +509,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 10时12分]"
+        },
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 05时50分]"
         },
         {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
@@ -565,8 +623,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 10时12分]"
         },
         {
           "title": "谷歌：推出谷歌Pixel Tag。",
