@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T19:23:47.473760+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-08-16T20:45:16.382151+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 20时45分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -27,11 +27,24 @@
           "ranks": [
             10,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 20时45分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 19时23分]"
         },
         {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
@@ -79,39 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
-          "url": "https://flash.jin10.com/detail/20260816182514064800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
-          "url": "https://flash.jin10.com/detail/20260816180839464800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -140,6 +108,30 @@
           "time_info": "[11时03分 ~ 13时32分]"
         },
         {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
           "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
           "source": "澎湃新闻",
@@ -150,6 +142,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时02分 ~ 09时28分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时45分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -202,11 +206,12 @@
           "url": "https://flash.jin10.com/detail/20260816172332854800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时45分]"
         }
       ]
     },
@@ -223,8 +228,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 20时45分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -237,8 +242,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 20时45分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 20时45分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -253,18 +271,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时28分 ~ 13时32分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 19时23分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -351,6 +357,30 @@
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时45分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时45分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
           "url": "https://wallstreetcn.com/livenews/3150029",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -372,28 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         }
       ]
     },
@@ -410,8 +418,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 20时45分]"
         },
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
