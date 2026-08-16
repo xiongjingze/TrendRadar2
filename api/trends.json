@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T20:45:16.382151+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-08-16T21:35:14.623892+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             10,
             6,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 21时35分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -43,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 21时35分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -113,11 +114,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时35分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -125,11 +127,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时35分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时35分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -142,18 +158,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时02分 ~ 09时28分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
-          "url": "https://flash.jin10.com/detail/20260816180839464800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时45分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -217,7 +221,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -228,8 +232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[07时02分 ~ 21时35分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -242,8 +246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 21时35分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -255,8 +259,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 21时35分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -271,6 +275,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时28分 ~ 13时32分]"
+        },
+        {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -364,8 +379,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 21时35分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -376,8 +391,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 21时35分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
