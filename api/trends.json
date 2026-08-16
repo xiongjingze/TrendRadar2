@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T11:03:36.985909+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-08-16T12:39:51.831564+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时39分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -25,22 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时03分]"
-        },
-        {
-          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
-          "url": "https://flash.jin10.com/detail/20260816102212922800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时39分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -48,11 +39,35 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时39分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
+          "url": "https://flash.jin10.com/detail/20260816102212922800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时03分]"
+          "time_info": "[11时03分 ~ 12时39分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -127,8 +142,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时39分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -136,11 +151,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时39分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -148,11 +164,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时39分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -180,7 +197,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -188,11 +205,23 @@
           "source": "知乎",
           "ranks": [
             1,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时39分]"
+        },
+        {
+          "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+          "url": "https://wallstreetcn.com/livenews/3150028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -232,8 +261,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时39分]"
         },
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
@@ -252,11 +281,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     }
