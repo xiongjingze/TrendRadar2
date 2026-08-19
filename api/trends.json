@@ -1,216 +1,127 @@
 {
-  "generated_at": "2026-08-18T18:33:10.587828+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-08-19T19:28:40.664740+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
+      "keyword_group": "美股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
+          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
+          "url": "https://www.cls.cn/detail/2457916",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
+          "title": "Moderna美股盘前涨超80%。",
+          "url": "https://wallstreetcn.com/livenews/3151747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
+          "title": "Moderna美股盘前涨超50%，默沙东前涨近6%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。其他疫苗股跟涨，BioNTech美股盘前涨近19%。",
+          "url": "https://wallstreetcn.com/livenews/3151745",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "Moderna美股盘前上涨超30%，公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响。",
+          "url": "https://wallstreetcn.com/livenews/3151743",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
+          "title": "塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。 第二季度调整后每股收益4.11美元。 第二季度同店销售额增长3.8%，预期增长2.43%。 塔吉特预计全年调整后每股收益为9.90至10.90美元。 塔吉特美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3151729",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
-          "url": "https://www.cls.cn/detail/2456722",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "特朗普支持率降至任内新低 八成美国人料美伊战事长期持续",
-          "url": "https://www.cls.cn/detail/2456808",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-18）",
-          "url": "https://flash.jin10.com/detail/20260818180928960800",
+          "title": "BioNTech SE(BNTX.O)美股盘前上涨14%，诺瓦瓦克斯医药(NVAX.O)盘前上涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20260819190644669800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "特朗普和加拿大总理卡尼周一就贸易问题通话。",
-          "url": "https://wallstreetcn.com/livenews/3150785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "19时28分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 18时33分]"
-        },
-        {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "李大霄谈美股融资潮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E8%9E%8D%E8%B5%84%E6%BD%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
-          "title": "美股期货小幅走低，标普500指数期货跌0.2%，纳斯达克100指数期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3150788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时52分"
+          "time_info": "19时28分"
         },
         {
-          "title": "爱奇艺美股盘前一度跌超8%，现跌幅收窄至不足4%，公司第二季度收入62.9亿元人民币，预估64亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3150999",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "19时28分"
         }
       ]
     },
@@ -219,43 +130,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
           "source": "知乎",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价阿里开源的 Qwen3.8-27B？",
-          "url": "https://www.zhihu.com/question/2071739761476293183",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -264,15 +158,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
-          "source": "财联社热门",
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     }
